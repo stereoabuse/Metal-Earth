@@ -43,9 +43,9 @@ python src/metal_archives_checker.py
 ```
 
 This will:
-- Read the proper nouns from `data/unique_proper_nouns.txt`
+- Read the proper nouns from `unique_proper_nouns.txt`
 - Check each name against Metal Archives
-- Save matches to `data/metal_band_matches.csv`
+- Save matches to `metal_band_matches.csv`
 
 The output CSV contains:
 - Name: The proper noun from Tolkien's work
@@ -73,8 +73,7 @@ The script includes a 0.5-second delay between Metal Archives requests to be res
 
 Contributions are welcome! Please feel free to submit a Pull Request. Some areas that could use improvement:
 
-- [ ] Add support for words from [Eldamo](https://eldamo.org/index.html)
-- [ ] Create visualization of most common Tolkien-inspired band names
+- [ ] Add support for words from Tolkien constructed languages [Eldamo](https://eldamo.org/index.html)
 - [ ] Add tests for the name extraction process
 
 ## License
@@ -86,12 +85,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Text data from [jblazzy/LOTR](https://github.com/jblazzy/LOTR)
 - [Metal Archives](https://www.metal-archives.com/) for their comprehensive database
 - All the metal bands keeping the spirit of Middle-earth alive 🤘
-
-## Contact
-
-If you have questions or want to contribute, feel free to:
-- Open an issue
-- Submit a pull request
 
 ---
 
