@@ -1,5 +1,14 @@
+
+.DS_Store
+
+# Python
 __pycache__/
 *.py[cod]
-*.csv
+*$py.class
+.Python
 venv/
-.DS_Store
+.env
+
+# IDE
+.vscode/
+.idea/
