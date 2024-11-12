@@ -47,10 +47,6 @@ This will:
 - Check each name against Metal Archives
 - Save matches to `metal_band_matches.csv`
 
-The output CSV contains:
-- Name: The proper noun from Tolkien's work
-- URL: Direct link to the band's Metal Archives page
-- Total Matches: Number of bands found with this name
 
 ## Example Output
 
@@ -67,7 +63,7 @@ Fangorn,https://www.metal-archives.com/bands/Fangorn/82431,4
 
 ## Rate Limiting
 
-The script includes a 0.5-second delay between Metal Archives requests to be respectful of their servers. Please do not modify this to make requests more frequent.
+The script includes a 0.3-second delay between Metal Archives requests to be respectful of their servers. Please do not modify this to make requests more frequent.
 
 ## Contributing
 
