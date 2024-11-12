@@ -1,14 +1,9 @@
 import ssl
-import urllib.request
-import os
+import requests
 from pathlib import Path
 
 def download_word_list():
     """Download a list of common English words, with SSL verification handling."""
-    
-    # Create an SSL context that doesn't verify certificates (use with caution)
-    ssl_context = ssl._create_unverified_context()
-    
     word_list_urls = [
         'https://raw.githubusercontent.com/dwyl/english-words/master/words.txt',
         'https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt'
@@ -20,8 +15,9 @@ def download_word_list():
     for url in word_list_urls:
         try:
             print(f"Downloading word list from {url}...")
-            response = urllib.request.urlopen(url, context=ssl_context)
-            content = response.read().decode('utf-8')
+            response = requests.get(url, verify=False)  # verify=False is equivalent to the previous SSL context
+            response.raise_for_status()  # Raise an exception for bad status codes
+            content = response.text
             words.update(word.strip().lower() for word in content.split())
             print(f"Successfully downloaded words from {url}")
             break  # Exit loop if successful
