@@ -1,4 +1,4 @@
-import ssl
+import unicodedata
 import requests
 from pathlib import Path
 
@@ -57,34 +57,49 @@ def read_texts():
     
     return texts
 
-def extract_proper_nouns(texts, common_words):
-    """Extract proper nouns from the texts."""
-    print("Analyzing word usage patterns...")
+
+def extract_proper_nouns(texts: list[str], common_words: set) -> set:
+    """Extract proper nouns from texts that aren't in common word list."""
+    words = set()
     
-    # Split texts into words and normalize
-    words = []
+    # First pass: collect all words
     for text in texts:
-        words.extend(word.strip('.,!?()[]{}:;"\'') for word in text.split())
+        for word in text.split():
+            # Skip if word is too short
+            if len(word) < 2:
+                continue
+                
+            # Check if first character is uppercase
+            if not word[0].isupper():
+                continue
+            
+            # Just remove punctuation, keeping original case
+            clean_word = ''.join(c for c in word if c.isalpha())
+            
+            # Skip if empty after cleaning
+            if not clean_word:
+                continue
+                
+            # Skip if it's a common word (lowercase comparison)
+            if clean_word.lower() in common_words:
+                continue
+            
+            # Standardize to Title Case
+            clean_word = clean_word.title()
+            words.add(clean_word)
     
-    print("Identifying proper nouns...")
-    proper_nouns = set()
-    
+    # Second pass: remove plurals if singular exists
+    filtered_words = set()
     for word in words:
-        # Basic proper noun rules:
-        # 1. Starts with capital letter
-        # 2. Not at start of sentence
-        # 3. Not a common word
-        if (word and word[0].isupper() and 
-            len(word) > 1 and
-            word.lower() not in common_words):
-            proper_nouns.add(word)
+        # If word ends in 's' and its singular form exists in our set,
+        # skip it. Otherwise, add it to our filtered set.
+        if word.endswith('s'):
+            singular = word[:-1]
+            if singular in words:
+                continue
+        filtered_words.add(word)
     
-    print("Removing plurals...")
-    # Remove obvious plurals if singular exists
-    singles = {word[:-1] for word in proper_nouns if word.endswith('s')}
-    proper_nouns = {word for word in proper_nouns if not (word.endswith('s') and word[:-1] in singles)}
-    
-    return sorted(proper_nouns)
+    return filtered_words
 
 def main():
     # Download or load word list
@@ -98,11 +113,13 @@ def main():
     
     print(f"\nFound {len(proper_nouns)} unique proper nouns across all texts")
     
+    # Sort the proper nouns alphabetically
+    sorted_nouns = sorted(proper_nouns)
+    
     # Save results
     with open('unique_proper_nouns.txt', 'w') as f:
-        f.write('\n'.join(proper_nouns))
+        f.write('\n'.join(sorted_nouns))
     
     print("\nResults have been saved to 'unique_proper_nouns.txt'")
-
 if __name__ == "__main__":
     main()
