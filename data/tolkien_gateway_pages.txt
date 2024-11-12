@@ -1,20 +1,3 @@
-
-\A Far Green Country\
-\Courage Is the Best Defense\
-\Don't Be Hasty Master Meriadoc!\
-\For Frodo\
-\Hobbit Dinner\ in Rotterdam
-\I Can't Carry It for You... but I Can Carry You.\
-\No More Despair\
-\Something Has Gone Crack\
-\The Battle for Middle-earth is About to Begin\
-\The Deep Breath Before the Plunge\
-\The Eagles are Coming!\
-\Where is the Horse and the Rider?\
-\burned dwarf\
-(a)ranya
-(h)lókë
-(i)on
 ath
 dil
 dor
@@ -25,7 +8,6 @@ end
 hai
 ian
 ian(d)
-iand
 iel
 ielde
 ien
@@ -36,7 +18,6 @@ inde
 indo
 inen
 ing
-ings
 inqua
 ion
 issë
@@ -55,7 +36,6 @@ mar
 mbar
 mir
 mme
-mmë
 mund
 ndacil
 ndil
@@ -66,114 +46,52 @@ nguo
 nna
 nnar
 nte
-ntë
 nwe
 nya
 nye
-nyë
 rim
 rin
 rya
 sse
-ssë
 uva
 vea
-vëa
 waith
 wen
 yon
-...Of Forest And Fire...
-...Where the Shadows Lie
-A-NAK
+A
 A-NÁR
 A-affection
 A-lalla-lalla-rumba-kamanda-lind-or-burúmë
-A.F. Colborn
-A.F. Colburn
-A.J. Bliss
-A.R.R.R. Roberts
-A.R. Rahman
-A. F. Colborn
-A. J. Bliss
-ABA
-ABAR
-AB Language
-AB language
-AD-
-ADC
-ADC Art and Books
-ADC Books
-ADC Publications
-ADC Publications Ltd
-AF Colborn
-AIR
-AIWE
-AIWĒ
-AIWĒ-
-AK-
-ALAT
-AM-
-ANA
-ANAD
-ANAK
-ANGA
-ANGU
-ANGWA
-ANGÂ
-ANGĀ
-ANÁR
-ARI
-ATA
-ATB
-ATH
-ATHA
-AWA
-AYA
-AYA(R)
-AYAK
-AYAR
 A Brief History of The Hobbit
 A Campaign and Adventure Guidebook for Middle-earth
 A Casual Stroll to Mordor
 A Closed Letter to Andrea Charicoryides
 A Closed Letter to Andrea Charicoryides Surnamed Polygrapheus Logothete of the Theme of Geodesia in the Empire Bard of the Court of Camelot Malleus Malitiarium Inclinga Sum Sometimes Known as Charles Williams
-A Companion to J.R.R. Tolkien
-A Companion to J. R. R. Tolkien
 A Conspiracy Unmasked
 A Coronal of Silver and Gold
 A Coronel of Silver
 A Coronel of Silver and Gold
-A Critical Companion to J.R.R. Tolkien
 A Dark Passage
 A Daughter of Kings
 A Description of the Island of Númenore
-A Dictionary of Sources of Tolkien
-A Dictionary of Tolkien
 A Distant Flame Before the Sun
 A Elbereth Gilthoniel
-A F Colborn
 A Fan's Guide to Neo-Sindarin
-A Film Portrait of J.R.R. Tolkien
 A Fourteenth-Century Romance
 A Fragment of an Epice
 A Gateway to Sindarin
 A Glossary of the Eldarin Tongues
 A Good Omen
 A Guide to Middle-Earth
-A Guide to Middle-earth
 A Guide to Playing The Hobbit
-A Guide to Tolkien
 A Hobbit's Journal
 A Hobbit's Travels
 A Hobbit a Wardrobe and a Great War
 A Journey In The Dark
-A Journey in the Dark
 A Knife In The Dark
-A Knife in the Dark
 A Liar And A Thiefe
 A Long-Expected Soundscape
 A Long-expected Party
-A Long Expected Party
 A Map of Middle-earth
 A Meeting in the Hyades
 A Middle-earth Traveller
@@ -201,7 +119,6 @@ A Short Cut to Mushrooms
 A Short History of English Poetry
 A Short Ode to a Philologist
 A Short Rest
-A Shortcut to Mushrooms
 A Song of Aryador
 A Song of Bimble Bay
 A Spell Of Concealment
@@ -210,19 +127,6 @@ A Spy In Isengard
 A Storm Is Coming
 A Thief in the Night
 A Thunder Battle
-A Tolkien Bestiary
-A Tolkien Book of Days
-A Tolkien Compass
-A Tolkien Dictionary
-A Tolkien English Glossary
-A Tolkien Family Album
-A Tolkien Journal
-A Tolkien Miscellany
-A Tolkien Tapestry
-A Tolkien Thesaurus
-A Tolkien Treasury
-A Tolkienian Mathomium
-A Tribute to Tolkien
 A Troll-hoard
 A Very Respectable Hobbit
 A Walk Through the Shire
@@ -230,9 +134,6 @@ A Walking Song
 A Warm Welcome
 A World for Children
 A biography
-A companion to jrr tolkien
-A reader’s companion
-A to Z of Tolkien
 Ab-
 Abari
 Abattârik
@@ -249,7 +150,6 @@ Across the Streaming Tide
 Acta Senatus
 Activision
 Activities
-Activity
 Adalbert Bolger
 Adaldrida Bolger
 Adaldrida Brandybuck
@@ -260,7 +160,6 @@ Adam Brown
 Adam Fox
 Adam Hornblower
 Adam Roberts
-Adam Tolkien
 Adamant Chenni
 Adamanta Chubb
 Adamanta Took
@@ -269,7 +168,6 @@ Adanedhel
 Adanel
 Adaneth
 Adaptations
-Adapting Tolkien
 Adar
 Addison-Wesley
 Adelard Took
@@ -278,7 +176,6 @@ Admins
 Adorn
 Adrahil
 Adrahil I
-Adrahil II
 Adrift
 Adu
 Aduial
@@ -288,17 +185,9 @@ Adunakhor
 Adunaroth
 Aduni
 Adurant
-Adventure Quest
-Adventurer's Companion
-Adventures in Middle-earth
 Adventures in Unnatural History and Medieval Metres being the Freaks of Fisiologus
 Adventures of bombadil
-Adûn
-Adûnaic
-Adûnakhôr
-Adûni
 Ae Adar Nín
-Ae adar nin
 Aear
 Aearon
 Aefwine
@@ -311,8 +200,6 @@ Aelfheah
 Aelfwine
 Aelin
 Aelin-uial
-Aelin Uial
-Aelinuial
 Aeluin
 Aen
 Aer
@@ -328,25 +215,21 @@ Afros
 Afros and Gruir
 After-born
 After the King
-Afterborn
 Aftercomers
 Afterlithe
 Afteryule
 Agaldor
 Agandaur
-Agandaûr
 Agar
 Agarwaen
 Agatha
 Agathor
 Agathurush
 Age
-Ages
 Ages of Awakening
 Ages of Middle-earth
 Ages of the Children
 Ages of the Children of Iluvatar
-Ages of the Children of Ilúvatar
 Ages of the World
 Agh
 Aghan
@@ -356,7 +239,6 @@ Aglar
 Aglareb
 Aglarond
 Aglon
-Aglâb
 Agnieszka Sylwanowicz
 Aha
 Ai-mênu
@@ -364,78 +246,59 @@ Aia
 Aia María
 Aica
 Aicanaro
-Aicanáro
 Aicasse
 Aidan Turner
 Aiglos
 Aiglos Special Issue I
-Aiglos Special Issue II
+Aiglos Special Issue
 Aigos
 Aika
 Aikaldamor
 Aikanaro
-Aikanáro
 Aikasse
 Ailin
 Ailinel
 Ailinone
 Ailinoni
-Ailinóne
-Ailinónë
 Ailior
 Ailios
 Ailuvin
 Ailwing
-Aimênu
 Aina
 Ainairos
 Ainatar
 Aini
 Ainu
 Ainulindale
-Ainulindalë
 Ainur
 Ainurarda
 Aipen
 Air New Zealand
-Aire
 Airefëa
 Airi
 Airin
-Airë
 Airë Tári
 Aival
 Aivrin
 Aiwala
-Aiwe
 Aiwendil
 Aiwenórë
 Aiwl
-Aiwë
 Aiya
 Aiya Eärendil elenion ancalima!
 Akairis
 Akaldamor
 Akallabeth
-Akallabeth MUSH
-Akallabêth
-Akallabêth and other Tolkien Works
-Akallabêth and other Tolkien works
 Ake Jonsson
 Ake Ohlmarks
 Aksa
 Ala-
 Alag
 Alaire
-Alairë
 Alak
 Alalbinórë
 Alalminor
-Alalminore
-Alalminóre
-Alalminórë
 Alalvinórë
-Alan B. Clark
 Alan Bliss
 Alan Clark
 Alan Howard
@@ -448,7 +311,6 @@ Alata
 Alatairë
 Alatar
 Alatariel
-Alatáriel
 Albarim
 Albarth
 Albert Dreary
@@ -459,16 +321,12 @@ Albums by year
 Alcar
 Alcar i Ataren
 Alcar mi Tarmenel na Erun
-Alcar mi tarmenel na Erun
 Alcarin
 Alcarinque
-Alcarinquë
 Alcarondas
 Alchemy in Middle-earth
 Alda
 Aldalome
-Aldalóme
-Aldalómë
 Aldamir
 Aldar
 Aldarion
@@ -481,11 +339,7 @@ Aldor
 Aldor the Old
 Aldred Cartwright
 Aldudenie
-Aldudénie
-Aldudénië
 Alduya
-Aldëa
-Aldúya
 Alex Lewis
 Alexander Cameron
 Alexander John
@@ -508,14 +362,13 @@ Alkarinquë
 All-Welcome Inn
 All That Is Gold Does Not Glitter
 All that Glitters
-All that is Gold Does Not Glitter
 Allegiance to Denethor
 Allen & Unwin
 Allen and Unwin
 Alley of Roses
 Alliance of Dwarves and Men
 Alloyed
-Allsorts PBM Games
+Allsorts
 Alm
 Almaida
 Almaren
@@ -523,21 +376,14 @@ Almarian
 Almariel
 Almiel
 Almost There And Back Again
-Almáriel
 Alphe
 Alphabet of Rumil
-Alphabet of Rúmil
 Alphros
 Alqalunte
-Alqaluntë
 Alqarámë
 Alqua
 Alqualonde
-Alqualondë
 Altariel
-Altarielle
-Altariellë
-Altáriel
 Aluin
 Alviska fraser
 Alwin Arundel Lowdham
@@ -552,13 +398,10 @@ Amandil of Númenor
 Amanyar
 Amaranth Brandybuck
 Amarie
-Amarië
 Amarth
 Amarthan
 Amarthiel
 Amazon
-Amazon.com Incorporated
-Amazon MGM Studios
 Amazon Studios
 Amazon series
 Amba
@@ -568,23 +411,17 @@ Ambar-metta
 Ambarkanta
 Ambarkanta maps
 Ambarmenie
-Ambarmenië
 Ambarona
 Ambartanen
 Ambarto
 Ambarussa
 Ambaráto
-Ambaróna
 Ambush at Fangorn Forest
 Ambush at Weathertop
 Amdir
-Amdír
 Amelie Child Villiers
-American Mensa Tolkien Special Interest Group
-American Tolkien Society
 Amethyst Hornblower
 Amilesse
-Amilessë
 Amillo
 Amlach
 Amlaith
@@ -598,7 +435,6 @@ Amon Amarth
 Amon Anwar
 Amon Darthir
 Amon Din
-Amon Dîn
 Amon Ereb
 Amon Ethir
 Amon Gwared
@@ -609,9 +445,7 @@ Amon Lanc
 Amon Lhaw
 Amon Obel
 Amon Rudh
-Amon Rûdh
 Amon Sul
-Amon Sûl
 Amon Sûl-stone
 Amon Tirith
 Amon Uilos
@@ -626,44 +460,34 @@ Amroth and Nimrodel
 Amroth and Rimrodel
 Amrothos
 Amrûn
-Amy H. Sturgis
 Amy Sturgis
-Amân
 An-
 An Afternoon in Middle-earth
 An Ancient Enemy
 An Artist's Interpretation of Middle Earth
-An Atlas of Tolkiene
 An Edition of Þe Liflade ant te Passiun of Seinte Iuliene
-An Encyclopedia of Tolkien
 An Evening in Rivendell
 An Evening in Tavrobel
 An Everyday Tale of a Seeker of Gold
 An Extrapolation on The Silmarillion
-An Interview with J.R.R.T.
 An Introduction to Elvish
 An Introduction to Old Norse
 An Unexpected Adventure
 An Unexpected Journey
 An Unexpected Party
-An unexpected journey
 Anach
 Anadune
-Anadûnê
 Anaire
-Anairë
 Anann
 Anar
 Anar the Dwarf
 Anardil
 Anardil of Gondor
 Anardil of Numenor
-Anardil of Númenor
 Anardilya
 Anarion
 Anarion son of Elendil
 Anarrima
-Anarríma
 Anarya
 Anaxarta
 Anborn
@@ -673,8 +497,7 @@ Ancalagon
 Ancalima
 Ancalime
 Ancalimon
-Ancalimë
-Ancestry of Aragorn II
+Ancestry of Aragorn
 Ancient Houses
 Ancient Mariner
 Ancient West
@@ -687,18 +510,14 @@ Andafangar
 Andaith
 Andamacil
 Andave
-Andavë
 Anders Blixt
 Anders Stenstrom
-Anders Stenström
 Andesalke
-Andesalkë
 Ando
 Ando Lómen
 Andor
 Andram
 Andrast
-Andraste
 Andrath
 Andreas Moehn
 Andreas Möhn
@@ -706,7 +525,6 @@ Andreth
 Andrew Broad
 Andrew Butler
 Andrew Chaikin
-Andrew H. Morton
 Andrew Higgins
 Andrew Lesnie
 Andrew Morton
@@ -716,36 +534,27 @@ Androg
 Androth
 André Morell
 André Sogliuzzo
-Andróg
 Anducal
 Anduin
 Anduin Vale
-Anduin Vales
-Anduinë
 Andunie
 Anduril
 Anduril-Flame of the West
 Anduril Sword prop replica
 Andustar
 Andvir
-Andvír
 Andwise Roper
 Andy Pessoa
 Andy Roper
 Andy Serkis
 Andúne
-Andúnië
-Andúnë
-Andúril
 Andúril's sheath
-Andúril - Flame of the West
 Anemones
 Anfalas
 Anfangrim
 Anfauglir
 Anfauglith
 Ang
-Anga
 Angaina
 Angaino
 Angainor
@@ -753,11 +562,9 @@ Angainu
 Angal-limpë
 Angalailin
 Angamaite
-Angamaitë
 Angamandi
 Angamando
 Angarato
-Angaráto
 Angband
 Angbands Schmieden
 Angbor
@@ -776,22 +583,17 @@ Anglachel
 Angle
 Angle of Eriador
 Angle of Lorien
-Angle of Lórien
 Angles and Britons
 Anglo-Saxon
-Anglo-Saxon Community in J.R.R. Tolkien's the Lord of the Rings
 Anglo-Saxon dictionary
 Anglor
 Angmar
-Angmar Malmö Tolkiensällskape
 Angmar War
 Angmar conflict
-Angmar war
 Ango
 Angol
 Angolodh
 Angomaite
-Angomaitë
 Angor
 Angren
 Angrenost
@@ -802,16 +604,12 @@ Angruin
 Anguirel
 Anguloke
 Angulócë
-Angulóke
-Angulókë
 Angus McBride
 Angus McBride's Characters of Middle-earth
 Angus McIntosh
 Angwi
 Anim
-Animal
 Animalic
-Animals
 Anja Hegemann
 Anka
 Anke Eissman
@@ -832,24 +630,18 @@ Annals of Beleriand
 Annals of Valinor
 Annatar
 Anne Besson
-Anne C. Petty
 Anne Petty
 Annerchin
 Annette Crosbie
 Annie Lennox
 Annon
 Annon-In-Gelydh
-Annon-in-Gelydh
 Annotated hobbit
 Annotated map
 Annuminas
 Annun
 Annunaid
-Annúminas
 Annúminas-stone
-Annún
-Annúnaid
-Annûn
 Anor
 Anor-stone
 Anorien
@@ -863,25 +655,18 @@ Anthony Daniels
 Anthony Hyde
 Anthony Jackson
 Anthony Kenny
-Anthony S. Burdge
 Anto
 Antonio Quadros
 Antony Sher
-Ants
 Antti Autio
-António Quadros
 Anwa
 Anwar
-Anárion
 Anárion's defence of Osgiliath
 Anárion's defense of Osgiliath
-Anárion son of Elendil
 Anárioni
 Aníron
-Anórien
 Aotrou and Itroun
 Apanonar
-Apanónar
 Apes
 Aphanuzir
 Apolausticks
@@ -896,37 +681,21 @@ Apple
 Apple Trees
 Appledore
 Appledore Family
-Apples
 April
 Aqualonde
-Aqualóndë
 Ar-
 Ar-Abattarik
-Ar-Abattârik
 Ar-Adunakhor
-Ar-Adûnakhôr
 Ar-Aphanuzir
 Ar-Balkumagân
 Ar-Belzagar
 Ar-Feiniel
 Ar-Gimilzor
-Ar-Gimilzôr
 Ar-Inziladun
-Ar-Inziladûn
 Ar-Pharazon
-Ar-Pharazôn
 Ar-Sakalthor
-Ar-Sakalthôr
 Ar-Zimraphel
 Ar-Zimrathon
-Ar-Zimrathôn
-Ar abattarik
-Ar adunakhor
-Ar belzagar
-Ar gimilzor
-Ar pharazon
-Ar sakalthor
-Ar zimrathon
 Ara
 Arachon
 Aracorno
@@ -938,26 +707,18 @@ Araglas
 Aragorn
 Aragorn's Quest
 Aragorn's Return
-Aragorn's quest
 Aragorn Son of Arathorn polystone bust
 Aragorn Elessar
 Aragorn I
-Aragorn II
-Aragorn II Elessar
 Aragorn Masters the Palantír
 Aragorn Takes the Paths of the Dead
 Aragorn as Strider polystone statue
-Aragorn ii
-Aragorns quest
 Aragost
 Arahad
 Arahad I
-Arahad II
-Arahad ii
 Arahael
 Arakano
 Arakorno
-Arakáno
 Araman
 Aramund
 Aran
@@ -969,29 +730,23 @@ Aran Moria
 Aranarth
 Arandor
 Arandur
-Arandórë
 Aranel
 Aranhir
 Arannor
 Aranruth
-Aranrúth
 Arantar
 Aranuir
 Aranwe
 Aranwen
 Aranwion
-Aranwë
 Araphant
 Araphor
-Aras
 Arassuil
 Arata
 Aratan
 Aratar
 Arathorn
 Arathorn I
-Arathorn II
-Arathorn ii
 Araval
 Aravir
 Aravorn
@@ -1000,9 +755,7 @@ Arbour of the Thrushes
 Arca
 Arcastar
 Arch of Ingwe
-Arch of Ingwë
 Arch of Inwe
-Arch of Inwë
 Archet
 Arciryas
 Arctic
@@ -1011,7 +764,6 @@ Arctick
 Ard-galen
 Arda
 Arda-sallskapet
-Arda-sällskapet
 ArdaCraft
 Arda Alahasta
 Arda Envinyanta
@@ -1027,19 +779,14 @@ Arda Society
 Arda Unmarred
 Arda Valarwa
 Arda Vanya
-Arda healed
 Arda Úvana
-Ardacraft
 Ardalambion
 Ardaliskea
 Ardamin
 Ardamir
 Ardamir son of Axantur
-Ardamírë
-Arden R. Smith
 Arden Ray Smith
 Arden Smith
-Ardgalen
 Are
 Are Nuquerna
 Aredhel
@@ -1049,10 +796,7 @@ Arfanyaras
 Arfanyarassë
 Argeleb
 Argeleb I
-Argeleb II
-Argeleb ii
 Argentina
-Argentine Tolkien Association
 Argirion
 Argoldo
 Argon
@@ -1061,7 +805,6 @@ Argonath
 Argonui
 Arien
 Arise arise Riders of Theoden!
-Arise arise Riders of Théoden!
 Arkenstone
 Arktik
 Arlisgion
@@ -1069,17 +812,13 @@ Armenelos
 Armies of the West
 Arminas
 Army of the Dead
-Army of the West
-Army of the dead
 Arnach
 Arnanor
-Arnanórë
 Arne Björkman
 Arne Zettersten
 Arnen
 Arnore
 Arnorian
-Arnorians
 Arod
 Aromez
 Aron
@@ -1107,12 +846,6 @@ Arthad
 Arthedain
 Arthorien
 Arthur
-Arthur Rankin Jr.
-Arthur Reuel Tolkien
-Arthur Tolkien
-Arthórien
-Articles by J.R.R. Tolkien
-Articles by Tolkien
 Artist and Illustrator
 Aruman
 Arundel Lowdham
@@ -1123,25 +856,19 @@ Arvedui Last-king
 Arvegil
 Arveleg
 Arveleg I
-Arveleg II
-Arveleg ii
 Arvenien
 Arvernien
 Arwen
 Arwen's Fate
 Arwen's Vision
-Arwen-undomiel.com
 Arwen Evenstar
 Arwen Undomiel
-Arwen Undómiel
 Arwen polystone statue
 Aryador
 Aráto
-Arōmēz
 Ascar
 Asea
 Asea Aranion
-Asea aranion
 Asfaloth
 Asgar
 Asgon
@@ -1150,7 +877,6 @@ Ash Mountains
 Ash and Smoke
 Ashen Cold
 Ashen Mountains
-Ashes
 Ashy Mountains
 Asphodel
 Asphodel Brandybuck
@@ -1162,9 +888,6 @@ Assault on Dolni Keep
 Assault upon Dol Guldur
 Assaults on Hithlum
 Assaults on Lothlórien
-Asses
-Associazione Italiana Studi Tolkieniani
-Associazione italiana studi Tolkieniani
 Asta
 Astaldo
 Astar
@@ -1173,67 +896,46 @@ Astrid
 Astrid Lindgren
 Astron
 Astulat
-Asëa
-Asëa Aranion
-Asëa aranion
 At Dawn in Rivendell
 At Rivendell
 At The Sign Of The Prancing Pony
 At the End of the Quest Victory
 At the Green Dragon
-At the Sign of The Prancing Pony
-At the Sign of the Prancing Pony
 Atalante
-Atalantë
 Atan
 Atanalcar
 Atanamir
 Atanatar
 Atanatar I
-Atanatar II
-Atanatar II Alcarin
-Atanatar ii
-Atanatari
 Atanatarion
 Atanatári
-Atanatárion
 Atandil
 Atani
 Atar
 Ataremma
 Atarincë
 Atarinke
-Atarinkë
 Atarinya
-Ath
-Athae
 Athelas
 Athrabeth
 Athrabeth Finrod Ah Andreth
-Athrabeth Finrod ah Andreth
 Athrad
 Athrad Angren
 Atkins
 Atlantis
 Atlantis-haunting
 Atlas of Middle-earth
-Atlas of Middle Earth
-Atlas of middle-earth
-Atlas of middle earth
 Atli Spider-bane
 Atta
 Attack Troll polystone bust
 Attack of the Orcs
 Attack on Dol Guldur
 Attacks of Taste
-Attacks of taste
 Atyamar
 Au-
 Auden
 Audio recordings
-Audio recordings of J.R.R. Tolkien
 Audiobook
-Audiobooks
 Audoin
 Audoin Errol
 Audrey Corman
@@ -1246,40 +948,25 @@ Aulendil
 Aulendil of Númenor
 Aulendur
 Aulenosse
-Aulenossë
 Auleonnar
-Aulë
-Aulëan
-Aulëonnar
 Aur
-Aure
 Aure entuluva!
 Auredhir
 Aureldi
 Aurochs
 Auros
-Aurë
-Aurë entuluva!
 Ausa
 Ausir
 Australia
-Australian Tolkien Society
 Austria
-Austrian Tolkien Society
 Auta
-Auta-
 Auth
 Authorities
-Authors
 Auzeldi
 Auþa
 Ava
-Ava-
 Avakuma
 Avallone
-Avallonë
-Avallóne
-Avallónë
 Avanier
 Avar
 Avari
@@ -1290,11 +977,9 @@ Avlon
 Avon
 Avradî
 Avranc
-Avánier
 Awakening of Elves
 Awakening of Men
 Awakening of the Elves
-Awakening of the elves
 Awarth
 Awartha-
 Axan
@@ -1304,62 +989,32 @@ Axe
 Axe Strike
 Axe of Tuor
 Axe or Sword?
-Axes
-Aya
 Ayanûz
 Azaghal
-Azaghâl
 Azanul
 Azanulbizar
 Azog
 Azra
 Azrubêl
 Aîvrien
-Aïlior
 Aþâraigas
 Aþâraphelûn
-Aþāraphelūn
 Aȝūlēz
-BAD
-BAL
-BAN
-BAR
-BARAS
-BARAT
-BARATH
-BARÁD
-BARÁN
-BARÁS
-BAT
-BBC
-BEL
-BEN
-BER
-BEREK
-BERÉK
 Bablon
 Back Door
-Bad
 Bad Uthwen
 Badger-brock
 Badger-folk
-Badgerbrock
-Badgerfolk
 Badgers
 Badhor
 Bag-End
-Bag End
 Baggins
 Baggins Family
-Baggins family
 Bagme Bloma
-Bagmē Blōma
 Bagronk
 Bagshot Row
 Baillie Klass
-Baillie Tolkien
 Bain
-Bal
 Balan
 Balannor
 Balar
@@ -1373,7 +1028,6 @@ Balfor
 Balin
 Balin's Colony
 Balin's Tomb
-Balin's colony
 Balin's folk
 Balkumagân
 Ballantine
@@ -1382,47 +1036,33 @@ Balrog
 Balrog of Moria
 Balrog wings
 Balrogath
-Balrogs
-Balrogs/Wings
-Balrogs/wings
 Bamfurlong
-Ban
 Ban(a)
 Ban of the Valar
 Banakil
 Banazir
-Banazîr
 Band
 Bandobras
 Bandobras Took
-Bands
 Bane
 Bane of Glaurung
 Banks
 Banks Family
-Banks family
 Bann
 Bannoth
 Bansil
-Bar
 Bar-en-Danwedh
 Bar-en-Nibin-noeg
 Bar-erib
 Bar-in-Gwael
 Bar-in-Myl
-Bar-in-Mŷl
 Bar Bëora
-Bar Erib
 Bar Hador
-Bara
 Bara Dhair Haithin
 Barach
-Barad
 Barad-dur
-Barad-dûr
 Barad Eithel
 Barad Nimras
-Baraddur
 Baragund
 Barahir
 Barahir's Outlaw Band
@@ -1431,8 +1071,6 @@ Barahir grandson of Faramir
 Barahir son of Bregor
 Barahir son of Hador
 Barahir the Bold
-Barahir the bold
-Baran
 Baranduin
 Baranor
 Baranor of Gondor
@@ -1440,40 +1078,25 @@ Baranor son of Baran
 Baravorn
 Baraz
 Baraz-inbar
-Barazinbar
 Barbara Remington
 Barbara Strachey
 Barbie
 Bard
 Bard A Man Of Lake-Town
 Bard I
-Bard II
-Bard ii
 Bard the Bowman
-Barding
-Bardings
 Bargrisar
 Bark
 Barliman Butterbur
 Barrel-rider
 Barrels Out Of Bond
-Barrels Out of Bond
 Barren Land
-Barren Lands
 Barrovian
 Barrovian society
-Barrovians
 Barrow-blade
-Barrow-blades
 Barrow-downs
 Barrow-swords
 Barrow-wight
-Barrow-wights
-Barrow Downs
-Barrow downs
-Barrow wights
-Barrowdowns
-Barrowdowns.com
 Barrowfield
 Barrows
 Barry Humphries
@@ -1481,13 +1104,10 @@ Bartham
 Baruk
 Baruk Khazâd! Khazâd ai-mênu!
 Basic Quenya
-Basil Bunting and J.R.R. Tolkien
 Basso Boffin
 Bath-songs
-Bats
 Battle-pit
 Battle Fury
-Battle Pit
 Battle Plain
 Battle for Osgiliath
 Battle for the Mountain
@@ -1506,7 +1126,6 @@ Battle of Five Armies
 Battle of Fornost
 Battle of Greenfields
 Battle of Helm's Deep
-Battle of Helms Deep
 Battle of Isengard
 Battle of Lamentation
 Battle of Maldon
@@ -1515,29 +1134,14 @@ Battle of Osgiliath
 Battle of Palisor
 Battle of Pelennor Fields
 Battle of Ros
-Battle of Rôs
 Battle of Sarn Athrad
 Battle of Sudden Flame
 Battle of Tasarinan
 Battle of Tumhalad
 Battle of Unnumbered Tears
-Battle of azanulbizar
-Battle of dagorlad
-Battle of dimrill dale
-Battle of erui
-Battle of five armies
-Battle of green fields
-Battle of greenfields
-Battle of helm's deep
-Battle of helms deep
 Battle of hornburg
 Battle of lammoth
-Battle of nanduhirion
 Battle of pelennor
-Battle of pelennor fields
-Battle of ros
-Battle of sudden flame
-Battle of tasarinan
 Battle of the Bridge
 Battle of the Camp
 Battle of the Chamber of Mazarbul
@@ -1548,7 +1152,6 @@ Battle of the Field of Celebrant
 Battle of the Five Armies
 Battle of the Fords of Isen
 Battle of the Gelion-Ascar Stockade
-Battle of the Gelion-Ascar stockade
 Battle of the Gladden Fields
 Battle of the Green Fields
 Battle of the Gwathló
@@ -1568,56 +1171,36 @@ Battle of the Second Hall
 Battle of the Silent Pools
 Battle of the Somme
 Battle of the Thousand Caves
-Battle of the crossing of erui
-Battle of the crossings of erui
 Battle of the dagorlad
-Battle of the five armies
-Battle of the green fields
-Battle of the greenfields
-Battle of the heath of the sky-roof
-Battle of the heath of the sky roof
-Battle of the hornburg
-Battle of the lammoth
-Battle of the pelennor
-Battle of the silent pools
 Battle of the sudden flame
 Battle under the Stars
 Battle under the trees
 Battlelore
-Battlepit
 Battles of Beleriand
-Battles of the Fords of Isen
 Battles of the Third Age
 Bauglir
 Bay of Andunie
-Bay of Andúnië
 Bay of Balar
 Bay of Belfalas
 Bay of Eldamar
 Bay of Eldanna
 Bay of Rómenna
-Bay of andunie
 Bay of forochel
 Bays
 Beacon
 Beacon-hills
 Beacon Towers
-Beacon hill
 Beacons of Gondor
 Bealuwérig
 Beam Software
 Bear
 Bear McCreary
-Bears
-Beasts of Tolkien
 Beater
 Beau-Jolly
 Beautiful Place because Trees are Lovede
 Bee
 Beechbone
 Beeches
-Bees
-Bel
 Belain
 Belarum
 Belaurien
@@ -1629,12 +1212,9 @@ Beldir
 Beldis
 Belecthor
 Belecthor I
-Belecthor II
-Belecthor ii
 Beleg
 Beleg's whetting spell
 Beleg Cuthalion
-Beleg Cúthalion
 Beleg Strongbow
 Beleg of Arthedain
 Belegaer
@@ -1644,7 +1224,6 @@ Belegost
 Belegund
 Belegur
 Belegurth
-Belegûr
 Belemir
 Belen
 Belenthrond
@@ -1677,14 +1256,10 @@ Bent World
 Beor
 Beor the Old
 Beorians
-Beorings
 Beorn
 Beorn's Hall
-Beorn's Halls
 Beorn's house
 Beorn leggi
-Beorning
-Beornings
 Beowulfe
 Beowulf Launch Party
 Beowulf and the Critics
@@ -1698,13 +1273,11 @@ Beregond
 Beregond Anders Stenström
 Beregond Steward of Gondor
 Beregond soldier of Gondor
-Berek
 Berelach
 Beren
 Beren Steward of Gondor
 Beren Erchamion
 Beren and Luthien
-Beren and Lúthien
 Beren son of Belemir
 Berennyn
 Berennyr
@@ -1727,7 +1300,6 @@ Berthil
 Beruthiel
 Berylla Baggins
 Berylla Boffin
-Berúthiel
 Besain
 Bestiary
 Beth
@@ -1744,7 +1316,6 @@ Bifur
 Big Folk
 Big People
 Bigature
-Bigatures
 Bilbo
 Bilbo's Birthday Party
 Bilbo's Farewell Party
@@ -1761,8 +1332,6 @@ Bilbo Baggins
 Bilbo Baggins Global Cafe and Restaurant
 Bilbo Gardner
 Bilbo Slider Puzzle
-Bilbo’s Birthday Speech
-Bilbo’s birthday speech
 Bilink
 Bilink Bilink!
 Bill
@@ -1777,7 +1346,6 @@ Bill Nighy
 Bill Stickers
 Bill Welden
 Bill the Pony
-Bill the pony
 Billett Potter
 Billy Barty
 Billy Boyd
@@ -1785,14 +1353,10 @@ Billy Connolly
 Billy Mosig
 Bin
 Bindbale Wood
-Bindbale wood
 Bindbole Wood
-Bindbole wood
 Binding Them All
 Bingo Baggins
 Biographies
-Biographische theologische und literaturpsychologische Analysen zur Person und zum Werk J.R.R. Tolkiens
-Biography
 Biography books
 Bior
 Birches
@@ -1821,12 +1385,8 @@ Black Lance
 Black Land
 Black Mountains
 Black Numenoreans
-Black Númenórean
-Black Númenóreans
 Black Pit
-Black Pits
 Black Rider
-Black Riders
 Black Serpent
 Black Shadow
 Black Speech
@@ -1835,19 +1395,13 @@ Black Stone of Erech
 Black Sword
 Black Years
 Black and White Ogre Country
-Black arrow
-Black breath
 Black of Orc premium format figure
-Black serpent
-Black speech
 Black squirrels
 Blacklock
-Blacklocks
 Blackroot
 Blackroot Vale
 Blackwold
 Blackwold's Roost
-Blackwolds
 Blackwood
 Blade of Westernesse
 Bladorinand
@@ -1867,19 +1421,14 @@ Bloodstained
 Blooting
 Blotmath
 Blue Mountain
-Blue Mountains
 Blue Ring
 Blue Wizard
-Blue Wizards
-Blue wizards
 Blunderbuss
 Blunt the Knives
-BoLT
+B
 Bo Hansson
 Boar of Everholt
 Board-games
-Board games
-Boardgames
 Boars
 Bob
 Bob Blackham
@@ -1887,24 +1436,19 @@ Bob Joles
 Bob Papenbrook
 Bodleian
 Bodleian Libraries
-Bodleian Library
 Bodo Proudfoot
 Bodruith
 Bodyguard of Bolg
 Boffin
 Boffin Family
-Boffin family
 Bofur
 Bogans
 Bogi
 Bogs
 Boldog
-Boldogs
 Bolg
 Bolger
 Bolger Family
-Bolger family
-Bolgers
 Bolli
 Bombadil
 Bombadil's House
@@ -1914,27 +1458,19 @@ Bonfire Glade
 Bonniejean Christensen
 Bony ridge
 Book I
-Book II
-Book III
-Book IV
+Book
 Book V
-Book VI
 Book of Foxrook
 Book of Jonah
 Book of Lost Tales
 Book of Lost Tales I
-Book of Lost Tales II
 Book of Mazarbul
 Book of Records
-Book of lost tales
-Book of mazarbul
 Book of the Foxrock
 Book of the Foxrook
 Book of the Kings
 Books
-Books by J.R.R. Tolkien
 Books by year
-Books in Tolkien's library
 Bor
 Bored of the Rings
 Borgil
@@ -1944,13 +1480,11 @@ Borlach
 Borlad
 Borlas
 Born of Hope
-Born of hope
 Boromir
 Boromir's Sacrifice
 Boromir's belt
-Boromir son of Denethor II
+Boromir son of Denethor
 Boromir I
-Boromir II
 Boromir of Ladros
 Boromir polystone statue
 Boromir son of Denethor I
@@ -1961,7 +1495,6 @@ Borosaith
 Borthand
 Bosco Boffin
 Bounder
-Bounders
 Bournemouth
 Bovadium
 Bovadium Fragment
@@ -1970,25 +1503,20 @@ Bow of Bregor
 Bow of the Galadhrim
 Bowls
 Bowman Cotton
-Bows
 Bracegirdle
 Bracegirdle Family
-Bracegirdle family
 Brad Dourif
 Bradford Lee Eden
-Bradley J. Birzer
 Braga
 Braglorin
 Bragol
 Braids
 Bralda-him
-Bralda-hîm
 Braldagamba
 Brambles of Mordor
 Brand
 Branda
 Branda-nin
-Branda-nîn
 Brandagamba
 Brandir
 Brandir of Arachon
@@ -1997,8 +1525,6 @@ Branduin
 Brandy Hall
 Brandybuck
 Brandybuck Family
-Brandybuck family
-Brandybucks
 Brandyfoot
 Brandyfoot Family
 Brandywine
@@ -2017,7 +1543,6 @@ Bred for War
 Bree
 Bree-Hill
 Bree-folk
-Bree-hill
 Bree-hobbits
 Bree-land
 Bree-landers
@@ -2025,7 +1550,6 @@ Bree-men
 Bree Calendar
 Bree Moot
 Bree and the Barrow-Downs
-Breeland
 Bregalad
 Bregalad's Song
 Bregil
@@ -2040,7 +1564,6 @@ Breogán
 Breredon
 Bret McKenzie
 Brethil
-Bri Tolkienselskabet i København
 Bri
 Brian Blessed
 Brian Cox
@@ -2052,11 +1575,9 @@ Brian Sibley
 Brian Talbot
 Brianne Siddall
 Bridge Inn
-Bridge inn
 Bridge of Baranduin
 Bridge of Esgalduin
 Bridge of Khazad-dum
-Bridge of Khazad-dûm
 Bridge of Nargothrond
 Bridge of Nimrodel
 Bridge of Osgiliath
@@ -2064,8 +1585,6 @@ Bridge of Stonebows
 Bridge of Tavrobel
 Bridge of Tharbad
 Bridge of stone
-Bridge of stonebows
-Bridge of tavrobel
 Bridgefields
 Bridges
 Bridget Buxton
@@ -2083,37 +1602,29 @@ Brithla
 Brithombar
 Brithon
 Brithonine
-Britt G. Hallqvist
 Broadbeam
-Broadbeams
 Broadbelt Brandybuck
 Brobdingnagian Bards
 Brockenbores
-Brockenborings
 Brockhouse
 Brockhouse Family
-Brockhouse family
 Brodda
 Brodda's hall
-Brodda's halls
 Brodda's house
 Bronwe's Folly
 Bronweg
 Bronwyn
 Bronwë
 Brook of Glass
-Brook of glass
 Broseliand
 Brother Theodore
 Brothers Hildebrandt
 Brothers and Friends
 Brown Family
 Brown Lands
-Brown family
 Brownie
 Brownlock
 Brownlock Family
-Brownlock family
 Bruce Allpress
 Bruce Hopkins
 Bruce Phillips
@@ -2125,7 +1636,6 @@ Bryan Cogman
 Bryce Fitzsimons
 Brytta
 Brytta Léofa
-Bráglorin
 Brânk
 Brôg
 Brýdleoþ
@@ -2135,7 +1645,6 @@ Bucca of the Marish
 Buck Hill
 Buckland
 Buckland Gate
-Bucklanders
 Bucklandish
 Bucklebury
 Bucklebury Ferry
@@ -2151,10 +1660,8 @@ Bummsdrápa
 Bumpkin
 Bunce
 Bunce Family
-Bunce family
 Bund
 Bundushathur
-Bundushathûr
 Bungo Baggins
 Burarum
 Burglar
@@ -2167,47 +1674,18 @@ Burning of Osgiliath
 Burnt Land of the Sun
 Burrowes
 Burrowes Family
-Burrows
-Burrows Family
-Burrows family
 Burz
 Burzum
-Burárum
 Butterbur
 Butterbur Family
 Butterflies
-Butterfly
 Buzundush
 Bywater
 Bywater Pool
 Bywater Road
-Bâd
-Béma
-Bêl
-Bêth
-Bëor
-Bëor the Old
 Bëor the Young
-Bëorians
-Bëorings
 Bívurr
-Bîn
-Bór
-Bôr
-Búrz
 Bŷr
-C.E. Stevens
-C.L. Wrenn
-C.S. Lewise
-C. S. Lewis
-CAN
-CBE
-CDC Games
-CHAOS Productions
-CL Wrenn
-CRL Group PLC
-CRT
-CS Lewis
 Cabbage
 Cabed
 Cabed-en-Aras
@@ -2236,7 +1714,6 @@ Calen
 Calenardhon
 Calendar
 Calendar of Imladris
-Calendars
 Calenhade
 Calenhir
 Calimehtar
@@ -2250,28 +1727,22 @@ Calma
 Calmacil
 Calmacil of Gondor
 Calmatema
-Calmatéma
 Calmindon
 Calorme
 Calthendin
 Calum Gittins
 Cam Clarke
 Cambridge
-Cambridge Tolkien Society
 Cambridge University
 Camel
 Camellia Sackville
-Camels
 Cameron Rhodes
 Camlost
-Can
-Can-
 Canad
 Canada
 Canafinwë
 Cano
 Canon
-Canonicity
 Canta
 Canto I Lay of Leithian
 Cantos of Lay of Leithian
@@ -2300,9 +1771,7 @@ Captured
 Capucine Mazille
 Carach Angren
 Caradhras
-Caradhras Södra latins Tolkiensällskap
 Caragdur
-Caragdûr
 Caramella Chubb
 Caran
 Carandaith
@@ -2313,7 +1782,6 @@ Caras Gaer
 Caras Galadhon
 Caras Galadon
 Caraxe
-Caraxë
 Carc
 Carcanet
 Carchaloth
@@ -2326,20 +1794,17 @@ Cardolan
 Carfa
 Carl
 Carl Cotton
-Carl F. Hostetter
 Carl Hostetter
 Carl Phelpstead
 Carma
 Carn Dum
-Carn Dûm
 Carnen
 Carnil
 Carnimirie
-Carnimírië
 Carnistir
 Carnë
 Carole Ruggier
-CarolinaCon Regional MECCG Newsletter
+CarolinaCon Regional
 Carolynne Cunningham
 Carrock
 Carthean
@@ -2363,14 +1828,12 @@ Catherine Chmiel
 Catherine Karina Chmiel
 Catherine McIlwaine
 Catholicism
-Cats
 Cats of Queen Berúthiel
 Caudimordax
 Caun
 Causeway
 Causeway Forts
 Cave-troll
-Cave-trolls
 Caverns of Narog
 Caves
 Caves of Androth
@@ -2387,7 +1850,6 @@ Celeb
 Celebdil
 Celeborn
 Celeborn Lord of Lorien
-Celeborn Lord of Lórien
 Celeborn White Tree
 Celebrant
 Celebren
@@ -2398,7 +1860,6 @@ Celebrindal
 Celebrindor
 Celebron
 Celebros
-Celebrían
 Celecormë
 Celeg
 Celeg Aithorn
@@ -2416,7 +1877,6 @@ Cemen
 Cemendur
 Cemendur of Gondor
 Cemendur of Númenor
-Central de JOCS S.L.
 Ceola
 Ceolwulf
 Ceorl
@@ -2425,15 +1885,12 @@ Cerin
 Cerin Amroth
 Cerin Erain
 Cermie
-Cermië
 Certh
 Certhan
 Certhas
 Certhas Daeron
 Ces
-Ces-
 Cesta
-Cesta-
 Chad Chisholm
 Chaining of Melkor
 Chamber of Mazarbul
@@ -2443,19 +1900,15 @@ Chance Thomas
 Changing of the World
 Chaos Studios
 Chapter
-Chapters
 Character Classes
 Characters
-Characters from Tolkien
 Charles Deenen
 Charles Dixon
-Charles E. Noad
 Charles Edwards
 Charles Leslie Wrenn
 Charles Moorman
 Charles Moseley
 Charles Noad
-Charles S. Noad
 Charles Williams
 Charles de Lint
 Charlie Vickers
@@ -2466,9 +1919,7 @@ Chate
 Chequers Clubbe
 Chernoe Kopjo
 Cherry Farm
-Chester N. Scoville
 Chesterton
-Chesterton and Tolkien as Theologians
 Chetwood
 Chica Chubb
 Chief
@@ -2479,29 +1930,20 @@ Chief of the guards
 Chieftain
 Chieftain of Brethil
 Chieftain of the Dunedain
-Chieftain of the Dúnedain
 Chieftain of the Haladin
 Chieftain of the North
-Chieftains of the Dunedain
-Chieftains of the Dúnedain
 Children of Aule
-Children of Aulë
 Children of Eru
 Children of Finarfin
 Children of Hurin
-Children of Húrin
 Children of Iluvatar
-Children of Ilúvatar
-Children of hurin
 Children of hurin audiobook
-Children of iluvatar
 Children of the Sun
 Children of the World
 Chill Gulf
 Chin
 China
 Chip the glasses and crack the plates
-Chip the glasses and crack the plates!
 Chithing
 Chris Bouchard
 Chris Crawshaw
@@ -2516,7 +1958,6 @@ Christ
 Christian History
 Christian Mythmakers
 Christianism
-Christianity
 Christie's The Albin Schram Collection of Autograph Letters
 Christina Scull
 Christmas
@@ -2530,18 +1971,13 @@ Christopher MacLachlan
 Christopher Mitchell
 Christopher Nightingale
 Christopher Scott
-Christopher Tolkien
 Christopher Wiseman
-Chronology of Tolkien's writings
 Chrysophylax
 Chubb
 Chubb-Baggins
 Chubb-Baggins Family
-Chubb-Baggins family
 Chubb Family
-Chubb family
 Chwind
-Chîn
 Ciaran
 Ciarán Hinds
 Cilyae
@@ -2554,7 +1990,6 @@ Cirion and Eorl
 Cirion and Eorl and the Friendship of Gondor and Rohan
 Cirith
 Cirith Duath
-Cirith Dúath
 Cirith Gorgor
 Cirith Ninniach
 Cirith Thoronath
@@ -2580,25 +2015,21 @@ City of Gondor
 City of the Kings
 Clamavi De Profundis
 Clap! Snap! The black crack!
-Clap! Snap! the black crack!
 Clarendon Chaucer
 Clash of the gods
 Clayhanger
 Clayhanger Family
-Clayhanger family
 Cleaving Blow
 Cliff Broadway
 Cliff House
 Cliffs
 CliffsNotes on The Lord of the Rings
-Cliffs Notes on Tolkien's The Lord of the Rings and The Hobbit
 Clive Revill
 Clive Staples Lewis
 Closed Door
 Cloudyhead
 Club-foot
 Clyde Kilby
-Clyde S. Kilby
 CoH
 Coasts
 Coat of mithril
@@ -2612,21 +2043,15 @@ Coffee
 Cogn
 Coimas
 Coire
-Coirë
 Cold-drake
-Cold-drakes
 Cold Be Hand and Heart and Bone
-Cold be hand and heart and bone
-Cold drakes
 Coldfells
 Coleman Charlton
-Colin C. Throm
 Colin Duriez
 Colin Hardie
 Colin Rudd
 Colin Throm
 Collected Poems
-Collected Poems of J.R.R. Tolkien
 Collectibles
 Colleen Doran
 Colm Meaney
@@ -2651,14 +2076,11 @@ Complete Songs and Poems
 Complete guide
 Computer games
 Conan Stevens
-Concerning ... 'The Hoard'
 Concerning Galadriel and Celeborn
 Concerning Hobbits
 Concerning Pipe-weed
-Concerning The Hoard
 Coneys
 Conin
-Conselho Branco Sociedade Tolkien
 Consolatrix Afflictorum
 Conspirators
 Constable Thistlewool
@@ -2667,7 +2089,6 @@ Contact
 Conventions
 Cookbooks
 Copernicus and Ptolemy
-Copernicus v. Ptolemy
 Copper
 Cor Blok
 Cora Goodbody
@@ -2680,23 +2101,14 @@ Cormacolindor
 Cormallen
 Cormare
 Cormare Series
-Cormarë
-Cormarë Series
 Cormath
 Corn
 Corollaire
-Corollairë
 Coron
 Coron Oiolaire
-Coron Oiolairë
 Corpse-candle
-Corpse-candles
-Corpse candle
-Corpse candles
 Corsair
 Corsair Wars
-Corsair wars
-Corsairs
 Corsairs of Umbar
 Corthirion
 Cortirion
@@ -2708,7 +2120,6 @@ Cottage of the Play of Sleep
 Cottar
 Cotton
 Cotton Family
-Cotton family
 Council in Mithrim
 Council of Elrond
 Council of Gondor
@@ -2726,10 +2137,8 @@ Courtenay Taylor
 Covad
 Coventry
 Cow
-Cows
 Crack of Doom
 Crack of Doom Software Adventure
-Cracks of Doom
 Craig Parker
 Cram
 Cranthir
@@ -2746,60 +2155,44 @@ Crispin Freeman
 Crissaegrim
 Crist
 Cristhorn
-Critical Companion to J.R.R. Tolkien
 Critique of \Distressing Tale of Thangobrind the Jeweler\
 Cross-bow
-Cross-bows
 Cross-roads
 Cross-roads of the Fallen King
-Crossbow
-Crossbows
 Crossing of Poros
 Crossing of Teiglin
 Crossings of Erui
-Crossings of Poros
 Crossings of Taeglin
 Crossings of Taiglin
-Crossings of Teiglin
 Crossings of the Taeglin
 Crow
 Crown of Gondor
 Crown of the Hidden Kingdom
-Crows
-Cs lewis
 Cu nan Eilch
 Cuind
 Cuivie
 Cuivienen
 Cuivienyarna
-Cuiviénen
-Cuivië
 Cul
-Cul-
 Cul Bin
 Cul Veleg
 Culture Communion and Recovery
 Culumalda
 Culurien
-Culúrien
 Cundo
 Curse of Mandos
-Curse of mandos
 Curso de Quenya
 Curu
 Curufin
 Curufinwe
-Curufinwë
 Curumo
 Curunir
-Curunír
 Curvo
 Cushing Memorial Library and Archives collection
 Cuthalion
 Cuthbert Rook
 Cuvonweg
 Cwen
-Cwén
 Cybexlab
 Cybexlab Software
 Cynegrim
@@ -2807,32 +2200,10 @@ Cynthia Addai-Robinson
 Cyrefinn
 Cyril Ritchard
 Czech Republic
-Czech Tolkien Society
 Cále
-Cálë
-Cáno
 Cánë
-Cára
-Câno
-Céolwulf
 Céva
-Círdan
-Círdan the Shipwright
-Côf
-Côf Belfalas
 Côl
-Cú nan Eilch
-Cúthalion
-Cûl
-Cûl Bîn
-Cûl Veleg
-Cāno
-D.N. Borrow
-DANT
-DAT
-DTG
-DYNTN
-DaS Production s.r.l.
 Dacil
 Daddy Twofoot
 Dae
@@ -2841,7 +2212,6 @@ Daeron
 Daffodil Burrows
 Dag
 Dagger of Westernesse
-Daggers of Westernesse
 Dagmor
 Dagnir
 Dagnir Glaurunga
@@ -2860,7 +2230,6 @@ Daimord
 Daimort
 Dain
 Dain I
-Dain II Ironfoot
 Dain Ironfoot
 Dain ii
 Dairon
@@ -2893,7 +2262,6 @@ Daniel Reeve
 Daniel Smith
 Daniel Steven Smith
 Daniel Weyman
-Dansk Tolkien Selskab
 Danuin
 Daphne Castell
 Daphne Cloke
@@ -2907,11 +2275,9 @@ Dark Country
 Dark Days
 Dark Door
 Dark Elf
-Dark Elves
 Dark Gate
 Dark Guard
 Dark Land
-Dark Lands
 Dark Lord
 Dark Mage of Rhudaur
 Dark Mountains
@@ -2923,7 +2289,6 @@ Dark Wizard
 Dark Years
 Darkening of Valinor
 Darker than the Darkness
-Darkness
 Darkness Unescapable
 Darlas
 Darrell Sweet
@@ -2952,9 +2317,6 @@ David Hemmings
 David Lodge
 David McDaniel
 David Salo
-David T. Wenzel
-David T. Wenzel's The Hobbit
-David T Wenzel
 David Weatherley
 David Wenham
 David Wenzel
@@ -2985,18 +2347,14 @@ Death and Immortality in Middle-earth
 Deathless
 Debate of the Quendi
 Debate of the Valar
-Deborah C. Rogers
 Deborah Rogers
 Deborah Webster
 Deborah Webster Rogers
 December
 Decipher
-Decipher Inc.
 Decipher Card
-Decipher Cards
 Dee Bradley Baker
 Deep-elves
-Deep Elves
 Deep Roots in a Time of Frost
 Deepdelver
 Deephallow
@@ -3014,12 +2372,9 @@ Deloth
 Delving
 Dem
 Demons
-Den besynnerlige professor Tolkien
 Denethor
 Denethor's Madness
 Denethor I
-Denethor II
-Denethor ii
 Denethor of the Nandor
 Denethor son of Lenwe
 Denis McCarthy
@@ -3033,7 +2388,6 @@ Deorwine
 Der Berggeist
 Der Kleine Hobbit
 Der Ring des Nibelungen
-Der kleine Hobbit
 Derek Jacobi
 Derek Prentice
 Derndingle
@@ -3047,30 +2401,22 @@ Deserts
 Desolation of Smaug
 Desolation of the Dragon
 Desolation of the Morannon
-Deutsche Tolkien Gesellschaft
-Deutsche Tolkien Gesellschaft e.V.
 Dewin
 Diamond of Long Cleeve
 Diana Glyer
 Diana Pavlac Glyer
 Diana Wynne Jones
 Diari dalla terza Era
-Diary of J.R.R. Tolkien
 Dick Plotz
-Dictionnaire Tolkien
 Didier Willis
 Didonas Brandybuck
 Die Walküre
 Dietrich Ebert
 Digging Potatoes Growing Trees
 Diggle Family
-Diggle family
-Digital Tolkien Project
-Dil
 Dilly Brandyfoot
 Dim
 Dimas Caparros Gomez
-Dimas Caparrós Gómez
 Dimassoft
 Dimbar
 Dimholt
@@ -3086,11 +2432,9 @@ Ding
 Dinodas Brandybuck
 Dior
 Dior Eluchil
-Dior Eluchíl
 Dior of Gondor
 Diplomatarium Islandicum manuscripts
 Dir Avosaith a Gwaew Hinar
-Dir avosaith a gwaew hinar
 Dirhael
 Dirhavel
 Dirhoel
@@ -3105,13 +2449,11 @@ Disaster of the Morannon
 Disney
 Djävulens nya klädere
 Do Worst
-Do worst
 Doble
 Doctor
 Doderic Brandybuck
 Dodinas Brandybuck
 Dog
-Dogs
 Dol
 Dol Amroth
 Dol Baran
@@ -3128,55 +2470,41 @@ Dominic Monaghan
 Dominion of Men
 Don Messick
 Don Woods
-Donald A. Wollheim
 Donald Gee
 Donald Swan
 Donald Swann
 Donato Giancola
 Donkey
-Donkeys
 Donnamira Took
 Doom of Mandos
 Doom of Men
 Doom of the Noldor
-Doom of the noldor
 Doombound
 Doomed to Die
 Doomsman of the Valar
 Door of Durin
 Door of Night
 Doors
-Doors of Durin
 Doors of Felagund
-Doors of Night
-Dor
 Dor-Cuarthol
-Dor-Cúarthol
 Dor-Daedeloth
 Dor-Daideloth
 Dor-Lómin
 Dor-Rodyn
 Dor-Winion
 Dor-en-Ernil
-Dor-lomin
-Dor-lómin
 Dor-na-Daerachas
 Dor-na-Dhaideloth
 Dor-na-Fauglith
 Dor-nu-Fauglith
 Dor Caranthir
 Dor Daedelos
-Dor Daedeloth
 Dor Dinen
-Dor Dínen
 Dor Faidwen
 Dor Firn-i-Chuinar
 Dor Firn-i-Guinar
-Dor Firn i-Guinar
 Dor Gyrth i chuinar
 Dor Lalmin
-Dor Lomin
-Dor Lómin
 Dor na Lalmion
 Dor nu Fuin
 Dora Baggins
@@ -3185,8 +2513,6 @@ Dori
 Doriath
 Doriathrin
 Dorlas
-Dorlomin
-Dorlómin
 Dornhoth
 Dorollas
 Dorongúr Whitethorn
@@ -3195,51 +2521,34 @@ Dorothy Mountain
 Dorothy Whitelock
 Dorothy Wood
 Dorthonion
-Dorwinion
-Doug Adams
-Douglas A. Anderson
 Douglas Anderson
-Douglas C. Kane
-Douglas C. Kenney
 Douglas Charles Kane
 Douglas Estes
 Douglas Kane
 Douglas Livingstone
 Dourhands
 Dove
-Doves
 Down Down To Goblin Town
 Downfall of Angband
 Downfall of Barad-dur
-Downfall of Barad-dûr
 Downfall of Numenor
-Downfall of Númenor
 Downfallen
-Doworst
 Dr Death
 Drachenschmeide
 Dragon
 Dragon-helm
 Dragon-helm of Dor-lomin
-Dragon-helm of Dor-lómin
 Dragon Flame
-Dragon Helm of Dor-lomin
-Dragon Helm of Dor-lómin
 Dragon Quest
 Dragon Sickness
 Dragon of Erebor
-Dragonflame
 Dragonflies
-Dragonfly
-Dragons
 Drake
-Drakes
 Draksjukan
 Drama of the Silver Tree
 Dramborleg
 Draug
 Draugluin
-Drawings by Tolkien
 Dread Helm
 Dreaming of Bag Ende
 Dreams and Gifts
@@ -3260,7 +2569,6 @@ Druath
 Druda Burrows
 Druedain
 Druedain of Beleriand
-Druedainic
 Drug-folk
 Drughu
 Drugs
@@ -3271,26 +2579,9 @@ Dry Creek Quarry
 Dry River
 Dryad
 Dryadse
-Drú
-Drúadan
-Drúadan Forest
-Drúadan forest
-Drúadan language
-Drúath
-Drúedain
-Drúedain of Beleriand
-Drúedainic
-Drúin
-Drúwaith Iaur
-Drû
-Drûg
-Drûg-folk
-Drûgs
-Drûn
 Duath
 Duban
 Duck
-Ducks
 Dudo Baggins
 Duga
 Duilin
@@ -3299,13 +2590,11 @@ Duilin of Gondolin
 Duilin of the Swallow
 Duillond
 Duilwen
-Duin
 Duinhir
 Duir
 Dulin
 Dulinn
 Dumbledores
-Dumbledors
 Dunadan
 Duncan McIntyre
 Dunedain
@@ -3326,7 +2615,6 @@ Dunland and the Southern Misty Mountains
 Dunlending language
 Dunlendings
 Dunlendish
-Dur
 Durin
 Durin's Axe
 Durin's Bane
@@ -3336,33 +2624,20 @@ Durin's Day
 Durin's Folk
 Durin's Stone
 Durin's Tower
-Durin's folk
 Durin's line
 Durin I
-Durin II
-Durin III
-Durin IV
 Durin V
-Durin VI
-Durin VII
-Durin ii
-Durin iii
-Durin iv
 Durin the Deathless
-Durin vi
-Durin vii
 Durinn
 Durthang
 Duruchalmo
 Dushgoi
-Dutch Tolkien Society
 Dwalin
 Dwaling
 Dwarf
 Dwarf-lords
 Dwarf-mail
 Dwarf-mask
-Dwarf-masks
 Dwarf-rings
 Dwarf-road
 Dwarf-road of Beleriand
@@ -3370,22 +2645,17 @@ Dwarf-road of Mirkwood
 Dwarf-tongue
 Dwarf-women
 Dwarf Guard
-Dwarf Women
-Dwarf mask
 Dwarf realms
-Dwarfs
 Dwarrowdelf
 Dwarven Armor
 Dwarven Axe
 Dwarven Heart
 Dwarven ring
-Dwarven rings
 Dwarven women
 Dwarves
 Dwarves of Belegost
 Dwarves of Erebor
 Dwarves of Khazad-dum
-Dwarves of Khazad-dûm
 Dwarves of Moria
 Dwarves of Nogrod
 Dwarves of the Blue Mountains
@@ -3399,76 +2669,33 @@ Dwellings
 Dwimmerlaik
 Dwimorberg
 Dwimorberg- The Haunted Mountain
-Dwimorberg - The Haunted Mountain
 Dwimorberg glen
 Dwimordene
 Dylan Smith
-Dáin
 Dáin's Halls
-Dáin's hall
-Dáin's halls
-Dáin I
-Dáin II
-Dáin II Ironfoot
-Dáin Ironfoot
-Dân
 Dægmund
 Dægred
-Déagol
-Déor
 Déormód
-Déorwine
 Dínen
-Dírhael
 Dírhaval
-Dírhavel
 Díriel
-Dírnaith
-Dís
-Dîn
-Dôl
-Dôr
-Dúath
-Dúlin
-Dúlinn
-Dúnadan
 Dúnadan of the North
-Dúnedain
-Dúnedain of Arnor
 Dúnedain of Gondor
-Dúnedain of the North
-Dúnedain of the South
-Dúnharg
-Dúnhere
 Dúri Bold-Hammer
 Dúrnost
 Dûm
 Dûn
-Dûr
 Dżentelmeni i poeci
-E.V. Gordon
-EA's The Battle for Middle-earth
-EA's The Battle for Middle-earth Anthology
-EA's The Battle for Middle-earth IIe
-EA's The Return of the King
-EA's The Third Age
-EA's The Two Towers
-EA's The White Council
-EV Gordon
 Eadgifu
 Eadgyth
 Eadig
 Eadisse
-Eadissë
 Eadwine
 Eagle
 Eagle's Cleft
 Eagle's Eyrie
 Eagle-stream
 Eagle and Child
-Eagles
-Eagles' Cleft
-Eagles' Eyrie
 Eagles of Manwë
 Ealar
 Ealdor
@@ -3490,14 +2717,11 @@ Earendur son of Tar-Amandil
 Earenya
 Earien
 Earisse
-Earissë
 Earliest map
 Early Modern English
 Early Qenya Grammar
 Earnil
 Earnil I
-Earnil II
-Earnil ii
 Earnur
 Earrame
 Earth
@@ -3510,13 +2734,10 @@ East-gate
 East-gate of Moria
 East-mark
 East-victor
-East Beleriand
 East Bight
 East Dales
 East Elves
-East Gate
 East Lorien
-East Lórien
 East March
 East Road
 East Sea
@@ -3527,7 +2748,6 @@ Eastemnet
 Eastemnet Downs
 Easterling
 Easterling War
-Easterlings
 Eastern Eriador
 Eastern Land
 Eastern Orcs
@@ -3538,8 +2758,6 @@ Eastfarthing of the Shire
 Eastfold
 Eastland
 Eastlands of Numenor
-Eastlands of Númenor
-Eastmarch
 Eastmarch of the Shire
 Easton Press
 Ebba-Margareta von Freymann
@@ -3558,7 +2776,6 @@ Echuir
 Ecthel
 Ecthelion
 Ecthelion I
-Ecthelion II
 Ecthelion of the Fountain
 Ed Sheeran
 Edain
@@ -3583,7 +2800,6 @@ Edhil
 Edhofon
 Edith
 Edith Bratt
-Edith Tolkien
 Edonna-
 Edoras
 Edouard Kloczko
@@ -3605,7 +2821,6 @@ Eglantine
 Eglantine Banks
 Eglarest
 Eglath
-Eglerio! In Praise of Tolkien
 Eglorest
 Egnor
 EgoAdventure
@@ -3620,7 +2835,6 @@ Eitha-
 Eithel
 Eithel Ivrin
 Eithel Ninui
-Eithel Nínui
 Eithel Sirion
 Eket
 Ekka
@@ -3634,7 +2848,6 @@ Elan Garfias
 Elanor
 Elanor Brandyfoot
 Elanor Fairbairn
-Elanor Fairbairns
 Elanor Gamgee
 Elanor Gardner
 Elatan
@@ -3646,11 +2859,8 @@ Eldacar
 Eldacar of Arnor
 Eldacar of Gondor
 Eldalie
-Eldalië
 Eldalonde
-Eldalondë
 Eldalote
-Eldalótë
 Eldamar
 Eldamo
 Eldandil
@@ -3664,7 +2874,6 @@ Eldarion
 Eldarissa
 Eldavehtë
 Elder Children of Iluvatar
-Elder Children of Ilúvatar
 Elder Days
 Elder Edda
 Elder Kindred
@@ -3676,7 +2885,6 @@ Electronic Arts
 Eledhwen
 Elemmakil
 Elemmire
-Elemmírë
 Elen
 Elen síla lúmenn' omentielvo
 Elena Kukanova
@@ -3689,48 +2897,38 @@ Elendil Stone
 Elendili
 Elendilmir
 Elendor
-Elendor Refugee MUX
+Elendor Refugee
 Elendur
 Elendur King of Arnor
 Elendur son of Isildur
-Elendë
 Elenion
 Elenna
 Elenna-nórë
 Elentari
 Elentir
 Elentirmo
-Elentári
 Elenwe
-Elenwë
 Elenya
 Elephant
-Elephants
 Elerondiel
 Elerondo
 Elerossë
 Elerrina
-Elerrína
 Elerína
 Elessar
 Elessar of Earendil
-Elessar of Eärendil
 Elestirne
-Elestirnë
 Eleventy-First Birthday Party
 Elf
 Elf-Maiden
 Elf-fathers
 Elf-friend
-Elf-friends
-Elf-maidens
 Elf-path
 Elf Alone
 Elfhelm
 Elfhild
 Elfijskij Klinok
 Elfling
-Elfs
 Elfstan Fairbairn
 Elfstone
 Elfwine
@@ -3738,7 +2936,6 @@ Elias Lönnrot
 Elijah Wood
 Elin Jenkins
 Elizabeth Currie
-Elizabeth M. Stephen
 Elizabeth Mary Wright
 Elizabeth Moody
 Elizabeth Solopova
@@ -3764,22 +2961,17 @@ Elrohir and Elladan
 Elrond
 Elrond's Holy Round Table
 Elrond Herald of Gil-Galad polystone bust
-Elrond Herald of Gil-galad polystone bust
 Elros
 Elros Tar-Minyatur
 Eltas
 Elu
 Elu Thingol
 Eluchil
-Eluchíl
 Elulin
 Elulindo
 Elured
 Elured and elurin
 Elurin
-Eluréd
-Eluréd and Elurín
-Elurín
 Elvas
 Elvellon
 Elven
@@ -3797,21 +2989,10 @@ Elven Kings Under the Sky
 Elven Life cycle
 Elven New Year
 Elven Rope
-Elven brooch
-Elven brooches
-Elven characteristics
-Elven cloak
-Elven cloaks
-Elven customs
 Elven ears
-Elven life cycle
-Elven rings
-Elven rope
-Elven tongues
 Elven week
 Elvendom
 Elvenesse
-Elvenhome
 Elvenking
 Elvenking's Halls
 Elvenland
@@ -3820,11 +3001,9 @@ Elves of Beleriand
 Elves of Doriath
 Elves of Eregion
 Elves of Eressea
-Elves of Eressëa
 Elves of Light
 Elves of Lindon
 Elves of Lorien
-Elves of Lórien
 Elves of Lórinand
 Elves of Lúva
 Elves of Mirkwood
@@ -3850,27 +3029,20 @@ Elvish time
 Elvish week
 Elwe
 Elwe Singollo
-Elwing
 Elwing's tower
-Elwë
-Elwë Singollo
 Ema Horvath
 Emberü
 Embracer
 Embracer Group
 Emeldir
 Emerie
-Emerië
 Emerwen Aranel
 Emil Johansson
 Emiliana Torrini
 Emily Austin
-Emilíana Torrini
 Empire of the Witch-king
-Empire of the Witch King
 Empty Chapel
 Empty Land
-Empty Lands
 Emyn
 Emyn-nu-Fuin
 Emyn Arnen
@@ -3881,23 +3053,17 @@ Emyn Muil
 Emyn Uial
 En-
 En-keladim
-En jungiansk fortolkning af Tolkiens Ringenes herre
 Enchanted Isles
 Enchanted River
 Enchanted Stream
-Enchanted stream
 Encircling Mountains
 Encircling Sea
 Encyclopedia of Arda
-End
 End of the World
 Ender
 Enderi
 Endless Stair
 Endor
-Endore
-Endóre
-Endórë
 Ened
 Enedhwaith
 Enedrion
@@ -3906,17 +3072,14 @@ Eneg
 Enel
 Enellië
 Enelye
-Enelyë
 Enemy
 Enerdhil
 Eneth
 English-language editions of The Hobbit
 English Literature History Private Press Children's Books and Illustrations
-English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday
 English and Welsh
 English editions of The Hobbit
 English to Anglo-Saxon Dictionary
-English to Anglo-Saxon dictionary
 Engrin
 Engwa
 Engwar
@@ -3928,32 +3091,24 @@ Enquië
 Enquë
 Ent
 Ent-draught
-Ent-draughts
 Ent-houses
 Ent-wives
 Ent Draft
-Ent draughts
 Enthor
-Enting
-Entings
 Entish
 Entmaidens
 Entmoot
-Ents
 Ents Elves and Eriador
 Ents of Fangorn
 Entulesse
-Entulessë
 Entwade
 Entwash
 Entwash Vale
 Entwife
-Entwives
 Entwood
 Envinyatar
 Enya
 Enyalie
-Enyalië
 Eodwine
 Eofor
 Eogan
@@ -3965,8 +3120,6 @@ Eomer Eadig
 Eomund
 Eonwe
 Eore
-Eored
-Eoreds
 Eorl
 Eorl the Young
 Eorlingas
@@ -3977,17 +3130,13 @@ Eowyn
 Eowyn's Dream
 Eowyn and the Nazgul fine art print
 Eowyn and the Witch-king
-Eowyn and the Witch King
 Epe
 Epesse
-Epessë
 Epetai
 Ephel
 Ephel Brandir
 Ephel Duath
-Ephel Dúath
 Epic Pooh
-Epic Scenes from The Silmarillion after the mythology of J. R. R. Tolkien
 Eqar
 Eques
 Equessi
@@ -4009,12 +3158,10 @@ Ered Lindon
 Ered Lithui
 Ered Lomin
 Ered Luin
-Ered Lómin
 Ered Mithrin
 Ered Nimrais
 Ered Wethrin
 Eredain
-Eredlindon
 Ereg
 Eregion
 Ereinion
@@ -4026,7 +3173,6 @@ Erenol
 Ereol
 Eressai
 Eressea
-Eressëa
 Erestor
 Eriador
 Erib
@@ -4040,7 +3186,6 @@ Erik Bauersfeld
 Erinti
 Eriol
 Erioldo
-Eriolë
 Erkenbrand
 Erkenwald
 Erling
@@ -4052,19 +3197,14 @@ Ernis
 Errantry
 Eru
 Eru Iluvatar
-Eru Ilúvatar
 Eruamillë
 Eruchîn
 Eruhantale
-Eruhantalë
 Eruhin
 Eruhini
-Eruhíni
 Erui
 Erukyerme
-Erukyermë
 Erulaitale
-Erulaitalë
 Eruman
 Eruman beneath the Stars
 Erumáni
@@ -4086,18 +3226,12 @@ Eshúrizel
 Esmeralda Took
 Essays Presented to Charles Williams
 Essays and Studies
-Essays and minor texts by J.R.R. Tolkien
-Essays by J.R.R. Tolkien
-Essays presented to Charles Williams
 Esse
-Essential Tolkien
 Essi
 Essi Apacenyo
-Essë
 Este
 Estel
 Esteldin
-Esteldín
 Estella Bolger
 Estella Brandybuck
 Estelmo
@@ -4105,8 +3239,6 @@ Estirin
 Estirios
 Estolad
 Estonia
-Estonian Tolkien Society
-Estë
 Et Eärello Endorenna utúlien
 Ethir
 Ethir Anduin
@@ -4121,8 +3253,6 @@ Ettendales
 Ettenmoors
 Etyangold
 Etyangoldi
-Etyañgold
-Etyañgoldi
 Etymologies
 Eucatastrophe
 Euchatastrophe
@@ -4130,7 +3260,6 @@ Eurocon
 Evadrien
 Evangeline Lilly
 Evar
-Evelyn B. Byrne
 Evendim
 Evening
 Evenstar
@@ -4146,8 +3275,6 @@ Evgenia Hatzithanasi-Kollia
 Evil Breath
 Evil Eye
 Evil spirit
-Evil spirits
-Evocation of Virgil in Tolkien's Art
 Evranin
 Evromord
 Ex Philologia Lux
@@ -4156,18 +3283,12 @@ Exhibitions
 Exile
 Exile of the Noldor
 Exiled Noldor
-Exiles
 Exiles of Gondolin
 Exiles of Numenor
-Exiles of Númenor
 Exilic Noldorin
 Exilic Quenya
 Exodus From Edoras
-Exodus from Edoras
 Exodus of Edoras
-Explicando Tolkien
-Exploring J.R.R. Tolkien's The Hobbit
-Exploring J.R.R. Tolkien’s The Hobbit
 Eye
 Eye of Barad-dûr
 Eye of Mordor
@@ -4175,41 +3296,13 @@ Eye of Sauron
 Ezehollar
 Ezellochar
 Ezellohar
-Ezellôchâr
 Ezelohar
-Eádwine
-Eädwine
-Eälar
 Eälótë
-Eämbar
-Eär
 Eärambar
-Eärendel
-Eärendil
 Eärendil's star
-Eärendil by Bilbo
-Eärendil of Gondor
-Eärendil the Mariner
 Eärendil was a mariner
 Eärendillinwë
-Eärendur
-Eärendur King of Arnor
-Eärendur Lord of Andúnië
-Eärendur son of Tar-Amandil
-Eärenya
-Eärien
-Eärnil
-Eärnil I
-Eärnil II
-Eärnur
-Eärramë
-Eärrámë
-Eärwen
 Eäsindi
-Eótheód
-Eöl
-Eönwë
-FOTR
 Fabricius Cunctator
 Face the Truth
 Fading Years
@@ -4217,21 +3310,15 @@ Fae
 Faelivrin
 Faenor
 Faerie
-Faeries
-Faery
 Faidron
 Faiglindra
 Failivrin
 Fair-elves
-Fair Elves
 Fairbairn Family
-Fairbairn family
 Fairbairns
 Fairies
 Fairondi
-Fairy
 Faith Faulconbridge
-Faith Tolkien
 Faithful
 Falarombar
 Falas
@@ -4239,7 +3326,6 @@ Falas-a-'Wilb
 Falasquil
 Falasse Numea
 Falassion
-Falassë Númëa
 Falastur
 Falathar
 Falathren
@@ -4250,7 +3336,6 @@ Fall
 Fall of Amon Sûl
 Fall of Arthur
 Fall of Barad-dur
-Fall of Barad-dûr
 Fall of Cardolan
 Fall of Dol Guldur
 Fall of Fingolfin
@@ -4260,14 +3345,10 @@ Fall of Minas Ithil
 Fall of Mount Gundabad
 Fall of Nargothrond
 Fall of Numenor
-Fall of Númenor
-Fall of arthur
-Fall of númenor
 Fall of the Falas
 Fall of the Necromancer
 Fall of the Noldor
 Fallohides
-Falls
 Falls of Esgalduin
 Falls of Rauros
 Falls of Sirion
@@ -4277,7 +3358,6 @@ Falmar
 Falmari
 Falmarin
 Falmarini
-Falmaríni
 Faloth
 Family trees
 Famous fans
@@ -4287,7 +3367,6 @@ Fana
 Fanar
 Fandom
 Fanfic
-Fanfiction
 Fanfictions
 Fang
 Fanga
@@ -4319,13 +3398,12 @@ Far Easton
 Far Harade
 Far Shore
 Far over the Misty Mountains Cold
-Far over the misty mountains cold
 Fara Með Vikingum
 Faramir
 Faramir's Good Council
 Faramir's defence of Osgiliath
 Faramir's defense of Osgiliath
-Faramir son of Denethor II
+Faramir son of Denethor
 Faramir I
 Faramir Took I
 Faramir son of Ondoher
@@ -4335,7 +3413,6 @@ Farewell Party
 Farewell We Call to Hearth and Hall!
 Farewell to Faramir
 Farewell to Lorien
-Farewell to Lórien
 Farid Mohammadi
 Farin
 Faring Forth
@@ -4348,12 +3425,8 @@ Farmer Maggot
 Farne
 Farthing
 Farthingho
-Farthings
 Faskala-numen
-Faskala-númen
 Faskalan
-Faskalanumen
-Faskalanúmen
 Fastitocalon
 Fastolph Bolger
 Fastred
@@ -4367,7 +3440,6 @@ Father-name
 Father Christmas
 Father Christmas Letters
 Father Francis
-Father Name
 Father of Dragons
 Father of the Isle
 Fathers of Men
@@ -4379,8 +3451,6 @@ Fauna
 Fauna of Arda
 Fay
 Fay-star
-Fays
-Faërie
 Fcl
 Fea
 Fea and hroa
@@ -4391,17 +3461,14 @@ Feanorian
 Feanorian Lamps
 Feanorian alphabet
 Feanorian dialect
-Feanorian lamp
 Feanorian letters
 Feanorian script
-Feanorians
 Feanturi
 Fear in Firland
 Feast Of Starlight
 Feast of Felling
 Feast of Good Children
 Feasts in Numenor
-Feasts in Númenor
 February
 Fela
 Felagon
@@ -4411,26 +3478,18 @@ Felak
 Felakgundu
 Felanath
 Felarof
-Felaróf
 Felegron
 Felek
 Feleor
 Felix Felton
 Felix Sotomayor
 Fell Beast
-Fell Beasts
 Fell Beasts and Wondrous Magic
 Fell Winter
 Fell Winter of the Third Age
-Fell beast
-Fell beasts
-Fellbeast
-Fellbeasts
 Fellowship
-Fellowship!
 Fellowship of Fans
 Fellowship of the Ring
-Felëor
 Fen Hollen
 Fen of Serech
 Fengel
@@ -4448,21 +3507,17 @@ Ferny
 Ferny Family
 Ferrandez Bru
 Ferry Lane
-Ferumbras III
+Ferumbras
 Ferumbras Took I
-Ferumbras Took II
-Ferumbras Took III
+Ferumbras Took
 Ferumbras i
 Ferumbras ii
-Ferumbras iii
 Feuya-
 Field of Celebrant
 Field of Cormallen
-Field of cormallen
 Fields
 Fiery Mountain
 Fifteen birds in five fir-trees
-Fifteen birds in five fir trees
 Fifth Age
 Fifty New Poems for Children
 Figwit
@@ -4484,23 +3539,18 @@ Finbor
 Finbrand
 Finbrós
 Finch
-Finches
 Findarato
-Findaráto
 Finde
 Findecáno
 Findegil
 Findekano
-Findekáno
 Finding God in The Hobbit
 Finding God in The Lord of the Rings
-Finding God in the Lord of the Rings
 Findis
 Findobar
 Finduilas
 Finduilas of Dol Amroth
 Finduilas of Nargothrond
-Findë
 Finellach
 Fingar
 Finglas
@@ -4508,19 +3558,16 @@ Fingold
 Fingolfin
 Fingolfin's Cairn
 Fingon
-Fingár
 Fingôlemë Finwë
 Finhwít
 Finland
 Finn
 Finn and Hengeste
 Finnish
-Finnish Tolkien Society
 Finred
 Finrod
 Finrod Felagund
 Finrun
-Finrún
 Finstán
 Finu
 Finvain
@@ -4528,20 +3575,16 @@ Finwain
 Finwe
 Finweg
 Finwion
-Finwë
 Fiona Apple
 Fiona Jallings
 Fionwe
-Fionwë
 Fire-drake
-Fire-drakes
 Fire-mountain
 Fire
 Fire and Water
 Fire of Ilúvatar
 Fire of Orthanc
 Firebeard
-Firebeards
 Firefoot
 Firestorm Apocalypse - Tomorrow Shall Know the Blackest Dawn
 Firiel
@@ -4552,7 +3595,6 @@ Firien Wood
 Firienfeld
 Firienfield
 Firienholt
-Firienwood
 Firilanda
 Firimar
 Firin
@@ -4585,22 +3627,17 @@ First Map of The Lord of the Rings
 First Marshal of the Riddermark
 First Music
 First Sack of Gundabad
-First Sacking of Gundabad
 First Shirriff
 First Siege of Imladris
 First Voice
 First War
 First War with Melkor
 First World War
-First born
-Firstborn
 Firth of Drengist
 Firth of Rómenna
 Fish
 Fish-dragon
-Fish-dragons
 Fisher Blue
-Fishing
 Fisiologus
 Five Guardians
 Five Rivers of Lebennin
@@ -4612,19 +3649,16 @@ Flambard Took
 Flame Imperishable
 Flame of Anor
 Flame of Udun
-Flame of Udûn
 Flame of the West
 Flaming Red Hair
 Fleming Rutledge
 Flet
-Flets
 Flies
 Flies and Spiders
 Flight To The Ford
 Flight from Edoras
 Flight of the Nazgul
 Flight of the Noldor
-Flight to the Ford
 Flinding
 Floi
 Flora of Middle-Earth
@@ -4632,14 +3666,9 @@ Flotsam and Jetsam
 Flower of Silver
 Flowers
 Fluithuin
-Fly
 Fly Fishing in Middle-earth
-Flói
 FoA
-FoTR
-Foa
 Foaloke
-Foalókë
 Foam-flower
 Foe-hammer
 Foen
@@ -4673,9 +3702,7 @@ Following the Orcs
 Fon
 Fonstad
 Font
-Fonts
 Food
-For W.H.A.
 Forannest
 Forbidden Pool
 Ford of Brithiach
@@ -4728,15 +3755,13 @@ Forth Eorlingas
 Forthwini
 Fortinbras I
 Fortinbras Took I
-Fortinbras Took II
+Fortinbras Took
 Fortinbras ii
 Fortresses
 Forum
 Forweg
 Fos' Almir
-Fos Almir
 Fosco Baggins
-Fotr
 Foundations of Stone
 Fountain of the King
 Fountains of the South
@@ -4751,7 +3776,6 @@ Fourth Age of Middle-earth
 Fowl
 Fox
 Fox Downs
-Foxes
 Foxrock
 Foxrook
 Fragment of an alliterative Lay of Eärendel
@@ -4767,7 +3791,6 @@ Francis de Wolff
 Frank Duncan
 Frankley
 Frantisek Fuka
-František Fuka
 Frar
 Fraser Kerr
 Fraud of the Rings
@@ -4787,17 +3810,13 @@ Free League Publishing
 Free Peoples
 Free Peoples of Middle-earth
 Free State
-Free peoples
 Freedom Fate and Choice in Middle-earth
-French Tolkien Association
 Frenchmen Froth
 Frerin
 Frery
 Friedrich Nietzsche
 Friend-of-Men
-Friend of Men
 Fritz Moser
-Fritz Möser
 Friþuswíþ
 Frodoe
 Frodo's Restaurant
@@ -4811,11 +3830,9 @@ Frodo Baggins polystone statue
 Frodo Gamgee
 Frodo Gardner
 Frodo Lives
-Frodo Lives!
 Frodo of the Nine Fingers
 Frog
 Frogmorton
-Frogs
 From Abjection to Alchemy
 From Elvish to Klingon
 From Hobbiton to the Woody End
@@ -4826,18 +3843,11 @@ From Peterborough to Faëry
 From Weathertop to the Ford
 From an \Outsider\
 From dark Dunharrow in the dim morning
-From mind to mind
 From the many-willow'd margin of the immemorial Thames
 Front Gate
 Front Porch
 Fror
 Frumgar
-Frár
-Fréa
-Fréaláf
-Fréaláf Hildeson
-Fréawine
-Frór
 Fuddo and Slam
 Fufril
 Fui
@@ -4848,58 +3858,21 @@ Fuio
 Fuior
 Fuithlug
 Fuiyaru
-Fuiyáru
 Fulmur
 Fumella
 Fumellar
 Fundin
-Funeral Customs in Tolkien's Trilogy
 Funny Little Things
 Fwyor
 Fyrndaga Sǽléoþ
-Fána
 Fées navigateurs & autres miscellanées en Terre du Milieu
-Fëa
-Fëa and hröa
-Fëanor
-Fëanorian
-Fëanorian Lamps
-Fëanorian alphabet
-Fëanorian dialect
-Fëanorian lamps
-Fëanorian letters
-Fëanorian script
-Fëanorians
-Fëanturi
 Fëanáro
 Fëar
-Fíli
-Fíriel
-Fíriel's Song
-Fíriel's song
-Fíriel Fairbairn
 Fíriel of Númenor
-Fírimar
-Fôs' Almir
-Fôs Almir
-G.H. Cowling
-G.K. Chesterton
-GALA
-GALAD
-GALÁD
-GALÁS
-GBS
-GLÁWAR
-GMEC
-GT Interactive
-GT Interactive Software Corp.
-GUL
 Gabil
 Gabilan
 Gabilgathod
 Gabilgathol
-Gabilân
-Gabilān
 Gad Games
 Gaden of Lindon
 Gaerdil
@@ -4912,10 +3885,8 @@ Gaia Wise
 Gail
 Gail Chugg
 Gailthin
-Galad
 Galadh
 Galadhon
-Galadhon Lunds Tolkiensällskap
 Galadhriel
 Galadhrim
 Galadlóriel
@@ -4927,11 +3898,7 @@ Galadriel's Messages
 Galadriel's Mirror
 Galadriel's Song
 Galadriel's Song of Eldamar
-Galadriel's lament
-Galadriel's messages
-Galadriel's song
 Galadriel and Celeborn
-Galadriel’s Lament
 Galadrim
 Galadwen
 Galanes
@@ -4942,7 +3909,6 @@ Galathilvion
 Galbasi
 Galdor
 Galdor of Dor-lomin
-Galdor of Dor-lómin
 Galdor of the Havens
 Galdor of the Tree
 Galenas
@@ -4951,12 +3917,10 @@ Galion
 Gallery
 Gallery of the Kings
 Gallows-Weed
-Gallows-weed
 Galmir
 Galmod
 Galvorn
 Galweg
-Game Systems Inc.
 Games
 Games Workshop
 Games by language
@@ -4965,7 +3929,6 @@ Games by type
 Games by year
 Gamgee
 Gamgee Family
-Gamgee family
 Gamil
 Gamil Zirak
 Gamli
@@ -4974,12 +3937,10 @@ Gamling the Old
 Gamlos
 Gamlost
 Gammidge Family
-Gammidge family
 Gammidgy
 Gamp
 Gamwich
 Gamwich Family
-Gamwich family
 Gandalf
 Gandalf's Battle on the Bridge in the Mines of Moria
 Gandalf's Reflection
@@ -5003,9 +3964,7 @@ Gar Lossion
 Gar Thurion
 Garard Green
 Gardens of Lorien
-Gardens of Lórien
 Gardner Family
-Gardner family
 Gareth Jones
 Gargos
 Garlisgion
@@ -5038,12 +3997,7 @@ Gate of the Noldor
 Gates
 Gates of Angband
 Gates of Argonath
-Gates of Mordor
-Gates of Morn
-Gates of Morning
-Gates of Night
 Gates of Sirion
-Gates of Summer
 Gateway
 Gateway to Sindarin
 Gathol
@@ -5066,7 +4020,6 @@ Gelmir
 Gelmir of Angrod's People
 Gelmir of Nargothrond
 Gelydh
-Gene B. Hardy
 Gene Deitch
 Gene Deitch's The Hobbit
 Gene Hargrove
@@ -5080,14 +4033,8 @@ Geoffrey Bache Smith
 George Allen & Unwine
 George Allen and Unwine
 George MacDonald
-George Macdonald
-George R.R. Martin
-George R. R. Martin
-George RR Martin
 George Sayer
 George Takei
-George Tolkien
-George William Tolkien
 Georgius
 Geraint
 Gerald of Wales on the Survival of Welsh
@@ -5098,7 +4045,6 @@ Gerda Boffin
 Gereth
 Gergely Nagy
 Gerik Schjelderup
-German Tolkien Society
 Germanic
 Germanic Heroes Courage and Fate
 Germany
@@ -5110,26 +4056,19 @@ Gethron
 Gevolon
 Ghan
 Ghan-buri-Ghan
-Ghan buri ghan
 Ghash
 Ghost Warriors
 Ghosts
 Ghosts of the Southern Anduin
-Ghân
-Ghân-buri-Ghân
-Ghân-buri-ghân
 Ghân of the Woods
-Ghâsh
 Giant
 Giant Spiders
-Giants
 Gift of Ilúvatar
 Gift of Men
 Gifts of Galadriel
 Gil
 Gil-Estel
 Gil-Galad
-Gil-galad
 Gil-galad's letter
 Gil-galad polystone bust
 Gilbarad
@@ -5138,7 +4077,6 @@ Gildor
 Gildor Inglorion
 Gilfanon
 Gilfanon's Talee
-Gilgalad
 Giliath
 Gilim
 Gilly Brownlock
@@ -5152,14 +4090,11 @@ Gilwen
 Gilweth
 Gim
 Gim-githil
-Gim Githil
 Gimil
 Gimilkhad
-Gimilkhâd
 Gimilnitîr
 Gimilzagar
 Gimilzor
-Gimilzôr
 Gimlad
 Gimli
 Gimli Elf-friend
@@ -5195,7 +4130,6 @@ Glamdring Sword prop replica
 Glamhoth
 Glanduin
 Glanhir
-Glanhír
 Glanwen
 Glass Hammer
 Glathralvas
@@ -5204,10 +4138,7 @@ Glaurung
 Glaurung's Bane
 Glaðwen
 Glen GoodKnight
-Glen Goodknight
 Glen Goodnight
-Glen H. GoodKnight
-Glen H. Goodknight
 Glend
 Glenn Yarbrough
 Gleowine
@@ -5243,20 +4174,10 @@ Glorund
 Glorvent
 Gloss
 Glow-worms
-Glowworms
 Glurim
 Glyn Robbins
-Gléowine
-Glîn
-Glóin
-Glóin son of Gróin
-Glóin son of Thorin I
-Glómund
-Glóredhel
-Glórund
 Glǽmscrafu
 Gnome
-Gnomes
 Gnomic Letters
 Gnomish
 Gnomish Letters
@@ -5265,27 +4186,21 @@ Go-
 Go-hilleg
 Goat
 Goatleaf Family
-Goats
 Gobele
 Goblin
 Goblin-cleaver
 Goblin-gate
 Goblin-gate and Eagle's Eyrie
-Goblin-gate and Eagles' Eyrie
 Goblin-men
 Goblin-town
 Goblin Alphabet
 Goblin Feet
 Goblin Scribe
-Goblin gate
 Goblin king
 Goblin song
-Goblin town
-Goblins
 Gochressiel
 God
 Godfrey Kenton
-Gods
 Godwig the Lazy
 Goeol
 Golasgil
@@ -5312,7 +4227,6 @@ Goldoi
 Goldriel
 Goldwine
 Goldworthy Family
-Goldworthy family
 Goldórin
 Golf
 Golfimbul
@@ -5327,7 +4241,6 @@ Gollum's Riddle
 Gollum's Song
 Gollum's Villainy
 Gollum's Villany
-Gollum's lakee
 Gollum Premium Format Figure
 Gollum and Sméagol
 Golodh
@@ -5343,14 +4256,12 @@ Gondobar
 Gondolin
 Gondolin Runes
 Gondolindrim
-Gondolinic Runes
 Gondor
 Gondor! Gondor between the Mountains and the Sea!
 Gondor Sindarin
 Gondor in Flames
 Gondorian
 Gondorian Military Forces
-Gondorians
 Gondothlim
 Gondothlimbar
 Gondothrim
@@ -5358,24 +4269,18 @@ Gondothrimbar
 Gong
 Gong of Littleheart
 Gong of the Children
-Gongs
 Gonn
 Gonnhirrim
 Good and Evil in The Lord of the Rings
 Goodbody Family
-Goodbody family
 Goodchild Family
-Goodchild family
 Goodenough Family
-Goodenough family
 Goold Family
-Goold family
 Gorbadoc Brandybuck
 Gorbag
 Gorbelgod
 Gorbulas Brandybuck
 Gorcrow
-Gorcrows
 Gordon
 Gordon Reid
 Gore
@@ -5386,7 +4291,6 @@ Gorgor
 Gorgoroth
 Gorgumoth
 Gorgun
-Gorgûn
 Gorhendad Brandybuck
 Gorhendad Oldbuck
 Gorin
@@ -5434,11 +4338,9 @@ Great Bridge
 Great Britain
 Great Cake
 Great Chamber of Thror
-Great Chamber of Thrór
 Great Council of Gondor
 Great Darkness
 Great Eagle
-Great Eagles
 Great East Road
 Great End
 Great Enemy
@@ -5448,15 +4350,12 @@ Great Gate
 Great Gate of Gondolin
 Great Gate of Minas Tirith
 Great Gate of Moria
-Great Gates
-Great Gates of Moria
 Great Goblin
 Great Gulf
 Great Hall
 Great Hall of Feasts
 Great Hall of Osgiliath
 Great Hall of Thrain
-Great Hall of Thráin
 Great Hall of Wootton Major
 Great Horn
 Great House
@@ -5473,9 +4372,7 @@ Great Ones
 Great Orcs
 Great Plague
 Great Plain
-Great Plains
 Great Ring
-Great Rings
 Great River
 Great River of Wilderland
 Great Road
@@ -5495,7 +4392,6 @@ Great War
 Great War of the Ring
 Great West Road
 Great Worm
-Great Worms
 Great Wrack
 Great beasts
 Great boar of Everholt
@@ -5505,24 +4401,19 @@ Great wood
 Greater Gelion
 Greater Harad
 Greece
-Greek Tolkien Society
 Green-elves
 Green Bough of Return
 Green Brother
 Green Dragon
 Green Dragon Inn
-Green Elves
 Green Emberü
 Green Hill Country
 Green Hills
 Green Hills of Gondor
 Green Mound
 Green Suns and Faerie
-Green Suns and Faërie
-Green dragon
 Greenfields
 Greenhand Family
-Greenhand family
 Greenholm
 Greenland
 Greenleaf
@@ -5534,18 +4425,15 @@ Greg Hildebrandt
 Greg Lane
 Gregor Roffalski
 Greisinger Middle-earth collection
-Greisinger Middle Earth Collection
 Greisinger Museum
 Grelvish
 Grenadier Miniatures
 Grenadier Models
-Grenadier Models Inc.
 Grey-elven
 Grey-elves
 Grey Annals
 Grey Company
 Grey DeLisle
-Grey Elves
 Grey Elvish
 Grey Havens
 Grey Marshes
@@ -5553,7 +4441,6 @@ Grey Mountains
 Grey Pilgrim
 Grey Wanderer
 Grey Wood
-Grey company
 Greycloak
 Greyflood
 Greyhame
@@ -5574,7 +4461,6 @@ Grindwall
 Grinnah
 Grip
 Grishnakh
-Grishnákh
 Grithnir
 Grithur
 Groans
@@ -5586,19 +4472,13 @@ Grond Troll polystone bust
 Gror
 Groth
 Grottoes
-Grottos
 Grove
 Grubb
 Grubb Family
-Grubb family
 Gruffo Boffin
 Gruir
 Gréata Hægwudu
-Gríma
-Gríma Wormtongue
 Grímr
-Gróin
-Grór
 Guard-captain Unnarr
 Guard of the Citadel
 Guard of the Tower of Gondor
@@ -5607,12 +4487,9 @@ Guarded Realm
 Guardian of the Third Age
 Guardians of Middle-earth
 Guardians of the Three
-Guards of the Citadel
 Gubben Noach
 Guest-elf
 Guest-elves
-Guest Elves
-Guest elf
 Guiare
 Guide to the Names in The Lord of the Rings
 Guidhlin
@@ -5623,21 +4500,16 @@ Guildford
 Guildhouse of the Venturers
 Guilin
 Guillermo Del Toro
-Guillermo del Toro
 Guillermo del Toro's Film Two
 Guillermo del Toro's The Hobbit
-Guiðlin
-Gul
 Gulduin
 Guldur
 Gulf of Lhun
-Gulf of Lhûn
 Gulf of Lindon
 Gulf of Lune
 Gulfimbul
 Gulfs
 Gull
-Gulls
 Gulma
 Gumlin
 Gumniow
@@ -5653,14 +4525,12 @@ Gurth an Glamhoth!
 Gurthang
 Gurtholfin
 Guthlaf
-Guthláf
 Guthwine
 Guy Gavriel Kay
 Guy Gondron
 Guy Kay
 Guþ Let Vaxa
 Gwa
-Gwa-
 Gwael
 Gwaen
 Gwaeren
@@ -5670,10 +4540,8 @@ Gwaihir
 Gwaihir the Windlord
 Gwaith
 Gwaith-i-Mirdain
-Gwaith-i-Mírdain
 Gwalweg
 Gwanur
-Gwanûr
 Gwar
 Gwarestrin
 Gwareth
@@ -5682,7 +4550,6 @@ Gwath
 Gwathel
 Gwathir
 Gwathlo
-Gwathló
 Gwathren
 Gwathui
 Gwathuirim
@@ -5712,23 +4579,9 @@ Gwirith
 Gwithil-i-Durinthi
 Gwîr
 Gyönyörü
-Gálmód
-Gárulf
-Gíl
-Gîl
 Gódhellim
 Gódhil
-Gúthwine
-Gúthwinë
-Gûl
-Gûlduin
 Gœlydh
-Gūl
-H.E. Riddett
-H.W. Donner
-H. W. Donner
-HAN
-HOME Index
 Habar
 Habbanan beneath the Stars
 Hadhafang
@@ -5737,17 +4590,13 @@ Hadhodrim
 Hadhodrond
 Hador
 Hador Lorindol
-Hador Lórindol
 Hador of Gondor
 Haerast
 Haeren
 Haerendir
-Hai
 Haimenar
 Hair of Galadriel
 Hal Colebatch
-Hal G.P. Colebatch
-Hal G. P. Colebatch
 Hal Gamgee
 Halabor
 Halad
@@ -5763,7 +4612,6 @@ Haldan
 Haldar
 Haldir
 Haldir of Lorien
-Haldir of Lórien
 Haldir of the Haladin
 Haleth
 Haleth son of Helm
@@ -5774,14 +4622,10 @@ Half
 Half-Orcs
 Half-elven
 Half-elves
-Half-orc
-Half-orcs
 Half-trolls
-Half Orcs
 Halfast Gamgee
 Halfirien
 Halfling
-Halflings
 Halflings' Leaf
 Halfred
 Halfred Gamgee
@@ -5797,7 +4641,6 @@ Hall of Ulmo
 Hall of the Kings
 Halla
 Hallacar
-Hallas
 Hallatan
 Hallow of Eru
 Hallows
@@ -5808,18 +4651,14 @@ Halls of Brodda
 Halls of Mandos
 Halls of Manwe
 Halls of Manwe and Varda
-Halls of Manwë and Varda
 Halls of Nienna
 Halls of Orome
-Halls of Oromë
 Halls of Stone
 Halls of Tevildo
 Halls of Thranduil
-Halls of Ulmo
 Halls of Waiting
 Halls of the Elven-king
 Halm na-dhuruthon
-Halm nadhuruthon
 Halmir
 Ham
 Hama
@@ -5841,14 +4680,9 @@ Hanna Goldworthy
 Hannah Wood
 Hannar
 Hans-Jorg Modlmayr
-Hans-Jörg Modlmayr
 Hans Conreid
 Hans Conried
-Hans J. Schütz
-Hans Jorg Modlmayr
-Hans Jörg Modlmayr
 Hansi Kursch
-Hansi Kürsch
 Hanstovánen
 Hantalë
 Har
@@ -5870,12 +4704,10 @@ Harding Gardner
 Harding of Rohan
 Harding of the Hill
 Hare
-Hares
 Hareth
 Harfalas
 Harfeet
 Harfoot
-Harfoots
 Harlequin Games
 Harlequin Miniatures
 Harley Bramble
@@ -5890,7 +4722,6 @@ Harondor
 Harper
 HarperCollins
 HarperPrism
-Harper Collins
 Harrowdale
 Harry
 Harry Chase
@@ -5904,7 +4735,6 @@ Hartley Patterson
 Harvest of Sorrow
 Harvestmath
 Harwe
-Harwë
 Hasen
 Hasufel
 Hathaldir
@@ -5917,8 +4747,6 @@ Haudh-en-Elleth
 Haudh-en-Ndengin
 Haudh-en-Nirnaeth
 Haudh-in-Gwanûr
-Haudh in Gwanur
-Haudh in Gwanûr
 Haunted Mountain
 Haunted Ruins of the Dunlendings
 Haven-finder
@@ -5928,15 +4756,12 @@ Haven of the Swans
 Havens of Círdan
 Havens of Gondor
 Havens of Sirion
-Havens of Umbar
 Havens of the Falas
 Hawk
 Hawke Robinson
-Hawks
 Hay Gate
 Haydn Wood
 Hays-end
-Haysend
 Hayward
 Hayward Family
 Hazad
@@ -5949,12 +4774,10 @@ Heart of Fire
 Heart of the Mountain
 Heart of the Wild
 Heath of the Sky-roof
-Heath of the sky roof
 Heathertoes Family
 Heaven
 Heaven's War
 Heaven Roof
-Heavens
 Heavy-handed
 Heavy Metal
 Heborodin
@@ -5977,26 +4800,19 @@ Hekelmar
 Helca
 Helcar
 Helcaraxe
-Helcaraxë
 Helce
-Helcë
 Heledirn
 Helen Armstrong
 Helevorn
 Helge Fauskanger
 Helge Kare Fauskanger
-Helge Kåre Fauskanger
 Helgor
 Helka
 Helkar
 Helkarakse
-Helkaraksë
 Helkaraxe
-Helkaraxë
 Helke
 Hell-hawk
-Hell-hawks
-Hell hawk
 Hells of Iron
 Helluin
 Helm
@@ -6007,11 +4823,8 @@ Helm's daughter
 Helm Hammerhand
 Helm of Hador
 Helmingas
-Helms deep
 Helmut Pesch
-Helmut W. Pesch
 Helusion
-Helúsion
 Hen
 Henderch
 Hending
@@ -6020,13 +4833,10 @@ Hendwine
 Hengest
 Hengest & Horsa
 Hengest and Horsa
-Hengest and horsa
 Henneth Annun
-Henneth Annûn
 Henning Janssen
 Henry Bradley
 Henry Gee
-Henry N. Beard
 Hensday
 Heorrenda
 Heorulf
@@ -6073,10 +4883,8 @@ Hiding of Valinor
 High-Elves
 High-captain of Angband
 High-elven
-High-elves
 High-elvish
 High-men
-High Elves
 High Faroth
 High Fells of Rhudaur
 High Hay
@@ -6086,18 +4894,14 @@ High King of Arda
 High King of the Dúnedain
 High King of the Elves
 High King of the Noldor
-High Kings of the Noldor
 High Man
-High Men
 High Ones of Arda
 High Pass
 High Warden of the White Tower
 High elf
-High elvish
 High feast
 Highday
 Hihdei
-Hilary Tolkien
 Hild
 Hilda Bianca
 Hilda Bracegirdle
@@ -6111,13 +4915,9 @@ Hildigrim Took
 Hildo
 Hildor
 Hildorien
-Hildórien
 Hill-men
 Hill-troll
-Hill-trolls
 Hill Road
-Hill Troll
-Hill Trolls
 Hill of Erech
 Hill of Guard
 Hill of Hearing
@@ -6127,10 +4927,8 @@ Hill of Sight
 Hill of Slain
 Hill of Spies
 Hill of Tears
-Hill of sight
 Hill of the Eye
 Hill of the Slain
-Hillmen
 Hillmen of the Trollshaws
 Hills
 Hills of Agar
@@ -6145,12 +4943,10 @@ Himling
 Himring
 Hin
 Hind
-Hinds
 Hirgon
 Hiri
 Hiril
 Hirilonde
-Hirilondë
 Hirilorn
 Hirluin
 Hirluin the Fair
@@ -6159,8 +4955,6 @@ His Precious
 Hisie
 Hisildi
 Hisilome
-Hisilomë
-Hisilómë
 Hisime
 Historical Atlas
 Historical Atlas/Third Age
@@ -6170,9 +4964,7 @@ History of Middle-earth
 History of the Dwarves
 History of the hobbit
 Hisweloke
-Hiswelókë
 Hiswelókë's Sindarin Dictionary
-Hiswelókë's Sindarin dictionary
 Hith
 Hithaeglir
 Hithbar
@@ -6181,7 +4973,6 @@ Hither Shore
 Hithlain
 Hithlu
 Hithlum
-Hithlû
 Hithui
 Hlaru
 Hlon
@@ -6189,21 +4980,14 @@ Hlothram
 Hlothram(a)
 Hlothran
 Hludwine
-Hlón
-Hlúdwine
 Ho! Ho! Ho! To the Bottle I Go
 Ho! Tom Bombadil Tom Bombadillo!
-HoME
-HoME XI
-HoMe
-HoMe Index
-HoMe XI
+H
 Hoarwell
 Hob Gammidge
 Hob Hayward
 Hobbit
 Hobbit-hole
-Hobbit-holes
 Hobbit-kind
 Hobbit - The True Story
 Hobbit Maaltijd
@@ -6213,7 +4997,6 @@ Hobbit Tales from the Green Dragon Inn
 Hobbit dinner
 Hobbit films
 Hobbit movie
-Hobbit movies
 Hobbit museum
 Hobbit pub
 Hobbit to Heroe
@@ -6223,16 +5006,12 @@ Hobbiton Hill
 Hobbiton Road
 Hobbitry-at-arms
 Hobbitry-in-Arms
-Hobbitry-in-arms
-Hobbits
 Hobbits Elves and Wizardse
 Hobbits in Holland
 Hobbits of Bree
 Hobbits of the Shire
-Hobbits vs. Models
 Hobbitus Ille
 Hobgoblin
-Hobgoblins
 Hobit
 Hobitit
 Hobson
@@ -6246,7 +5025,6 @@ Holfast Gardner
 Hollin
 Hollin Gate
 Hollin Ridge
-Hollin ridge
 Hollowbold
 Holly
 Holly Ordway
@@ -6259,7 +5037,6 @@ Holy Mountain
 Holy Ones
 Holy Spirit
 Homage to Gandalf
-Home
 Homeward Bound
 Hompen
 Hop along my little friends up the Withywindle!
@@ -6276,11 +5053,9 @@ Horn of Araw
 Horn of Elendil
 Horn of Gondor
 Horn of Rohan
-Horn of elendil
 Horn of the Mark
 Hornblower
 Hornblower Family
-Hornblowers
 Hornburg
 Hornrock
 Horns of Ylmir
@@ -6289,7 +5064,6 @@ Horse
 Horse-lords
 Horsebreeders
 Horsemaster
-Horses
 Horus Engels
 Horwin
 Host of Valinor
@@ -6297,7 +5071,6 @@ Host of the Harp
 Host of the Valar
 Host of the West
 Hosta
-Hosta-
 Hostamir
 Hoth
 Houghton Mifflin
@@ -6306,13 +5079,10 @@ Houghton Mifflin Harcourt
 Hound
 Hound of Sauron
 Hound of Valinor
-Hounds
 Hounds of Oromë
 House of Anarion
-House of Anárion
 House of Beor
 House of Brodda
-House of Bëor
 House of Dol Amroth
 House of Durin
 House of Elendil
@@ -6325,15 +5095,11 @@ House of Finarfin
 House of Fingolfin
 House of Finrod
 House of Finwe
-House of Finwë
-House of Fëanor
 House of Hador
 House of Haleth
 House of Hurin
-House of Húrin
 House of Imin
 House of Ingwe
-House of Ingwë
 House of Isildur
 House of Marach
 House of Oromë
@@ -6341,22 +5107,6 @@ House of Ransom
 House of Telcontar
 House of Tulkas
 House of Valandil
-House of anarion
-House of beor
-House of dol amroth
-House of durin
-House of elendil
-House of elros
-House of eorl
-House of feanor
-House of finarfin
-House of fingolfin
-House of finwe
-House of hador
-House of haleth
-House of hurin
-House of isildur
-House of telcontar
 House of the Fountain
 House of the Golden Flower
 House of the Hammer of Wrath
@@ -6364,12 +5114,10 @@ House of the Harp
 House of the Heavenly Arch
 House of the Hundred Chimneys
 House of the King
-House of the Kings
 House of the Lord
 House of the Lords of Andúnië
 House of the Mirdain
 House of the Mole
-House of the Mírdain
 House of the Pillar
 House of the Stewards
 House of the Swallow
@@ -6377,23 +5125,10 @@ House of the Swan
 House of the Tower of Snow
 House of the Tree
 House of the Wing
-House of the fountain
-House of the golden flower
-House of the hammer of wrath
-House of the harp
-House of the heavenly arch
-House of the king
-House of the mole
-House of the pillar
-House of the swallow
-House of the tower of snow
-House of the tree
-House of the wing
 Houses
 Houses of Gondolin
 Houses of Healing
 Houses of the Dead
-Houses of the dead
 How We Became Middle-earth
 Howard Green
 Howard Shore
@@ -6405,13 +5140,7 @@ Hrolfs saga kraka
 Hronatani
 Hru-
 Hrávandil
-Hrávani
-Hrívë
-Hrólfs saga kraka
-Hrónatani
-Hröa
 Hröambari
-Hröangolmë
 Hröar
 Huan
 Huan the Hound
@@ -6421,13 +5150,11 @@ Hugo Bracegirdle
 Hugo Dyson
 Hugo Weaving
 Human
-Humans
 Humarni
 Hummerhorns
 Humphrey Carpenter
 Hundad
 Hundar
-Hungarian Tolkien Society
 Hungary
 Hunleth
 Hunt for the Ring
@@ -6437,15 +5164,11 @@ Hunting of the Wolf
 Huntsman of the Valar
 Huor
 Huorn
-Huorns
 Hur
 Hurin
 Hurin I
-Hurin II
 Hurin Thalion
-Hurin ii
 Hurin of Emyn Arnen
-Hurin of emyn arnen
 Hurin of the keys
 Hurin the tall
 Hurinionath
@@ -6456,7 +5179,6 @@ Hwermë
 Hwesta
 Hwesta Sindarinwa
 Hwinde
-Hwindë
 Hya
 Hyalma
 Hyamentir
@@ -6465,57 +5187,31 @@ Hyarion
 Hyarmen
 Hyarmendacil
 Hyarmendacil I
-Hyarmendacil II
-Hyarmendacil ii
 Hyarmenor
 Hyarmentir
 Hyarnustar
 Hyarrostar
 Hypnos Entertainment
 Hythe
-Háma
-Háma son of Helm
 Hávanissi
-Härskarringen
 Hægwudu se gréata
-Híri
-Hírilorn
-Hísilómë
-Hísimë
-Hísië
-Hîn
 Hîr
 Hîr Annûn
-Hîth
-Húrin
-Húrin I
-Húrin II
-Húrin Thalion
 Húrin of Dor-lómin
-Húrin of Emyn Arnen
-Húrin of the Keys
-Húrin the Tall
-Hûr
 I-Fennyr
 I-Lam na-Ngoldathon
 I-Palantir
 I-affection
-I.L. Gordon
-ICEe
-IT Territory
 I Am in Fact a Hobbit
 I Dranne
 I Sat Upon a Bench
 I See Fire
 I Sit Beside The Fire
 I Sit Beside the Fire and Think
-I Sit beside the Fire
-I Sit beside the Fire and Think
 I Vene Kemen
 I fantasins världar
 I sang of leaves
 I sang of leaves of leaves of gold
-I sit beside the fire and think
 Iach
 Iago Grubb
 Ian Brodie
@@ -6536,17 +5232,13 @@ Iavas
 Ibal
 Ibrinithilpathanezel
 Ibrîniðilpathânezel
-Ibrīniðilpathānezel
 Ibun
 Ice Bay of Forochel
 Ice bay of Forchel
-Ice bay of Forochel
 Ice of the North
-Icebay of Forochel
 Iceland
 Icelandic Song
 Ida Gordon
-Idaho and Montana Tolkien Society
 Ides Ælfscýne
 Ideshild
 Idh
@@ -6555,11 +5247,9 @@ Idis
 Idril
 Idril's secret way
 Idril Celebrindal
-Ien
 Ifant
 Iglishmek
-Iglishmêk
-Il superuomo e i suoi simboli nelle letterature moderne VI
+Il superuomo e i suoi simboli nelle letterature moderne
 Ilbereth
 Ilberic Brandybuck
 Ilfiniol
@@ -6568,13 +5258,10 @@ Ilinsor
 Ilion
 Ilkorin
 Ilkorindi
-Ilkorins
 Illuin
-Illustrations to J.R.R. Tolkien
 Ilmandur
 Ilmare
 Ilmarin
-Ilmarë
 Ilmen
 Ilpen
 Ilqingi
@@ -6586,40 +5273,30 @@ Ilwe
 Ilwen
 Ilweran
 Ilwir
-Ilwë
 Ilya
 Ilye
-Ilúvatar
 Ilúvë
 Images
-Images by J.R.R. Tolkien
 Images of Eowyn and the Witch-king
 Images of letters
 Images of manuscripts
-Images of Éowyn and the Witch-king
 Imaginations from the other Side
 Imb
 Imbar
-Imbe
-Imbë
 Imillië
 Imin
 Iminye
-Iminyë
 Imlach
 Imlad Morgul
 Imladris
-Imladris Danmarks Tolkienforening
 Imloth Melui
 Immortal
-Immortality
 Imperishable Flame Award
 Imrahil
 Imram
 Imrath Gondraich
 Imrath Gondraith
 Imrazor
-Imrazôr
 Imrim
 Imrin
 In Dreams
@@ -6627,7 +5304,6 @@ In Dwimordene in Lórien
 In Elven Lands
 In Hollow Halls Beneath the Fells
 In My Grandfather's Footsteps
-In Search of C.S. Lewis
 In The Shadow Of The Mountain
 In The Willow-meads Of Tasarinan
 In Western Lands
@@ -6636,24 +5312,15 @@ In the Company of Orcs
 In the House of Tom Bombadil
 In the Nameless Wood
 In the Valley Ha! Ha!
-In the Willow-meads of Tasarinan
-In western lands beneath the Sun
-Inbar
 Incanus
 Incarnate
-Incarnates
 Incomer
-Incomers
-Incánus
-Inde
 Index
 Index questions
 India
 Indis
-Indo
 Indor
 Inevitable Entertainment
-Ing
 Inga
 Ingalaurë
 Inger Edelfeldt
@@ -6661,14 +5328,12 @@ Ingil
 Ingil's Tirin
 Ingilmo
 Ingilnore
-Ingilnórë
 Inglor
 Inglor Felagund
 Inglorion
 Ingláf
 Ingold
 Ingoldo
-Ings
 Ingwe
 Ingwemar
 Ingweron
@@ -6676,11 +5341,9 @@ Ingwi
 Ingwiel
 Ingwil
 Ingwion
-Ingwë
 Inklingse
 Inklings Jahrbuch
 Inklings yearbook
-Inland Northwest Tolkien Society
 Inland Sea
 Inland Sea of Helcar
 Inner Seas
@@ -6693,14 +5356,9 @@ Inspirations of the Middle Earth
 Instruments
 Intavros
 Inter-University Magazine
-International Tolkien Fellowship
 Interplay Productions
 Interrupted Musice
 Interview
-Interviews
-Interviews relating to J.R.R. Tolkien
-Interviews with J.R.R. Tolkien
-Interviews with tolkien
 Inthavros
 Into the Storm
 Into the West
@@ -6708,17 +5366,12 @@ Inwe
 Inweg
 Inwilis
 Inwinore
-Inwinórë
 Inwir
 Inwithiel
-Inwë
 Inzil
 Inziladun
-Inziladûn
 Inzilbeth
-Inzilbêth
 Iol
-Ion
 Ior
 Iorbad
 Ioreth
@@ -6729,10 +5382,8 @@ Ireland
 Irensaga
 Irien
 Irilde
-Irildë
 Irime
 Irimon
-Irimë
 Irina Horea
 Iring
 Iris
@@ -6748,11 +5399,9 @@ Iron Hills
 Iron Mountains
 Iron of Death
 Ironfist
-Ironfists
 Ironfoot
 Irtinsa
 Isaac Asimov
-Isaac C. Singleton Jr.
 Isabelle Pantin
 Isembard Took
 Isembold Took
@@ -6762,35 +5411,29 @@ Isengar Took
 Isengard
 Isengard Unleashed
 Isengard and Northern Gondor
-Isengarders
 Isengrim
 Isengrim Took I
-Isengrim Took II
-Isengrim Took III
+Isengrim Took
 Isengrim i
 Isengrim ii
 Isengrim iii
 Isenguard
 Isenmouth
-Isenmouthe
 Isfin
 Ishmalog
 Isil
 Isildur
 Isildur's Bane
 Isildur's Heir
-Isildur's bane
 Isildurioni
 Isilme
 Isilmo
-Isilmë
 Isilya
 Islands
 Isle of Almaren
 Isle of Balar
 Isle of Elenna
 Isle of Eressea
-Isle of Eressëa
 Isle of Meneltarma
 Isle of Seabirds
 Isle of Werewolves
@@ -6798,26 +5441,19 @@ Isles
 Isles of the West
 Ismael Cruz Córdova
 Israel
-Israeli Tolkien Society
 Issemindon
 Ista
-Ista-
 Istar
 Istari
 Istarnie
-Istarnië
-Isumbras IV
+Isumbras
 Isumbras Took I
-Isumbras Took II
-Isumbras Took III
-Isumbras Took IV
+Isumbras Took
 Isumbras i
 Isumbras ii
 Isumbras iii
-Isumbras iv
 It's So Easy Not to Try
 It-
-Italian Tolkien Society
 Italy
 Itarildë
 Itarillë
@@ -6836,8 +5472,6 @@ Itseloktë
 Iumbo
 Iumbo or ye Kinde of ye Oliphaunt
 Iumonna Gold Galdre Bewunden
-Ivan A. Derzhanski
-Ivan A Derzhanski
 Ivan Derzhanski
 Ivann
 Ivanneth
@@ -6853,63 +5487,8 @@ Ivrin's Well
 Ivriniel
 Ivy Bush
 Ivy Goodenough
-Ivárë
 Iwrien
-Iâth
-Iën
-Iôr
-Iúmonna Gold Galdre Bewunden
 Iþil
-J.A.W. Bennett
-J.B. Cabell
-J.D. Payne
-J.D. Ruemmler
-J.E.A. Tyler
-J.R.R.Te
-J.R.R. Tolkein
-J.R.R. Tolkien
-J.R.R. Tolkien's Double Worlds and Creative Process
-J.R.R. Tolkien's Family Tree
-J.R.R. Tolkien's Letters to Rhona Beare
-J.R.R. Tolkien's Lord of the Rings
-J.R.R. Tolkien's Riders of Rohan
-J.R.R. Tolkien's Sanctifying Myth
-J.R.R. Tolkien's The Lord of the Rings Vol. Ie
-J.R.R. Tolkien's The Lord of the Rings Color and Activity Book
-J.R.R. Tolkien's The Lord of the Rings Coloring Book
-J.R.R. Tolkien's The Lord of the Rings Fotonovel
-J.R.R. Tolkien's The Silmarillion
-J.R.R. Tolkien's War in Middle-Earth
-J.R.R. Tolkien's War in Middle Earth
-J.R.R. Tolkien's diaries
-J.R.R. Tolkien's inspirations
-J.R.R. Tolkien's inspirations/by topic
-J.R.R. Tolkien's inspirations/notes
-J.R.R. Tolkien's signature
-J.R.R. Tolkien Robert E. Howard and the Birth of Modern Fantasye
-J.R.R. Tolkien/Quotations
-J.R.R. Tolkien/tempe
-J.R.R. Tolkien - Master of the Rings Gift Set
-J.R.R. Tolkien Calendar
-J.R.R. Tolkien Centenary Conference
-J.R.R. Tolkien Encyclopediae
-J.R.R. Tolkien Timeline
-J.R.R. Tolkien and His Literary Resonances
-J.R.R. Tolkien bibliography
-J.R.R. Tolkien e a crítica à Modernidade
-J.R.R. Tolkien signaturee
-J.R.Titmass
-J.R. Titmass
-J.W. Braun
-J. A. Bayona
-J. D. Payne
-J. R. R. Tolkien
-J. Williams
-JRRT
-JRRTE
-JRR Tolkiene
-JR Titmass
-JRsquared
 Ja Lattu Gamminn
 Jabez Olssen
 Jack
@@ -6919,7 +5498,6 @@ Jacksonville
 Jago Boffin
 Jake Uys
 Jakub Tymiński
-James A. Owen
 James Allan
 James Allen
 James Arnold Taylor
@@ -6944,7 +5522,6 @@ Janet Brennan Croft
 Janet Croft
 January
 Japan
-Jared C. Lobdell
 Jared Lobdell
 Jarion Monroe
 Jason Carter
@@ -6962,23 +5539,18 @@ Jemima Caitlin
 Jemima Catlin
 Jennifer Hale
 Jenny Dolfen
-Jenny dolfen
 Jeremy
 Jeremy Bennett
 Jerry VanderStelt
 Jerusalem Bible
 Jess of the Shire
 Jessamine Boffin
-Jessica M. Ney
-Jessica M. Ney-Grimm
 Jessica Neye
 Jewel-smiths
 Jewel-wrights
 Jewels of Darkness
 Jewels of Feanor
-Jewels of Fëanor
 Jigsaw puzzle
-Jigsaw puzzles
 Jill Thwaites
 Jim Allan
 Jim Allen
@@ -6995,7 +5567,6 @@ Johan de Meij
 John Alvin
 John Bach
 John Bell
-John Benjamin Tolkien
 John Boorman
 John Boorman's The Lord of the Rings
 John Bott
@@ -7003,9 +5574,6 @@ John Bryning
 John Callen
 John Church
 John Cook
-John D. Payne
-John D. Rateliff
-John D. Ruemmler
 John David Ruemmler
 John Ellison
 John Garth
@@ -7023,12 +5591,10 @@ John McGlynn
 John Noble
 John Rateliff
 John Rhys-Davies
-John Ronald Reuel Tolkien
 John Ryan
 John Rye
 John Stephenson
 John Suffield
-John Tolkien
 John Tui
 John Vickery
 John Wain
@@ -7044,8 +5610,6 @@ Jonathan Rudder
 Jonathan Simons
 Jordan
 Jorge Quinonez
-Jorge Quiñonez
-Jorge Quiñónez
 Jorn Benzon
 Jose Manuel Ferrandez
 Jose Manuel Ferrandez Bru
@@ -7054,18 +5618,13 @@ Joseph Mawle
 Joseph Pearce
 Joseph Power
 Joseph Wright
-Josh B. Long
 Josh Long
-José Manuel Ferrández Bru
 José María Miranda Boto
 Journal of Inklings Studies
-Journal of Tolkien Research
 Journals
 Journey of the Dunadan
 Journey to Undying Lands
 Journey to the Cross-Roads
-Journey to the Cross-roads
-Journey to the Crossroads
 Journey to the Grey Havens
 Journeys & Destinations
 Journeys and Maps
@@ -7077,37 +5636,10 @@ Judith Child
 Julaire Andelin
 Jules Bass
 Julian Bradfield
-Julian C. Bradfield
-Julian Tolkien
 July
 June
 Justin Gerard
 Jørn Benzon
-KAL
-KAN
-KARAK
-KAW
-KELU
-KEN
-KETH
-KEÞ
-KHAWA
-KHEL
-KHELEK
-KHEN
-KHEN-D-E
-KHIL
-KHILI
-KHU
-KHUG
-KHŪ
-KUL
-KWAR
-KWE
-KWENE
-KWET
-KWETE
-KYELEP
 Kai Vilhelmsen
 Kalab
 Kalakirya
@@ -7123,10 +5655,7 @@ Kalimbardi
 Kalimbo
 Kalimmakil
 Kaliondi
-Kallum Tolkien
 Kalorme
-Kalormë
-Kalórmë
 Kanafinwë
 Kanerva Heikkinen
 Kano
@@ -7148,18 +5677,14 @@ Karolina Stopa-Olszańska
 Karolina Węgrzyn
 Karsh
 Kataklusmos
-Kataklusmós
 Kate Henseed
 Kate Madison
 Kath Soucie
 Katharine Farrer
 Katharyn Crabbe
-Katharyn F. Crabbe
-Katharyn W. Crabbe
 Katherine Farrer
 Katherine Kilbride
 Kathleen Dubs
-Kathleen E. Dubs
 Kathryn Hurlbutt
 Katie Jackson
 Katrin Kunde
@@ -7174,51 +5699,36 @@ Keith Bridges
 Keith Ferguson
 Keladian
 Kelos
-Kelter dystre domprosten och Tolkien
 Kelusindi
 Kelvaquenta
 Kelvar
 Kemen
 Kementari
-Kementári
 Ken Kamins
 Ken Stott
 Kenji Kamiyama
-Kes
-Kes-
 Keskmaa Ordu
 Kesta
 Ketchup Games
 Key of Orthanc
 Khamul
-Khamûl
 Khand
 Khazad
 Khazad-Dúm
-Khazad-Dûm
-Khazad-dum
-Khazad-dûm
-Khazad Dúm
-Khazâd
 Kheled
 Kheled-zaram
-Kheled-zâram
 Kheledul
-Kheledûl
 Khim
 Khuzd
 Khuzdul
-Khîm
 Kibil
 Kibil-nala
-Kibil-nâla
 Kieron Elliott
 Kili
 Kilmessi
 Kilmessë
 Kim Mai Guest
 Kin-Strife
-Kin-strife
 Kinder Surprise
 Kindi
 Kine of Araw
@@ -7257,7 +5767,6 @@ King of Cardolan
 King of Dale
 King of Doriath
 King of Durin's Folk
-King of Durin's folk
 King of Eagles
 King of Erebor
 King of Faery
@@ -7265,20 +5774,14 @@ King of Gondolin
 King of Gondor
 King of Gondor and Arnor
 King of Khazad-dum
-King of Khazad-dûm
 King of Kings
 King of Lorien
-King of Lórien
 King of Men
 King of Nargothrond
 King of Numenor
-King of Numenore
-King of Númenor
-King of Númenórë
 King of Rhovanion
 King of Rhudaur
 King of Rohan
-King of numenor
 King of the Dark Elves
 King of the Dead
 King of the Mark
@@ -7289,7 +5792,6 @@ King of the Ring
 King of the Sea
 King of the West
 King of the World
-King under the Mountain
 King Ír
 Kingdom O' Magic
 Kingdom Under the Mountain
@@ -7299,35 +5801,15 @@ Kingdom of Lindon
 Kingdom of Manwë
 Kingdom of Rhovanion
 Kingdom of the South
-Kingdom under the Mountain
-Kingdoms of Arda
 Kingdoms of the Dunedain
-Kingdoms of the Dúnedain
 Kingfishers
 Kings' Norbury
-Kings' Reckoning
-Kings of Arnor
-Kings of Arthedain
-Kings of Cardolan
-Kings of Dale
-Kings of Durin's Folk
-Kings of Durin’s Folk
-Kings of Gondor
-Kings of Khazad-dûm
-Kings of Men
-Kings of Numenor
-Kings of Númenor
-Kings of Rhudaur
-Kings of Rohan
-Kings of the Mark
-Kings under the Mountain
 Kingsfoil
 Kingsland
 Kinn-lai
 Kinship of the Half-elven
 Kinslaying
 Kinslaying at Alqualonde
-Kinslaying at Alqualondë
 Kinslaying of Alqualondë
 Kip Rasmussen
 Kirdan
@@ -7345,7 +5827,6 @@ Knocking at the Door
 Koivië-néni
 Konami Corporation
 Kopa
-Kopas
 Kopas Alqaluntë
 Kor
 Koreldar
@@ -7376,48 +5857,16 @@ Kuluma
 Kundo
 Kurufinwe
 Kuruki
-Kurúki
 Kwara
 Kwende
 Kwendī
-Kwâra
-Kwāra
 Kyermë
 Kyle Anderson
-Káno
 Kémi
-Kíli
-Kópa
-Kôr
 Kúma
 Kúnë Mallë
 Kûd-dûkan
-L'Arc et le Heaume
-L'association La Compagnie de la Comté
-L'association La Faculté des études elfiques
-L. Sprague de Camp
-LAI
-LAK
-LAW
-LAWAR
-LEGO
-LEP
-LINI
-LINKWI
-LOR
-LORD
-LOTR
-LOTRO
-LOTRO Quest
-LOTROnPrime
-LOTRRPG
-LOTRSBGe
-LOTR Fanatics Plaza
-LSG
-LUH
 La Huru
-La Conexion Española de J.R.R. Tolkien
-La Húru
 La hobito
 La infancia recuperada
 La kunularo de l' ringo
@@ -7432,9 +5881,7 @@ Ladwen-na-Dhaideloth
 Ladwen Daideloth
 Lady Lindis
 Lady of Dor-lomin
-Lady of Dor-lómin
 Lady of Lorien
-Lady of Lórien
 Lady of Tol Eressëa
 Lady of the Galadhrim
 Lady of the Golden Wood
@@ -7453,13 +5900,10 @@ Laer Cú Beleg
 Laergil
 Lagduf
 Laicolasse
-Laicolassë
 Laiqalassë
 Laiquendi
 Laire
 Lairelosse
-Lairelossë
-Lairë
 Laita-
 Lake-men
 Lake-town
@@ -7467,10 +5911,7 @@ Lake Evendim
 Lake Helevorn
 Lake Mithrim
 Lake Nenuial
-Lake Town
-Lake town
 Lakes
-Laketown
 Lala
 Lalaith
 Lalaith daughter of Húrin
@@ -7480,14 +5921,10 @@ Lalia the Great
 Lalmindor
 Lalwen
 Lalwende
-Lalwendë
 Lamb
 Lamb's Farm Gedling
 Lamb and Flag
-Lambe
 Lambengolmor
-Lambs
-Lambë
 Lamedon
 Lament for Boromir
 Lament for Gandalf
@@ -7510,7 +5947,6 @@ Land of the Dead
 Land of the Dead that Live
 Land of the Halflings
 Land of the Sun
-Land of the sun
 Landroval
 Lands
 Lands Without
@@ -7545,11 +5981,9 @@ Las Vacacaciones de un Hobbit
 Lascelles Abercrombie
 Lasgalen
 Lass
-Lasse
 Lasse-lanta
 Lassemista
 Lassiriand
-Lassë
 Last Alliance
 Last Alliance of Elves and Men
 Last Ark
@@ -7567,7 +6001,6 @@ Last Ship
 Last Shore
 Last Stand of Balin's Colony
 Last Writings
-Last desert
 Last prince of Cardolan
 Last stand of Balin's folk
 Later Ages
@@ -7582,44 +6015,27 @@ Laurefindelë
 Laurefindil
 Laurelin
 Laurelindorenan
-Laurelindórenan
 Laurenandë
 Laurifindl
 Laurinque
-Laurinquë
 Laurundo
-Laurë
 Lavaralda
 Lavender Grubb
-Law Government and Society in J.R.R. Tolkien's Works
 Law of Succession in Númenor
 Lawrence Makoare
 Laws and Customs Among the Eldar
-Laws and Customs among the Eldar
 Lawsuits
 Lay of Aotrou and Itroun
 Lay of Beowulf
 Lay of Earendel
-Lay of Eärendel
 Lay of King Sheave
 Lay of Leithan
 Lay of Leithian
 Lay of Leithian Canto I
-Lay of Leithian Canto II
-Lay of Leithian Canto III
-Lay of Leithian Canto IV
-Lay of Leithian Canto IX
+Lay of Leithian Canto
 Lay of Leithian Canto V
-Lay of Leithian Canto VI
-Lay of Leithian Canto VII
-Lay of Leithian Canto VIII
 Lay of Leithian Canto X
-Lay of Leithian Canto XI
-Lay of Leithian Canto XII
-Lay of Leithian Canto XIII
-Lay of Leithian Canto XIV
 Lay of Leithian Cantos
-Lay of Leithian cantos
 Lay of Leithian continued
 Lay of Nimrodel
 Lay of the Children of Húrin
@@ -7649,7 +6065,6 @@ Leeds
 Leeds University
 Lefnui
 Legend of Sigurd and Gudrun
-Legend of Sigurd and Gudrún
 Legendarium
 Legendary animals
 Legendary creatures
@@ -7658,14 +6073,11 @@ Legendary races
 Legends of the Goths
 Legions of Middle-earth
 Lego
-Lego LOTRe
 Lego The Lord of the Ringse
 Legolas
 Legolas/Disputes
-Legolas/disputes
 Legolas Greenleaf
 Legolas Greenleaf polystone statue
-Legolas disputes
 Legolas legendary scale bust
 Legolas of Gondolin
 Legolas of Mirkwood
@@ -7674,20 +6086,17 @@ Legolin
 Leithien
 Lembas
 Lembas-extra
-Lembas Extra
 Lemberin
 Lembi
 Lemen
 Lemin
 Lempe
-Lempë
 Lenglinn
 Lengthening spell
 Lenition
 Lennasthrieln
 Lenny Henry
 Lenwe
-Lenwë
 Leo Carruthers
 Leod
 Leofa
@@ -7698,195 +6107,22 @@ Leonard Rosenman
 Leonid Korablev Calendar
 Lepen
 Lepenque
-Lepenquë
 Lepetta
 Leprawn
-Leprawns
 Leprechaun
-Leprechauns
 Lerembas
 Les Aventures de Tom Bombadil
-Les aventures de Tom Bombadil
 Leslie Ellen Jones
 Less Can Be More
 Lesser Market
 Lesser Rings
-Lesser rings
 Lest Melian
 Lestanórë
 Let Mortal Heroes Sing Your Fame
 Lethuin
-Letter
-Letter to \My Dear People\
-Letter to \My dear Ladies\
-Letter to Agatha Carew Hunt
-Letter to Alan White
-Letter to Anthony D. Howlett
-Letter to Anthony Roberts
-Letter to Arthur Ransome
-Letter to Arthur Tolkien
-Letter to Aurelius Pompen
-Letter to Baronne A. Baeyens
-Letter to Billy Callahan
-Letter to Brian Miller
-Letter to Bruce Charlton
-Letter to Bruce Mitchell
-Letter to C.N. Manlove
-Letter to Campbell
-Letter to Carole Ward
-Letter to Cees Ouboter
-Letter to Charles Calleja
-Letter to Christine Jones
-Letter to Christopher Fettes
-Letter to Clyde S. Kilby
-Letter to Cor Blok
-Letter to David Hicks
-Letter to David L. Sands
-Letter to Derrick Parnum
-Letter to Dick Plotz
-Letter to Donald A. Wollheim
-Letter to Donna Sadlier
-Letter to Dorothy
-Letter to Dr. Denis Tolhurst
-Letter to E. Rasdall
-Letter to Elena Jeronimides
-Letter to Elizabeth Jennings
-Letter to Elizabeth Jones
-Letter to Eva Heilborn
-Letter to Father Francis Morgan
-Letter to Father Hugh Maycock
-Letter to G.H. Cowling
-Letter to G.S. Rigby Jr.
-Letter to Gene Wolfe
-Letter to George Allen & Unwin
-Letter to George Allen and Unwin
-Letter to George Burke Johnston
-Letter to Glyn Daniel
-Letter to H.W. Donner
-Letter to Harry C. Bauer
-Letter to Henry Willink
-Letter to Herbert Schiro
-Letter to Hilary Tolkien
-Letter to Humphrey Carpenter
-Letter to Ingeborg Korff
-Letter to Ingrid Pridgeon
-Letter to Iona and Peter Opie
-Letter to J.D. Gilbert
-Letter to James A.H. Murray
-Letter to James Ridolfo
-Letter to Jan Broberg
-Letter to Jane Dixon
-Letter to Jane T. Sibley
-Letter to Jared C. Lobdell
-Letter to Joan O. Falconer
-Letter to John Higgins
-Letter to John Kettle
-Letter to John Leyerle
-Letter to John Roberts
-Letter to Jonathan Hepworth
-Letter to Joseph Wright
-Letter to Julie Cape
-Letter to Justin Arundale
-Letter to Kenneth I. Rasmussen Jr.
-Letter to L.M. Cutts
-Letter to L. Sprague de Camp
-Letter to Leila Keene and Pat Kirke
-Letter to Leslie Holloway
-Letter to Maegraith
-Letter to Malcolm Knox
-Letter to Maria Mroczkowska
-Letter to Martin M. Snapp
-Letter to Max Rouslin
-Letter to Michael Blashka
-Letter to Milton Waldman
-Letter to Miss Clark
-Letter to Miss How
-Letter to Miss J.L. Curry
-Letter to Miss Jaworski
-Letter to Miss Kilbride
-Letter to Miss Perry
-Letter to Misses E. Jones and J. Taylor
-Letter to Mother Mary Anthony
-Letter to Mr Ashton
-Letter to Mr Burrows
-Letter to Mr Capan
-Letter to Mr Cowan
-Letter to Mr Earle
-Letter to Mr Hart
-Letter to Mr Hayward
-Letter to Mr Joukes
-Letter to Mr Lancashire
-Letter to Mr Polet
-Letter to Mr Walker
-Letter to Mr Wood
-Letter to Mr and Mrs Kloos
-Letter to Mrs. Rachael Feichtmeir
-Letter to Mrs A. Mountfield
-Letter to Mrs Dixey
-Letter to Mrs Gill
-Letter to Mrs Munby
-Letter to Mrs Rachael Feichtmeir
-Letter to Mrs Robertson
-Letter to Mrs Souch
-Letter to N.J. Kyle
-Letter to Naomi Mitchison
-Letter to Nevill Coghill
-Letter to Niall Hoskin
-Letter to Norman Power
-Letter to Oscar Morland
-Letter to Otto B. Lindhardt
-Letter to Patricia Kirke
-Letter to Patrick Hunt
-Letter to Paul Barnetson
-Letter to Paul Bibire
-Letter to Pauline Baynes
-Letter to Peyton Moss
-Letter to Philip Brown
-Letter to R.W. Chambers
-Letter to Randy Trimmer
-Letter to Richard Lupoff
-Letter to Robert Havard
-Letter to Rod Jellema
-Letter to Roger Shaw
-Letter to Ronald Ashton
-Letter to Ronald Eames
-Letter to Rose MacNamara
-Letter to Rosfrith Murray
-Letter to Royston F. Porthouse
-Letter to Simonne d'Ardenne
-Letter to Stanley Unwin
-Letter to Stefan Petterson
-Letter to Sue Parman
-Letter to T.P. Dunning
-Letter to Terence Tiller
-Letter to The Librarian at Marquette
-Letter to Tom Shippey
-Letter to Vera Chapman and the Tolkien Society
-Letter to W.A.R. Hadley
-Letter to W.B. Crouch
-Letter to W.R. Matthews
-Letter to William Galbraith
-Letter to William McCullam
-Letter to William Ready
-Letter to a Primary School in Acocks Green
-Letter to an unknown Dutchman
-Letter to the Royal Society of Literature
-Letter to the War Office
-Letter to the editor of Triode
-Letters
-Letters from Father Christmas
-Letters not published in \The Letters of J.R.R. Tolkien\
-Letters not published in The Letters of J.R.R. Tolkien
-Letters of J.R.R. Tolkien
-Letters to Dorothy Wood
-Letters to Jerome W. Archer
-Letters to Przemyslaw Mroczkowski
-Letters to an American Lady
 Levain tad-dail
 Levnui
-Lewis Carroll
 Lewis MacLeod
-Lfc
 Lhach
 Lhammas
 Lhamthanc
@@ -7899,20 +6135,11 @@ Lhong
 Lhonn
 Lhug
 Lhun
-Lhûg
-Lhûn
 Liam Campbell
-Liam O'Brien
-Licensing
-Licensing Timeline
 Lidless Eye
 Lieutenant of the Tower of Barad-dur
-Lieutenant of the Tower of Barad-dûr
-Light
 Light-elves
 Light Beyond All Shadow
-Light Beyond All Shadows
-Light Elves
 Light as Leaf on Lindentree
 Light of Valinor
 Lightfoot
@@ -7920,23 +6147,17 @@ Lightfoot Family
 Lightning from a Clear Sky
 Like Some Snow-white Marble Eyes
 Lilies
-Lily
 Lily Baggins
 Lily Brown
 Lily Collins
 Lily Cotton
 Limhir
-Limhîr
 Limlaith
 Limlich
 Limlight
 Limliht
 Limlint
-Limlîht
 Limpe
-Limpë
-Lin
-Lin Carter
 Linaewen
 Lind
 Lind Erebros
@@ -7951,14 +6172,11 @@ Lindens
 Lindir
 Lindis
 Lindisse
-Lindissë
 Lindo
 Lindon
 Lindorie
 Lindsey Stirling
-Lindónë
 Lindórinand
-Lindórië
 Line of Durin
 Line of Elros
 Linguaphone
@@ -7968,15 +6186,11 @@ Linhir
 Linnod
 Linnon
 Linque súrisse
-Linquë súrisse
 Linta
 Lintie
 Lintip
-Lintips
 Linwë Tinto
-Lion
 Lionesse
-Lions
 Lire
 Lirillo
 Lirulin
@@ -7986,32 +6200,10 @@ Lisgardh
 Lisse
 Lissuin
 Lissëe
-List of Gentle Giant Collectibles
-List of Museum Replicas
-List of Place Names
-List of Podcasts
-List of Rivers
-List of Sideshow Collectibles
-List of The Lord of the Rings Trading Card Game cards
-List of Tolkien-related podcasts
-List of Tolkien Encyclopedias
-List of VanderStelt Studio Collectibles
-List of books in Tolkien's library
-List of encyclopaedias
-List of encyclopedias
-List of minor The Lord of the Rings Online characters in Bree-land
-List of minor The Lord of the Rings Online characters in Evendim
-List of minor The Lord of the Rings Online characters in the Ered Luin
-List of tolkien encyclopaedias
-List of tolkien encyclopedias
-List of tolkien wikis
-List of video games by date
-List of wikis
 Lit' and Lang'
 Litany of Loreto
 Literary Swordsmen and Sorcerers
 Lith
-Lithe
 Lithedays
 Lithir
 Lithlad
@@ -8036,42 +6228,32 @@ Lobelia Bracegirdle
 Lobelia Sackville-Baggins
 Locations
 Locations in The Hobbit
-Locations named after Tolkien's works
 Loce
 Lockbearer
 Lockholes
 Lockwood West
-Locë
 Lode Claes
 Loeg Ningloron
 Loende
 Lofar
-Logomarca Sociedade de Tolkien Brasileira
 Lograd
 Loke
-Lokë
 Lome
 Lomearni
 Lomendanar
-Lomendánar
 Lominore
 Lomion
 Lond
 Lond Daer
 Lond Daer Ened
 Lond Daer Enedh
-Londë
 Lone-lands
 Lonely Isle
 Lonely Mountain
 Lonely Troll
-Long
 Long-worm
-Long-worms
 Long Cleeve
 Long Hom Cotton
-Long Lake
-Long List of the Ents
 Long Lost to Where No Pathway Goes
 Long Marshes
 Long Night
@@ -8081,7 +6263,6 @@ Long Ways to Go Yet
 Long Winter
 Long live the Halflings! Praise them with great praise!
 Longbeard
-Longbeards
 Longbottom
 Longbottom Leaf
 Longholes
@@ -8093,7 +6274,6 @@ Looking for the King
 Looney
 Lopo
 Lopoldi
-Lord
 Lord's Prayer
 Lord David Cecil
 Lord and Lady
@@ -8102,16 +6282,13 @@ Lord and Lady of Lórien
 Lord for Always
 Lord of All
 Lord of Andunie
-Lord of Andúnië
 Lord of Balrogs
 Lord of Barad-dur
-Lord of Barad-dûr
 Lord of Belegost
 Lord of Brethil
 Lord of Dale
 Lord of Dol Amroth
 Lord of Dor-lomin
-Lord of Dor-lómin
 Lord of Eagles
 Lord of Emyn Arnen
 Lord of Eregion
@@ -8123,7 +6300,6 @@ Lord of Ladros
 Lord of Lamedon
 Lord of Lorien
 Lord of Lossarnach
-Lord of Lórien
 Lord of Minas Morgul
 Lord of Minas Tirith
 Lord of Mordor
@@ -8134,7 +6310,6 @@ Lord of Nogrod
 Lord of Rivendell
 Lord of Rohan
 Lord of Waters
-Lord of andunie
 Lord of the Breath of Arda
 Lord of the Brush
 Lord of the Eagles
@@ -8143,45 +6318,18 @@ Lord of the Glittering Caves
 Lord of the Iron Hills
 Lord of the Mark
 Lord of the Nazgul
-Lord of the Nazgûl
 Lord of the Nine Riders
 Lord of the Piercing
 Lord of the Ring
-Lord of the Ringse
-Lord of the Rings Adventure Game
-Lord of the Rings Collector Plate Calendar
-Lord of the Rings Living Card Game
-Lord of the Rings Online
-Lord of the Rings Poster Map
-Lord of the Rings Project
-Lord of the Rings RPG
-Lord of the Rings Roleplaying Game
-Lord of the Rings Strategy Battle Game
-Lord of the Rings Symphony
-Lord of the Rings Trivia Game
-Lord of the Rings on Prime
 Lord of the West
 Lord of the lights
-Lord of the ringse
 Lord of the rings aragorn's quest
-Lord of the rings aragorns quest
-Lord of the Éothéod
-Lordoftherings.net
-Lords of Andunie
-Lords of Andúnie
-Lords of Andúnië
-Lords of Dor-lomin
-Lords of Dor-lómine
 Lords of Valinor
-Lords of andunie
 Lords of the Rhymes
 Lords of the Valar
-Lords of the West
-Lords of the Éothéod
 Lorellin
 Loremaster
 Loremaster's Screen and Lake-town Sourcebook
-Loremasters
 Lorgan
 Lori Dungey
 Lorien
@@ -8203,12 +6351,9 @@ Lost Realm of Cardolan
 Lost Tales
 Lost in Emyn Muil
 Lostladen
-LotR
-LotR Projecte
 Lote
 Lotel
 Lotesse
-Lotessë
 Loth
 Lotheg
 Lothengriol
@@ -8216,45 +6361,31 @@ Lothiriel
 Lothlann
 Lothlim
 Lothlorien
-Lothlórien
 Lothlöryen
 Lotho
 Lotho Sackville-Baggins
 Lothrod
 Lothron
-Lothíriel
 Lotisse
-Lotissë
-Lotr project
-Lotrfanaticsplaza
-Lotro
 Lotrplaza
 Loudwater
 Lowdham
-Loëndë
 Luca Michelucci
 Lucifer Chu
-Luck
 Luckwearer
 Lug
 Lugburz
-Lugbúrz
 Lugdush
 Luime
-Luimë
 Luin
-Luine
 Luinil
-Luinë
 Luis Bejarano
-Luis F. Bejarano
 Lukasz Neubauer
 Luke Evans
 Luke Pasqualino
 Lumbar
 Lumbi
 Lumbule
-Lumbulë
 Lume
 Lumfad
 Lumfod
@@ -8274,85 +6405,17 @@ Luthien
 Luthien Tinuviel
 Luva
 Luvailin
-Lye
 Lynette Porter
 Lynn Maudlin
 Lynnette Porter
-Lyë
-LÁWAR
-Lá Húru
 Lámatyáve
-Lámatyávë
-Lár
-Láthspell
-Léod
-Léofa
-Lëa
 Lída Holubová
-Lírë
-Lóce
-Lócë
-Lóke
-Lókë
 Lómin
-Lóminórë
-Lómion
-Lómë
 Lómëanor
-Lómëarni
-Lóni
-Lórellin
-Lórien
 Lórien and the Halls of the Elven Smiths
-Lórien in Middle-earth
-Lórien in Valinor
-Lórien the Vala
-Lórinand
-Lórindol
-Lótessë
-Lótë
-Lôgrad
-Löa
-Lúme
-Lúmë
 Lúnaturco
-Lúrin
-Lúsion
 Lúth
-Lúthien
-Lúthien Tinúviel
-Lúva
-LĬNĬ
-Lōgrad
-L’Associazione romana studi Tolkieniani
-MALA
-MALAT
-MBAR
-MBEL
-MBIRIL
-MBÍRIL
-MEAS
-MEBA
-MECCG
-MEDM
-MEL
-MELE
-MELEK
-MEN
-MEPe
-MEQ
-MERPe
-MESBG
-METD
-METWe
-MEWH
-MGM
-MIR
-MOR
-MUDs
-MUMEe
 Mabel Suffield
-Mabel Tolkien
 Mabinogion
 Mablon
 Mablung
@@ -8371,7 +6434,6 @@ Maedhros
 Maedros
 Maeg
 Maeglin
-Maelstrom Games Ltd.
 Maew
 Magan
 Magbar
@@ -8385,22 +6447,17 @@ Magical Tales
 Magiske verdener
 Maglor
 Maglor's Gap
-Maglor's gap
 Magnus Aberg
-Magnus Åberg
 Mago
 Magol
 Magor
 Magorn
 Magron
 Magrot
-Magyar Tolkien Társaság
-Magân
 Mahal
 Mahanaxar
 Mahtan
 Mahud
-Mahûd
 Maia
 Maiar
 Maidh
@@ -8411,20 +6468,15 @@ Mailin
 Mailindo
 Mailing lists
 Main Page
-Main page
 Mairen
 Mairon
 Maitimo
 Maitë
 Maiwe
-Maiwë
 Major Road Ahead
 Makalaure
-Makalaurë
 Makar
 Maker of Middle-earth
-Mal-
-Mala
 Malacandra
 Malach
 Malach Aradan
@@ -8439,13 +6491,11 @@ Malgalad
 Malgorzata Pudlik
 Malinalda
 Malinorne
-Malinornë
 Malkamekte
 Malkarauki
 Mallor
 Mallorn
 Mallorn journal
-Mallorns
 Mallos
 Malmaurien
 Malt
@@ -8460,50 +6510,31 @@ Mamandil
 Man
 Man-hearted
 Man-in-the-Moon
-Man in the Moon
 Man of the West
 Manata
 Mando
-Mandos
 Manfred Zimmermann
 Manheartede
 Manir
 Mannish
 Mans Bjorkman
 Mansion of Aule
-Mansion of Aulë
-Mansions of Aule
-Mansions of Aulë
 Manthor
 Manu Bennett
-Manuscript notes in Dictionary in Englysshe and Welshe
 Manuscripts
 Manwe
 Manwe's halls
 Manweg
 Manwendil
-Manwë
 Many Colours
 Many Meetings
 Many Partings
-Map
-Map of Beleriand
-Map of Beleriand and the Lands to the North
-Map of Rohan Gondor and Mordor
-Map of Thror
-Map of Wilderland
-Maps
-Maps of Middle-Earth
-Maps of Middle-earthe
-Mar
-Mar-
 Mar-nu-Falmar
 Mar Tyaliéva
 Mar Vanwa Tyaliéva
 Marach
 Marc Gunn
 Marcel Aubron-Bulles
-Marcel Aubron-Bülles
 Marcel Bülles
 March
 March of Liberation
@@ -8515,13 +6546,12 @@ Marchwardens
 Marcin Morawski
 Mardil
 Mardil Voronwe
-Mardil Voronwë
 Maret Kernumees
 Margaret Carroux
 Margaret Joy Hill
 Margid Rustborin
 Margoliantë Berúthiel
-Margrethe II of Denmark
+Margrethe
 Marhari
 Marhath
 Marhwini
@@ -8535,21 +6565,16 @@ Marigold Gamgee
 Marilla
 Mario
 Marion Arts
-Marion E. Wade Center
 Marion Zimmer Bradley
 Marish
-Mariët Theune
 Marjorie Burns
-Marjorie J. Burns
 Marjorie Westbury
 Mark
 Mark Atherton
 Mark Ferguson
 Mark Hadlow
 Mark Hooker
-Mark J.P. Wolf
 Mark Ordesky
-Mark T. Hooker
 Mark Whittlesey
 Mark Wolf
 Markella Kavenagh
@@ -8561,7 +6586,6 @@ Marquette
 Marquette University
 Marring of the Spring of Arda
 Marroc Brandybuck
-Mars
 Marshal
 Marshal of the East-mark
 Marshal of the Mark
@@ -8573,7 +6597,6 @@ Marshes of Nevrast
 Marshlands
 Martalmar
 Martamo
-Martha C. Sammons
 Martin Freeman
 Martin Jarvis
 Martin Shaw
@@ -8590,7 +6613,6 @@ Mary Nesbitt
 Mary Renault
 Marya Filatova
 María
-María Lombide Ezpeleta
 Massacre at Tarn Aeluin
 Massacre at the Fords of Isen
 Massacre of Tarn Aeluin
@@ -8613,22 +6635,18 @@ Master of the Halle
 Masterpieces of Terror and the Supernatural
 Masters of Spirits
 Masters of Stone
-Masterstone
 Mat Heathertoes
 Matej Cadil
 Matengwie
 Mathi Stouthand
 Mathom
 Mathom-house
-Mathoms
 Matt Blessing
 Matt Craighead
 Matthew Dickerson
 Matthew Locricchio
 Matthew Vernon
-Matěj Čadil
 Mauhur
-Mauhúr
 Maule
 Maulir
 Maura
@@ -8650,7 +6668,6 @@ Małgorzata Pudlik
 Mear
 Mearas
 Measse
-Meassë
 Mechos
 Mechothli
 Mede
@@ -8668,8 +6685,6 @@ Meidh
 Mela
 Melbourne House
 Melbourne House Publishers
-Melbourne House Publishers Limited.
-Melbourne House Publishers Ltd.
 Meldis
 Melemno
 Meleth
@@ -8686,13 +6701,10 @@ Mellon
 Mellonath Daeron
 Mellyrn
 Melme
-Melmë
 Melpomaen
 Melthinorn
 Melyanna
-Men
 Men Halflings and Hero Worship
-Men-
 Men-i-Naugrim
 Men of Arnor
 Men of Bree
@@ -8700,7 +6712,6 @@ Men of Brethil
 Men of Dale
 Men of Darkness
 Men of Dor-lomin
-Men of Dor-lómin
 Men of Dorthonion
 Men of Eriador
 Men of Gondor
@@ -8710,7 +6721,6 @@ Men of Harad
 Men of Hithlum
 Men of Minas Tirith
 Men of Numenor
-Men of Númenor
 Men of Old
 Men of Rohan
 Men of Shadow
@@ -8724,7 +6734,6 @@ Men of the Mountains
 Men of the North
 Men of the Vales of Anduin
 Men of the West
-Men of the Éothéod
 Mene
 Meneg
 Menegilda Goold
@@ -8747,7 +6756,6 @@ Menelvagor
 Menelya
 Mentha Brandybuck
 Mentie
-Mentië
 Mere of Dead Faces
 Meres
 Meres of Twilight
@@ -8761,18 +6769,14 @@ Meril
 Meril-i-Turinqi
 Meril-i-Turinqui
 Meril Turinqi
-Meril i Turinqi
 Merimac Brandybuck
 Merimas Brandybuck
 Mering Stream
 Merlock
 Merlock Mountains
 Mermaid
-Mermaids
 MerpCon
 MerpCon I
-MerpCon II
-MerpCon III
 Merrill
 Merry
 Merry's Simple Courage
@@ -8790,91 +6794,26 @@ Methedras
 Methgil
 Methiriad
 Methuen
-Metro-Goldwyn-Mayer
 Mettarë
 Mew
 Mewlips
-Mexican Tolkien Society
 Mexico
-Meássë
 Miaule
-Miaulë
-Mice
-Michael Bakewell
-Michael Beattie
-Michael D.C. Drout
-Michael D. C. Drout
-Michael Deacon
-Michael Drout
-Michael Elsworth
-Michael George Ramer
-Michael George Tolkien
-Michael Graham Cox
-Michael Green
-Michael Hague
-Michael Hilary Reuel Tolkien
-Michael Hordern
-Michael John Moorcock
-Michael Kaluta
-Michael Martinez
-Michael McStay
-Michael Moorcock
-Michael N. Stanton
-Michael Reisz
-Michael Scholes
-Michael Silverman Catalogue Nine
-Michael Spice
-Michael Tolkien
-Michael Yurchak
-Michaël Devaux
-Michał Leśniewski
-Michel Delving
 Mickleburg
 Mid-year's Day
-Midden-aarde MUDe
-Middle-earth
-Middle-earth or There and Back Againe
-Middle-earth Adventure Guidebook II
-Middle-earth CCG Maps
-Middle-earth Campaign Guide
-Middle-earth Collectible Card Game
-Middle-earth Enterprises
-Middle-earth Enterprises/Copyrights
-Middle-earth Fauna
-Middle-earth Minstrel
-Middle-earth Minutes
-Middle-earth Network
-Middle-earth Network Specials
-Middle-earth Online
-Middle-earth PBM
-Middle-earth Play-By-Mail
-Middle-earth Puzzles
-Middle-earth Quest
-Middle-earth Role Playinge
-Middle-earth Role Playing Accessory Pack
-Middle-earth Role Playing Combat Screen and Reference Sheets
-Middle-earth Role Playing Poster Maps
-Middle-earth Shadow of Mordor
-Middle-earth Strategy Battle Game
-Middle-earth Talk Radio
-Middle-earth and Beyond
-Middle-earth museum
+Midden-aarde
 Middle Age
 Middle Days
-Middle Earthe
 Middle Elves
 Middle English
 Middle English 'Losenger'
 Middle English Vocabulary
 Middle Kingdom
 Middle Men
-Middle earth museum
 Midgewater
 Midgewater Marshes
 Midsummer
 Midway Games
-Midway Games Inc.
-Midyear's Day
 Might and Glory
 Mighty of the West
 Mika Milovana
@@ -8892,7 +6831,6 @@ Mim
 Mimosa Bunce
 Min
 Min-Rimmon
-Min-rimmon
 Minal-zidar
 Minalcar
 Minalkar
@@ -8905,25 +6843,20 @@ Minas Ithil palantír
 Minas Morgul
 Minas Tirith
 Minas Tirith Evening-Star
-Minas Tirith Evening Star
 Minas Tirith in Beleriand
 Minas Tirith in Gondor
 Minas Tsoulis
 Minasse
 Minastan
 Minastir
-Minastirith.com
 Mindambeth
 Mindeb
 Mindolluin
 Mindon
 Mindon-Gwar
 Mindon Eldalieva
-Mindon Eldaliéva
-Mindon Gwar
 Mines
 Mines of Moriae
-Mines of moria
 Minhiriath
 Minib
 Miniel
@@ -8938,11 +6871,9 @@ Minuial
 Minya
 Minyar
 Minyatur
-Minë
 Mio min Mio
 Miq-
 Miqe(e)
-Mir
 Mirabella Took
 Miranda Otto
 Mirdain
@@ -8962,28 +6893,19 @@ Mirroanwë
 Mirror Mirror
 Mirror of Galadriel
 Mirrormere
-Mirrosoft Ltd.
-Mirröanwi
 Mirubhoze
-Mirubhôze
-Mirubhôzê
-Mirubhōze
 Miruvor
-Miruvórë
 Mirya
 Misconceptions
 Mistakes and inconsistencies
-Mistakes and inconsistencies in Tolkien's works
 Mistress of Magic
 Misty Mountain Hop
 Misty Mountains
 Misty Mountains Cold
 Mith
-Mithe
 Mithe Steps
 Mitheithel
 Mithlond
-Mithlond Göteborgs Tolkiensällskap
 Mithrandir
 Mithrellas
 Mithril
@@ -8991,7 +6913,6 @@ Mithril-coat
 Mithril Armoury
 Mithril Awards
 Mithril Miniatures
-Mithril coat
 Mithril mail
 Mithrim
 Mithrimin
@@ -9002,7 +6923,6 @@ Modern Englishe
 Moerbin
 Mogru
 Mole
-Moles
 Molly
 Monday
 Monday Morning
@@ -9015,12 +6935,9 @@ Monuments
 Moon
 Moon-letters
 Moon-runes
-Moon Letters
-Moon Runes
 Moontower
 Moors of the Neweglu
 Moors of the Nibin-noeg
-Mor
 Morannon
 Morben
 Morbin
@@ -9032,7 +6949,6 @@ Mordor
 Mordor-orcs
 Mordu
 More
-More People's Guide to J.R.R. Tolkien
 Morenore
 Morfydd Clark
 Morgai
@@ -9042,27 +6958,18 @@ Morgoth's Ring
 Morgoth Bauglir
 Morgul
 Morgul-blade
-Morgul-blades
 Morgul-knife
 Morgul-knives
 Morgul-road
 Morgul-spell
-Morgul-spells
 Morgul-vale
 Morgul-wound
-Morgul-wounds
 Morgul Pass
-Morgul Vale
-Morgul blade
-Morgul blades
-Morgul knife
-Morgul knives
 Morgulduin
 Mori-
 Moria
 Moria-gate
 Moria-silvere
-Moria Gate
 Moria Orc Swordsman polystone bust
 Morifinwë
 Morikotto
@@ -9071,7 +6978,6 @@ Moringotto
 Morion
 Morionde
 Moriondor
-Moriondë
 Moripendi
 Moriquendi
 Mormegil
@@ -9080,15 +6986,11 @@ Morna
 Mornan
 Mornedhel
 Mornie
-Morning
 Morning Tea
 Mornir
-Mornië
 Moro Burrows
 Morrowdim
 Mortal
-Mortality
-Mortals
 Morthond
 Moru
 Morwe
@@ -9099,18 +7001,11 @@ Morwen Steelsheen
 Morwen of Lossarnach
 Morwen of Rohan
 Morwinyon
-Morwë
-Morwë and Nurwë
-Morë
 Mosco Burrows
 Mostly Autumn
 Moth
 Mother! O Lady Throned beyond the Stars
 Mother-name
-Mother-names
-Mother Name
-Mother name
-Moths
 Mound of Elendil
 Mound of Riders
 Mound of the First Sorrow
@@ -9118,10 +7013,8 @@ Mound of the Riders
 Mounds of Mundburg
 MountDolmed
 Mount Caradhras
-Mount Dolmed
 Mount Doom
 Mount Ever-white
-Mount Everwhite
 Mount Fang
 Mount Gram
 Mount Gundabad
@@ -9132,7 +7025,6 @@ Mount Taniquetil
 Mount Taras
 Mountain-troll
 Mountain-trollse
-Mountain Troll
 Mountain Wall
 Mountain of Fire
 Mountains
@@ -9156,33 +7048,11 @@ Mouth of Sauron
 Mouth of Sirion
 Mouths of Anduin
 Mouths of Entwash
-Mouths of Sirion
 Mouths of the Entwash
 Mouths of the Sirion
 Movie books
 Movies
-Mr. Baggins
-Mr. Bliss
-Mr. Mouse
-Mr. Mugwort
-Mr. Parish
-Mr. Underhill
-Mr Bliss
 Mr Cave Bear
-Mr Parish
-Mr mugwort
-Mrs. Bracegirdle
-Mrs. Bunce
-Mrs. Cotton
-Mrs. Maggot
-Mrs. Parish
-Mrs. Proudfoot
-Mrs Bracegirdle
-Mrs Maggot
-Mrs Proudfoot
-Mt. Dolmed
-Mt. Doom
-Mt. Taniquetil
 Muermamick Softwarradas Productiones
 Mugwort
 Mugwort Family
@@ -9201,26 +7071,19 @@ Music
 Music Drama in Schools
 Music Inspired by Middle Earth
 Music in Middle-earth
-Music in Tolkien's Work and Beyond
 Music of the Ainur
 Musical instruments
 Muster of Edoras
-Muster of edoras
 Muzgash
 My Armour Is Iron
 My Dear Frodo
 My Precious
 Myl
 Myrtle Burrows
-Mystic Legends...
 Mystics
 Mytenes mann
 Myth Allegory and Gospel
-Myth Magic and Meaning in Tolkien's Worlde
 Mythcon
-Mythcon XVIII
-Mythcon XXIII
-Mythcon XXXVI
 Mythgard Institute
 Mythic Circle
 Mythloree
@@ -9232,61 +7095,22 @@ Mythopoeic Society
 Mythos Journal
 Mythprint
 Myths Transformed
-Mágol
 Máhan
-Máhanaxar
 Máhani
 Málambë
 Máma
-Mámandil
-Mánata
 Mánfrið
-Mánir
-Már
 Mário Braga
-Mátengwië
 Mâchananaškad
 Mârim
-Måns Björkman
 Médhor
-Méla
 Mínil
-Mír
 Mír n'Ardhon
 Mír n'Arðon
-Mírdain
 Mírdan
-Míre
 Míri
-Míriel
-Míriel Serindë
-Míriel of Númenor
 Míriel Þerindë
-Mírë
-Mîm
-Mîr
-Móru
-Môr
-Mûmak
-Mûmakil
-Māla
 Mānawenūz
-Mĭrya
-Mŷl
-N.N.
-NAK
-NASAG
-NEK
-NEN
-NGAW
-NGOL
-NGOLOD
-NGUR
-NGWAW
-NHN
-NHN Corp
-NHN Corporation
-NIMIR
 Nacon
 Naechaerra
 Naeramarth
@@ -9300,11 +7124,8 @@ Nai
 Naimi
 Nain
 Nain I
-Nain II
-Nain ii
 Nain son of Gror
 Nainie
-Nainië
 Naith
 Nala
 Nali
@@ -9313,26 +7134,20 @@ Naltalma
 Naltariel
 Namarie
 Nameless Things
-Nameless things
 Namo
 Nampat
-Namárië
 Nan
-Nan-
 Nan-tasarion
 Nan-tathren
 Nan Curunir
-Nan Curunír
 Nan Dungortheb
 Nan Elmoth
 Nan Gondresgion
 Nan Smithson
-Nan Tathren
 Nancy Martsch
 Nancy Smith
 Nand
 Nand' Ondolunkava
-Nande
 Nandin
 Nandini
 Nandir
@@ -9340,7 +7155,6 @@ Nando
 Nandor
 Nandorin
 Nanduhirion
-Nandë
 Nanno
 Nano
 Nanwa
@@ -9356,28 +7170,19 @@ Nargil
 Nargil Pass
 Nargos
 Nargothrond
-Nargothronders
 Nargun
-Nargûn
 Narie
 Narl
 Narmacil
 Narmacil I
-Narmacil II
-Narmacil ii
 Narn
 Narn I Chin Hurin
-Narn i Chin Hurin
-Narn i Chîn Húrin
 Narn i Hin Hurin
-Narn i Hîn Húrin
-Narn i chín Húrin
 Narnia
 Narog
 Narqelion
 Narquelie
 Narquelion
-Narquelië
 Narrow Ice
 Narrow Land
 Narrows
@@ -9388,7 +7193,6 @@ Narthseg
 Naruka
 Narvi
 Narvinye
-Narvinyë
 Narwain
 Narwhals
 Narya
@@ -9406,7 +7210,6 @@ Naug
 Naugladur
 Nauglafring
 Nauglamir
-Nauglamír
 Naugrim
 Naur
 Naurivor
@@ -9417,12 +7220,7 @@ Nazanin Boniadi
 Nazg
 Nazgul
 Nazgul-bird
-Nazgul-birds
-Nazgûl
 Nazgûl's Citadel
-Nazgûl-birds
-Ndil
-Ndur
 Near Harad
 Necklace of Girion
 Necklace of the Dwarves
@@ -9444,7 +7242,6 @@ Neldor
 Neldoreth
 Neldë
 Neled
-Neleð
 Nell Smithson
 Nellas
 Nelli
@@ -9452,13 +7249,10 @@ Nellie Bellflower
 Nelmer
 Nelmir
 Nelwe
-Nelwë
 Nelya
 Nelyafinwe
-Nelyafinwë
 Nelyar
 Nemi
-Nen
 Nen Cenedril
 Nen Echui
 Nen Girith
@@ -9466,10 +7260,8 @@ Nen Hithoel
 Nen Lalaith
 Nenar
 Nende
-Nendë
 Nenime
 Nenin a Gwivros
-Nenning
 Nenuial
 Nenuvar
 Nenya
@@ -9491,7 +7283,6 @@ Nerwen
 Nessa
 Nessamelda
 Nessanie
-Nessanië
 Nestegi
 Neth
 Nether Darkness
@@ -9501,7 +7292,6 @@ Neuro
 Nevbosh
 Nevill Coghill
 Nevraste
-New England Tolkien Society
 New English Alphabet
 New Kôr
 New Lands
@@ -9513,9 +7303,7 @@ New Reckoning
 New Row
 New Zealand
 New Zealand as Middle-earth
-New lands
 Newburye
-News from the Shire and Beyond - Studies on Tolkien
 Nguruk
 Nia
 Nial
@@ -9536,13 +7324,10 @@ Nieliqi
 Nieliqui
 Nielluin
 Nielthi
-Nielíqui
 Nienna
 Nienor
 Nienor Niniel
-Nienor Níniel
 Nienori
-Nienóri
 Nietzsche
 Niggle
 Niggle's Parish
@@ -9552,16 +7337,13 @@ Night Camp
 Night Camp at Fangorn
 Night of the Nazgûl
 Nightengale
-Nightengales
 Nightfall
 Nightfall in Middle-Earth
 Nightingale
-Nightingales
 Nightshade Forests
 Nildo
 Nilme
 Nilmo
-Nilmë
 Nils-Lennart Johanneson
 Nils-Lennart Johannesson
 Nils Eng
@@ -9574,7 +7356,6 @@ Nimbrethil
 Nimloth
 Nimloth of Doriath
 Nimloth of Numenor
-Nimloth of Númenor
 Nimloth the Fair
 Nimp
 Nimphelos
@@ -9593,13 +7374,11 @@ Nine Riders
 Nine Rings
 Nine Servants
 Nine Walkers
-Nine riders
 Ninepins
 Ninglor
 Niniel
 Ninn
 Ninquelote
-Ninquelótë
 Ninui
 Ninwi
 Ninwë
@@ -9613,8 +7392,6 @@ Nisinen
 Nityafinwë
 Nivrim
 Nivrost
-Niënor
-Niënor Níniel
 Niënor in Brethil
 Noa
 Noakes
@@ -9639,15 +7416,12 @@ Nolan North
 Noldarer
 Noldo
 Noldofinwe
-Noldofinwë
 Noldolante
-Noldolantë
 Noldoli
 Noldor
 Noldoran
 Noldorin
 Noldorin Quenya
-Noldorán
 Noldórinan
 Nole Hyarmenillo
 Nolimon
@@ -9663,16 +7437,13 @@ Nominations
 Noontide of Valinor
 Noontide of the Blessed Realm
 Nor
-Nor-
 Nora Bolger
 Norbourn
 Nore
 Norfield Glen
 Nori
 Nori Brandyfoot
-Norie
 Norin
-Norië
 Norman Bird
 Norman Davis
 Norman Forsey
@@ -9681,11 +7452,9 @@ Norman Power
 Norman Shelley
 Nornhabar
 Nornore
-Nornorë
 Noro lim noro lim Asfaloth!
 Norse
 Norse Mythology
-Norse mythology
 North-South Road
 North-farthing
 North-kingdom
@@ -9695,13 +7464,10 @@ North-western Middle-earth
 North Borneo Frodo Society
 North Cape
 North Downs
-North East Tolkien Society
 North End
-North Farthing
 North Gate
 North Germanic languages
 North Ithilien
-North Kingdom
 North Moors
 North Polar Bear
 North Road
@@ -9712,14 +7478,11 @@ North Stair
 North Undeep
 Northern Army
 Northern Dunedain
-Northern Dúnedain
 Northern Mannish
 Northern Mirkwood
 Northern Sceptre
 Northern Venture
 Northern Waste
-Northern waste
-Northfarthing
 Northfarthing of the Shire
 Northiligand
 Northlands
@@ -9728,13 +7491,10 @@ Northmen
 Northmen of Rhovanion
 Northrons
 Northward
-Northway
-Northwestern Middle-earth
 Northwestern Middle-earth Gazetteer
 Northwestern Middle-earth Map Set
 Norton Truter
 Norway
-Norwegian Tolkien Society
 Nos
 Nos Duilin
 Nos Finrod
@@ -9744,7 +7504,6 @@ Nos Grimsong
 Nos nan Alwen
 Nosdiligand
 Nosse
-Nossë
 Nossë Tuilinda
 Nost-na-Lothion
 Nost Finarfin
@@ -9752,7 +7511,6 @@ Not Lord of the Rings
 Not at Home
 Notability
 Note on the Shire-records
-Note on the Shire Records
 Notes on inspirations
 Nothelm
 Notion Club
@@ -9760,7 +7518,6 @@ Notion Club Papers
 November
 Novrod
 Nowe
-Nowë
 Nuath
 Nuin
 Nulukhizidûn
@@ -9770,115 +7527,42 @@ Numen
 Numendil
 Numenor
 Numenor week
-Numenore
 Numenorean
 Numenorean Realms
 Numenorean week
-Numenoreans
 Numenos
 Numerramar
 Numessir
 Nunatan
 Nunatani
 Nunduine
-Nunduinë
 Nuneth
 Nurn
 Nurnen
 Nuron
 Nurtale Valinoreva
-Nurtalë Valinóreva
 Nurwe
-Nurwë
 Nuxo
 Nwalme
-Nwalmë
-Nye
 Nyelikki
 Nyenna
 Nymph
-Nymphs
 Ná-
-Náin
-Náin I
-Náin II
-Náin son of Grór
-Náli
-Námo
-Nár
-Nárië
-Návarot
 Návatar
-Nâla
 Næchærra
 Næχærra
-Nén
-Nénar
-Nénimë
 Nér
 NéÞa
-Néþa
-Nêl
-Níce
-Níniel
-Nínui
-Nírnaeth Arnoediad
 Nís
-Nísimaldar
-Nísinen
-Nîn
-Nîn-in-Eilph
 Nólemë
-Nólimon
-Nólë Hyarmenillo
-Nóm
-Nóre
-Nórië
 Nórui
-Nórë
-Nówë
-Nöa
-Núath
 Númellótë
-Númen
-Númendil
-Númenor
-Númenor week
-Númenorean
-Númenoreans
-Númenóre
-Númenórean
 Númenórean Catastrophe
-Númenórean Realms
 Númenórean Sindarin
-Númenórean week
-Númenóreans
-Númenórë
-Númerrámar
-Núnatan
-Núnatani
-Núneth
 Núri
-Núrnen
-Núron
 Núte
-Nútë
-Nûron
-Nōwē
 O! Wanderers in the Shadowed Land
-O! Wanderers in the shadowed land
 O! What are you doing
-O! What are you doing?
-OBE
-OCSoftware
-OED
-OFS
-OKO
-ON/NO
-ONO
-ORO
-OROT
-OVOTL
 O Evangelho da Terra-Média
 O Gnomo
 O Hobbit
@@ -9888,7 +7572,6 @@ O slender as a willow-wand!
 Oak
 Oakenshield
 Oakley
-Oaks
 Oarel
 Oarni
 Oatbarton
@@ -9897,7 +7580,6 @@ Oath of Cirion
 Oath of Elendil
 Oath of Eorl
 Oath of Feanor
-Oath of Fëanor
 Oathbreakers
 Oaths Fulfilled
 Obel Halad
@@ -9912,17 +7594,11 @@ Odog
 Odovacar Bolger
 Oel
 Of Aule and Yavanna
-Of Aulë and Yavanna
 Of Beleriand And Its Realms
-Of Beleriand and Its Realms
-Of Beleriand and its Realms
 Of Beren and Luthien
-Of Beren and Lúthien
 Of Dwarves and Men
 Of Eldamar and the Princes of the Eldalie
-Of Eldamar and the Princes of the Eldalië
 Of Feanor and the Unchaining of Melkor
-Of Fëanor and the Unchaining of Melkor
 Of Gollum and the Ring
 Of Herbs and Stewed Rabbit
 Of Lembas
@@ -9932,11 +7608,8 @@ Of Mîm the Dwarf
 Of Orcs and Elves
 Of Thingol and Melian
 Of Tuor and His Coming to Gondolin
-Of Tuor and his Coming to Gondolin
-Of Tuor and his coming to Gondolin
 Of Tuor and the Fall of Gondolin
 Of Turin Turambar
-Of Túrin Turambar
 Of Words and Worldse
 Of the Beginning of Days
 Of the Coming of Men into the West
@@ -9957,22 +7630,18 @@ Of the Sindar
 Of the Sun and Moon and the Hiding of Valinor
 Of the Valar
 Of the Voyage of Earendil and the War of Wrath
-Of the Voyage of Eärendil and the War of Wrath
 Ofer Wídne Gársecg
 Ofermod
 Offermod
-Ofs
 Ogbar
 Oghor-hai
 Oglad
 Ogmandab
 Ogre
-Ogres
 Ogrog
 Ohtar
 Oiakuma
 Oiakumi
-Oiakúmi
 Oiale
 Oikeroi
 Oilima Markirya
@@ -9981,15 +7650,9 @@ Oin King of Durin’s Folk
 Oin son of Groin
 Oio
 Oiolaire
-Oiolairë
 Oiolosse
-Oiolossë
 Oiomure
-Oiomurë
-Oiomúre
-Oiomúrë
 Oivarin
-Oivárin
 Ojevind Lang
 Okamnar
 Okka
@@ -10031,13 +7694,11 @@ Old Took
 Old Winyards
 Old Words and Names in the Shire
 Old fat spider spinning in a tree!
-Old forest
 Oldbuck Family
 Oldbucks
 Oleg
 Olin
 Oliphaunt
-Oliphaunts
 Oliver Maqsud
 Oliver Muirhead
 Olivia Tennet
@@ -10054,10 +7715,7 @@ Olue
 Olva
 Olvar
 Olwe
-Olwë
-Olórin
 Olórion
-Olórë Mallë
 Om Beowulfsagan
 Oma
 Omar
@@ -10067,46 +7725,35 @@ Omentielmo
 Omentielva
 Omentielva Minya
 Omentielvo
-Omentië
 On Fairy-Stories
-On Fairy-stories
 On Old English
 On The Doorstep
 On Translating Beowulf
 On cartography maps & locations in Middle-earth
 On fairy stores
 On some stars flowers & places in Middle-earth
-On the Doorstep
 On the Trail of the Uruk-hai
 On the translation of poetry
 Once Upon a Time
-Once upon a Time
-Once upon a time
 Ondo
 Ondoher
 Ondolinda
 Ondolinde
-Ondolindë
 Ondoluncanando
 Ondolunkanan(do)
 Ondonore Nomesseron Minaþurie
-Ondonóre Nómesseron Minaþurie
 Ondonórë
 Ondor
 Ondosto
-Ondórë
 One-hand
-One-handed
 One Gross
 One Ring
 One Ring rpge
 One of the Dunedain
-One of the Dúnedain
 Onen
 Onna-
 Onnen
 Onodlo
-Onodló
 Onodrim
 Onta
 Ontamo
@@ -10120,7 +7767,6 @@ Orald
 Orange Free State
 Orange River Colony
 Oranje-Vrijstaat
-Oranje Vrijstaat
 Oranor
 Oratory School
 Orbelain
@@ -10141,7 +7787,6 @@ Orcish
 Orco
 Orcobal
 Orcrist
-Orcs
 Orcs/Origin
 Orcs of Isengard
 Orcs of Mordor
@@ -10151,7 +7796,6 @@ Order of Wizards
 Order of the British Empire
 Ordhelm
 Ordlaf
-Ordláf
 Ordred
 Ore
 Orfalch Echor
@@ -10174,10 +7818,8 @@ Ormal
 Ormenel
 Orn
 Orna
-Orne
 Ornendil
 Ornil
-Ornë
 Orocarni
 Orod
 Orod-na-Thôn
@@ -10188,14 +7830,11 @@ Orodreth of Nargothrond
 Orodrim
 Orodruin
 Orofarne
-Orofarnë
 Orome
 Oromean
 Oromendil
 Oromet
 Oromian
-Oromë
-Oromëan
 Oron
 Oronto
 Orontor
@@ -10209,30 +7848,24 @@ Orrostar
 Orson Bean
 Orson Scott Card
 Orta
-Orta-
 Orthanc
 Orthanc-stone
 Orthor-
 Ortirielyanna
-Ortírielyanna
 Os(o)sai
 Osanwe
 Osanwe-kenta
 Osgiliath
-Osgiliath Västerås Tolkiensällskap
 Osgiliath-stone
 Osgiliath Fords
 Osgiliath Invaded
 Oshul-kullosh
 Osorot
-Ososai
 Ossai
 Osse
 Ossiriand
 Ossiriandeb
-Ossiriandic
 Ossiriandrin
-Ossë
 Ost
 Ost-in-Edhil
 Ostirith
@@ -10276,7 +7909,6 @@ Out of the Frying-Pan into the Fire
 Out of the Silent Planet
 Out on the Water
 Outer Dark
-Outer Darkness
 Outer Gate of Gondolin
 Outer Guard
 Outer Lands
@@ -10292,13 +7924,11 @@ Over Old Hills and Far Away
 Over the Misty Mountains Cold
 Over the land there lies a long shadow
 Overbourn Marshes
-Overhill
 Overlithe
 Ovi Redforge
 Owain Arthur
 Owen Barfield
 Owl
-Owls
 Oxen
 Oxenaford
 Oxford
@@ -10311,46 +7941,29 @@ Oxonmoot
 Oxymore
 Oäreldi
 Oäzeldi
-Oš(o)šai
-P. Fenlon
-PAM
-PBM Express
-PED
-PEL
-PEN
-PENED
-PEYE
-PHAW
-PIK
-POL
 Pae
 Pagan Saints in Middle-earthe
 Paianya
 Pain
 Paksu
 Palacendo
-Paladin II
+Paladin
 Paladin Took I
-Paladin Took II
+Paladin Took
 Paladin i
-Paladin ii
 Palan
 Palantir
 Palantir of Amon Sul
 Palantiren
 Palantiri
-Palantír
 Palantír Quest
-Palantír of Amon Sûl
 Palantír of Orthanc
-Palantíri
 Palarran
 Palisor
 Pallando
 Pallando - Forgotten Wizards I
 Palta
 Palurien
-Palúrien
 Pane
 Pansy Baggins
 Pansy Bolger
@@ -10358,7 +7971,6 @@ Papyrus Design Group
 Par
 Paran
 Pard
-Pards
 Paris Howe Strewe
 Paris Paloma
 Parish
@@ -10368,11 +7980,9 @@ Parma Endorion
 Parma Kuluina
 Parma Kuluinen
 Parma Nole
-Parma Nölé
 Parma lambe Quenyanna
 Parmaitë
 Parmatema
-Parmatéma
 Part Time Hobbit
 Part of the Legend of Amroth and Nimrodel Recounted in Brief
 Parth Galen
@@ -10392,12 +8002,10 @@ Patakar
 Pater Noster
 Path of Dreams
 Paths of the Deade
-Paths of the dead
 Patricia Reynolds
 Patrick Barr
 Patrick Curry
 Patrick Gibson
-Patrick H. Wynne
 Patrick McKay
 Patrick Wynne
 Paul Bibire
@@ -10406,7 +8014,6 @@ Paul Corfield Godfrey
 Paul Daneman
 Paul Drayton
 Paul Frees
-Paul H. Kocher
 Paul Kocher
 Paul Kont
 Paul Mercier
@@ -10415,9 +8022,7 @@ Paul Norell
 Paul Raymond Gregorye
 Paul Rivoche
 Paul Strack
-Paul W. Martin
 Paula DiSante
-Paula K. Marmor
 Paula Marmor
 Pauline Baynes
 Pauline Baynes Map
@@ -10430,8 +8035,6 @@ Pedo
 Peeping Jack
 Peg Pruner
 Peggy Nesbitt
-Pel
-Pel-
 Pelargir
 Peleg
 Pelek
@@ -10441,11 +8044,8 @@ Pelennor Fields
 Pella
 Pelloini
 Pelori
-Pelóri
 Pelóri Mountains
 Pembroke College
-Pen
-Pen-
 Pen-arduin
 Penadar
 Pend
@@ -10466,7 +8066,6 @@ Penni
 Peony Baggins
 People's Republic of China
 People of Beor
-People of Bëor
 People of Hador
 People of Haleth
 People of the Fountain
@@ -10474,7 +8073,6 @@ People of the Jewel-smiths
 People of the Stars
 Peoples of Middle-earth
 Per Arne Engstad
-Perceived Racism in Tolkien's Works
 Percy
 Percy Bates
 Peredhel
@@ -10485,7 +8083,6 @@ Peregrin Took
 Peregrin Took I
 Peregrin Took polystone bust
 Peregrin of the Tower Guard
-Peregrin took
 Perelda
 Pereldar
 Perhael
@@ -10499,14 +8096,11 @@ Perphant
 Perry-the-Winkle
 Perry Zombolas
 Peru
-Peruvian Tolkien Society
 Pervinca Took
 Pesma o Otruu i Itrun
 Pete Austin
 Pete Fenlon
 Peter Beagle
-Peter C. Fenlon
-Peter C. Fenlon Jr.
 Peter Chuklev
 Peter Corrigan
 Peter Cuijpers
@@ -10525,8 +8119,6 @@ Peter King
 Peter Kjaerulff
 Peter Kjærulff
 Peter Klucik
-Peter Kľúčik
-Peter M. Candler Jr.
 Peter MacKenzie
 Peter McKenzie
 Peter Mullan
@@ -10534,33 +8126,24 @@ Peter Pracownik
 Peter Pratt
 Peter Roe
 Peter Roe Memorial Fund
-Peter S. Beagle
 Peter Schellen
 Peter Vaughan
 Peter Woodthorpe
 Peter Xavier Price
 Peter roe book
 Peter roe booklet
-Peter roe booklets
-Peter roe books
 Peter roe fund
 Peth
 Petty-dwarf
 Petty-dwarves
-Petty Dwarves
 Phanaikeluth
-Phanaikelûth
-Phanaikelūth
 Phantastes
 Phantom
 Phantom of the Northern Marches
-Phantoms
 Pharaz
 Pharazon
-Pharazôn
 Phial of Galadriel
 Phil LaMarr
-Phil Lamarr
 Phil Proctor
 Phil Redmond
 Philip Frankley
@@ -10568,25 +8151,17 @@ Philip Mitchell
 Philip Stone
 Philip Voss
 Philippa Boyens
-Philippine Tolkien Society
 Phillip LaMarr
 Philosophy books
 Phinde
-Phindê
-Phindē
 Phini
-Phini-
 Phurunargian
-Phûrunargian
 Pickthorn
 Pickthorn Family
-Pictures by J.R.R. Tolkien
 Pictures under Discussion
-Picturing Tolkien
 Pierre Vanderweerd
 Pieter Collier
 Pig
-Pigs
 Pikinaukor
 Pilinehtar
 Pilkir
@@ -10601,7 +8176,6 @@ Pine-mountain
 Pine of Belaurin
 Pine of Belawryn
 Pine of Tavrobel
-Pines
 Pinn
 Pinnath
 Pinnath Gelin
@@ -10631,42 +8205,30 @@ Plotz declensions
 Plum Trees
 Pocket Studios
 Podcast
-Podcasts
 Poem
-Poems
 Poems Early Abandoned
 Poems and Songs of Middle-earth
-Poems and Songs of Middle Earth
 Poems and Stories
-Poems by J.R.R. Tolkiene
 Poems from The Hobbit
 Poems from The Lord of the Rings
 Poems in The Hobbit
 Poems in The Lord of the Rings
 Poetic Edda
 Poetry
-Poetry and Song in the works of J.R.R. Tolkien
-Poetry by J.R.R. Tolkien
-Poetry by Tolkien
 Poika
 Pointed ears
 Poland
 Polcon
 Poldor
 Poldorea
-Poldórëa
-Polish Tolkien Society
 Polo Baggins
 Ponies
 Ponore
 Ponorir
 Ponto Baggins
 Ponto Baggins I
-Ponto Baggins II
-Ponto II Baggins
+Ponto
 Ponto I Baggins
-Ponórir
-Ponórë
 Pool of Bywater
 Pools
 Pools of Ivrin
@@ -10686,7 +8248,6 @@ Postcard books
 Postern
 Postmaster
 Potato
-Potatoes
 Pott
 Pott the Mayor
 Poul Anderson
@@ -10696,11 +8257,7 @@ Powers of the World
 Prancing Pony
 Prancing Pony Inn
 Prancing Pony Podcast
-Prancing pony
 Pre-Numenoreans
-Pre-Númenorean
-Pre-Númenórean
-Pre-Númenóreans
 Precious
 Preface
 Prefatory Remarks on Prose Translation of 'Beowulf'
@@ -10720,28 +8277,21 @@ Prince of Dol Amroth
 Prince of Gwar
 Prince of Ithilien
 Prince of the Halflings
-Princes of Dol Amroth
 Princess
 Princess Mee
 Princess Mika Milovana
 Princess Shepherdess
 Prisca Baggins
 Priscilla
-Priscilla Tolkien
 Prisoner of Gravity
-Prisoners of Gravity
 Privata Kodo Skauta
-Proceedings of the J.R.R. Tolkien Centenary Conference
 Professor Rashbold
-Professor Tolkien's \Hobbit\
 Progress in Bimble Town
 Prologuee
 Prologue Concerning Hobbits and other matters
-Promotional MECCG cards
+Promotional
 Prophecy of the North
-Prophecy of the north
 Prophet
-Prophets
 Prose Fragments Following the Lost Tales
 Protector Of The Common Folk
 Proto-Eldarin
@@ -10755,25 +8305,17 @@ Prunella Scales
 Przemyslaw Mroczkowski
 Psamathides
 Psamathist
-Psamathists
 Psamathos
 Psamathos Psamathides
 Publications
 Puddifoot Family
 Pukel-men
 Puzzle
-Puzzles
 Pwyll
 Pwyll Prince of Dyved
 Pygmies
 Pán prsteňov
-Páne
-Pár
 Pål-Kristian Engstad
-Pêl
-Pîn
-Púkel-men
-Pār
 Qalmë-Tári
 Qenta Noldorinwa
 Qenya
@@ -10783,23 +8325,19 @@ Qerkaringa
 Qualme
 Quanta Sarmë
 Quar
-Quare
 Quarry
 Queen
 Queen Beruthiel
-Queen Berúthiel
 Queen Margrethe of Denmark
 Queen of Doriath
 Queen of Gondor
 Queen of Heaven
 Queen of Numenor
-Queen of Númenor
 Queen of the Earth
 Queen of the Stars
 Queens of the Valar
 Queer Lodgings
 Quelle
-Quellë
 Quenderin
 Quendi
 Quendi and Eldar
@@ -10812,11 +8350,8 @@ Quenta
 Quenta Noldorinwa
 Quenta Silmarillion
 Quentale Ardanomion
-Quentalë Ardanómion
 Quenya
 Quenya/Grammar
-Quenya Grammar
-Quenya grammar
 Quenya lapseparma
 Quenya mode
 Quenya numbers
@@ -10825,8 +8360,6 @@ Quercetum
 Queries and Alterations
 Quesse
 Quessetema
-Quessetéma
-Quessë
 Quest For Mordor
 Quest for Erebor
 Quest for Middle-earth
@@ -10835,7 +8368,6 @@ Quest for the Ring
 Quest for the Silmaril
 Quest of Erebor
 Quest of Mount Doom
-Quest of erebor
 Quest of the Ring
 Quest of the Silmaril
 Quettaparma
@@ -10848,34 +8380,11 @@ Quinton Hoover
 Quoits
 Quotations
 Quotes
-Quár
-Quárë
-R.B. McCallum
-R.W. Chambers
-R. W. Chambers
-RAK
-RAN
-RANA
-RGEO
-RIG
-RIP
-ROK
-ROKO
-RUK
-RUKU
-RUN
-RUSKA
-RUSKÂ
-RUSKĀ
-RW Chambers
 Ra-hoom-rah!
 Raba
 Rabbit
-Rabbits
 Races
-Rachel Tolkien
 Racism
-Racism in Tolkien's Works
 Radagast
 Radagast/Fail
 Radagast/Failure
@@ -10885,8 +8394,6 @@ Radhrim
 Radhruin
 Raft-elf
 Raft-elves
-Raft Elves
-Raftelves
 Ragash
 Ragme
 Ragnir
@@ -10896,10 +8403,8 @@ Rainbow Cleft
 Rainer Nagel
 Raising with the Battle-Orcs
 Rakhas
-Rakhâs
 Ralph Bakshi
 Ralph Bakshi's The Lord of the Rings
-Ralph C. Wood
 Ralph Damiani
 Ralph Payton
 Ram
@@ -10911,21 +8416,15 @@ Ramdal
 Ramer
 Rammas
 Rammas Echor
-Rana
 Randel Helms
 Randir
 Random House
 Randy Gallegos
-Randír
 Ranga
 Rangar
 Ranger
 Ranger of Ithilien
 Ranger of the North
-Rangers
-Rangers of Ithilien
-Rangers of the North
-Rangers of the north
 Rankin/Bass
 Rankin/Bass' The Hobbit
 Rankin/Bass' The Return of the King
@@ -10944,17 +8443,13 @@ Ratbag
 Rath
 Rath Celerdain
 Rath Dinen
-Rath Dínen
 Rathloriel
-Rathlóriel
 Rats
 Raug
 Rauko
 Rauros
 Raven Hill
-Ravenhill
 Ravenne
-Ravennë
 Ravens
 Ravi
 Ravines
@@ -10965,21 +8460,16 @@ Rawlinson and Bosworth Professorship of Anglo-Saxon
 Ray Dillon
 Ray Reinhardt
 Ray Trickitt
-Raymond E. Feist
 Rayner Unwin
 Razanur Tûk
 Reader’s companion
 Reading The Lord of the Rings
 Reading ordere
 Realms in Exile
-Realms in exile
-Realms of Tolkien
 Rebellion of the Noldor
 Reckoning of Rivendell
 Reckoning of Years
 Recollection
-Recollections
-Reconsidering Tolkien
 Recordings
 Recovery and Transcendence for the Contemporary Mythmaker
 Red Arrow
@@ -10990,7 +8480,6 @@ Red Eye
 Red Maw
 Red Mountains
 Red Ring
-Redbook
 Redhorn
 Redhorn Gate
 Redhorn Pass
@@ -11003,26 +8492,17 @@ Regent of Gondor
 Reginard Took
 Region
 Regional Cooking from Middle-earth
-Regions
 Regular bears' meeting
 Rehabilitations and Other Essays
 Reklar
 Remba
-Remembering C.S. Lewis
 Remembrance
-Remembrances
 Reminiscence
-Reminiscences
-Reminiscences of J.R.R. Tolkien
 Remmirath
 Rene van Rossenberg
 Renee Alper
 Renee Fleming
 Renee Vink
-Reno E. Lauro
-René van Rossenberg
-Renée Fleming
-Renée Vink
 Report on the Excavation of the Prehistoric Roman and Post-Roman Site in Lydney Park Gloucestershire
 Report on the Hobbit
 Representations of Nature in Middle-earth
@@ -11039,10 +8519,7 @@ Return of the King
 Return of the Noldor
 Return of the Ring
 Return of the Shadow or Arda the Fourth Age
-Return of the king
-Return of the ring
 Return to Bag-End
-Return to Bag End
 Return to Edoras
 Return to Hobbiton
 Return to Moria
@@ -11073,21 +8550,12 @@ Rhudaur
 Rhun
 Rhunedain
 Rhymes of Lore
-Rhî
-Rhîs
-Rhîw
-Rhúnedain
-Rhûn
 Rhûnnic
 Rian
 Ribadyan
-Richard A. Lupoff
 Richard Armitage
 Richard Boone
-Richard C. West
 Richard Doyle
-Richard E. Blackwelder
-Richard L. Purtill
 Richard O'Callaghan
 Richard Plotz
 Richard Sturch
@@ -11097,7 +8565,6 @@ Richard Whiteside
 Rick Porras
 Riddermark
 Riddle-game
-Riddle game
 Riddle of Strider
 Riddle of the Ring
 Riddles
@@ -11108,30 +8575,21 @@ Riders of the Mark
 Rie
 Riel
 Rielle
-Riellë
 Rif
 RiffTrax
 Riga
 Ril
-Rim
 Rimion
 Ring
 Ring*Con
 Ring-bearer
-Ring-bearers
 Ring-day
 Ring-finder
 Ring-inscription
 Ring-maker
 Ring-verse
 Ring-wraiths
-RingCon
-Ring Finder
 Ring Poem
-Ring Verse
-Ring bearers
-Ring day
-Ring inscription
 Ring of Adamant
 Ring of Air
 Ring of Barahir
@@ -11143,31 +8601,17 @@ Ring of Isengard
 Ring of Power
 Ring of Sapphire
 Ring of Thror
-Ring of Thrór
 Ring of Water
-Ring of doom
-Ring of fire
-Ring of power
 Ring of words
 Ringare
-Ringarë
-Ringbearer
-Ringbearers
-Ringday
 Ringene
 Ringil
 Ringlo
 Ringlo Vale
-Ringló
-Ringló Vale
-Rings
-Rings of Power
-Rings of power
 Ringwil
 Ringwinner
 Ringwraith
 Ringwraith polystone statue
-Ringwraiths
 Rise to War
 Rishmaloge
 Rite of Sigin-tarâg
@@ -11180,16 +8624,12 @@ River Gliding
 River Harnen
 River Isen
 River Running
-River woman
 Rivers
 Rivers of Gondor
-Riverwoman
 Rivil
 Rivil's Well
-Rivil's well
-Rië
 RoP
-RoTK
+R
 Roac
 Road goes ever on
 Road of Arches
@@ -11197,7 +8637,6 @@ Road of Pomps
 Road to Middle-earth
 Roads
 Roads Go Ever Ever On
-Roads go ever ever on
 Roast Mutton
 Rob Alexander
 Rob Dean
@@ -11205,10 +8644,8 @@ Rob Inglis
 Robbie Magasiva
 Robert Aramayo
 Robert Blackham
-Robert C. Clardy
 Robert Clandy
 Robert Clardy
-Robert E. Howard
 Robert Farquharson
 Robert Foster
 Robert Giddings
@@ -11219,7 +8656,6 @@ Robert Inglis
 Robert Murray
 Robert Pollock
 Robert Quilter Gilson
-Robert S. Blackham
 Robert Stephens
 Robin Atkin Downes
 Robin Gardner
@@ -11264,10 +8700,8 @@ Rohirrim
 Roka
 Rokko
 Rokkvisa
-Rokkō
 Roland Adlerberth
 Roll-Roll-Roll-Roll
-Roll-roll-roll-roll
 Rollin' Down the Hole
 Rollo Boffin
 Roman Britain and the English Settlements
@@ -11279,8 +8713,6 @@ Rombaras
 Romen
 Romendacil
 Romendacil I
-Romendacil II
-Romendacil ii
 Romenildi
 Romenna
 Romenor
@@ -11290,14 +8722,11 @@ Rond
 Room of Logs
 Room of the Log Fire
 Roote
-Root and Branch - Approaches towards Understanding Tolkien
-Roots
 Roots and Beginnings
 Roots and Branches
 Roper
 Roper Family
 Roper Gamgee
-Ropers
 Rorimac Brandybuck
 Rory Michael Kinnear
 Ros
@@ -11310,14 +8739,12 @@ Rose
 Rose Brandyfoot
 Rose Cotton
 Rose Gardner
-Roses
 Rosfrith Murray
 Rosie Cotton
 Rost
 Roswith Krege-Mayer
 Roth
 Rothinzil
-Rotk
 Rotr
 Round World
 Round World version of the Silmarillion
@@ -11325,15 +8752,11 @@ Rov-
 Rover
 Roverandom
 Rowan
-Rowans
 Rowlie Appledore
 Roy Campbell
 Royal House of Gondor
 Royal Road
-Royd Tolkien
-Roäc
 Ruamore
-Ruamórë
 Ruatani
 Ruby
 Ruby Bolger
@@ -11343,7 +8766,6 @@ Rudibert Bolger
 Rudigar Bolger
 Rudolph Bolger
 Ruffian
-Ruffians
 Rufus Burrows
 Rufus Dolbear
 Ruin
@@ -11354,14 +8776,11 @@ Ruins of the North
 Rukhs
 Rulers of Arthedain
 Rulers of Numenor
-Rulers of Númenor
 Rules of the Exeter College Essay Club
 Ruling Queen
 Ruling Queen of Númenor
-Ruling Queens of Númenor
 Ruling Ring
 Ruling Steward
-Ruling Stewards
 Ruling Stewards of Gondor
 Rum
 Rumble Family
@@ -11371,9 +8790,7 @@ Rumil of Lorien
 Rumil of Tirion
 Runaer
 Rune
-Runes
 Runes of Power
-Running
 Rupert Dolbear
 Rush
 Rushdown
@@ -11387,66 +8804,17 @@ Russia
 Ruth
 Ruth Lacon
 Ruth Noel
-Ruth S. Noel
 Ruthless Rufus
 Ruxopandalë
 Ruxöalë
 Ryan Gage
 Ryszard Derdzinski
-Ryszard Derdziński
-Ryszard I. Derdziński
-Ráma
 Rámë
-Rána
-Rása
-Rávi
 Ría
-Rían
-Ríë
-Rîgâ
-Róg
-Rógin
-Rómen
-Rómendacil
-Rómendacil I
-Rómendacil II
-Rómenildi
-Rómenna
-Rómestámo
-Rôs
-Rúatani
 Rúcima
-Rúmhoth
-Rúmil
-Rúmil of Lórien
-Rúmil of Tirion
 Rúmil the Loremaster
-Rúmil the loremaster
 Rúnaeluin
-Rúth
 Rûdh
-Rûm
-Rûnaer
-Rûth
-Rōka
-S.R.T.O. d'Ardenne
-S.T.R.O. d'Ardenne
-S. Coleman Charlton
-SAWA
-SBG
-SCi
-SCi Games Ltd.
-SEREK
-SEVEN
-SIL
-SIR
-SKU
-SKŪ
-SMAL
-SRTO D'Ardenne
-STAK
-STEL
-STRO d'Ardenne
 Sabar
 Sabaton
 Sacha
@@ -11472,25 +8840,20 @@ Saelind
 Saelon
 Saeros
 Saga of Hrolfr Kraki
-Saga of Hrólfr Kraki
 Saga of the Three Jewels and the Rings of Power
 Sagan om Ringen
-Sagan om Tolkien
-Sagan om ringen
 Sagar
 Sagroth
 Saint Brendan
 Sairon
 Saithnar
 Sakalthor
-Sakalthôr
 Sakura Internet
 Sala Baker
 Salakanto
 Salgant
 Salgant of the Harp
 Salkinore
-Salkinórë
 Sally Kennett
 Salmar
 Salve!
@@ -11570,15 +8933,12 @@ Sauron's Road
 Sauron's attack on Osgiliath
 Sauron Defeated
 Sauron Legendary Scale Bust
-Sauron defeated
-Sauron’s attack on Osgiliath
 Sauruman
 Sav
 Savin
 Saya
 Scandinavian
 Scarlet Heart
-Scarlet heart
 Scary
 Scatha
 Scatha the Worm
@@ -11587,12 +8947,9 @@ Scattergold Brandybuck
 Sceafa
 Sceptre
 Sceptre of Annuminas
-Sceptre of Annúminas
 Sceptre of Numenor
-Sceptre of Númenor
 Scholarship and Fantasye
 Science of Middle-Earth
-Science of Middle Earth
 Scott Bennie
 Scott McShane
 Scott Menville
@@ -11607,29 +8964,21 @@ Sea-bell
 Sea-elves
 Sea-longing
 Sea-serpent
-Sea-serpents
 Sea-ward Tower
 Sea Chant
 Sea Chant of an Elder Day
 Sea of Helcar
 Sea of Helkar
 Sea of Nurnen
-Sea of Núrnen
 Sea of Rhun
-Sea of Rhûn
 Sea of Ringil
 Sea of Windless Storm
-Sea of rhun
-Sea serpent
-Sea serpents
 Seagull
-Seagulls
 Seal of the Stewards
 Sealions
 Sean Arnold
 Sean Astin
 Sean Bean
-Seas
 Seat of Hearing
 Seat of Seeing
 Sebastian
@@ -11653,11 +9002,7 @@ Second Sacking of Gundabad
 Second Siege of Imladris
 Second Spring of Arda
 Second Voice
-Second battle of Dagorlad
-Second battle of the fords of isen
-Second siege of Imladris
 Secondary World
-Secondary world
 Secondborn
 Secret Firee
 Secrets of The Hobbit
@@ -11666,15 +9011,11 @@ Seeing Stone of Emyn Beraid
 Seek for the Sword that was broken
 Seen
 Seer
-Seers
-Sekcja Tolkienowska ŚKF
 Select Translations from Old English Poetry
 Selected Literary Essays
-Selections from the Marquette J.R.R. Tolkien Collection
 Self-cursed
 Sellamillion
 Sellic Spell
-Sellic spell
 Selur
 Sennas Iaur
 Senya
@@ -11685,9 +9026,7 @@ Sereg
 Seregon
 Sergeant Redroot
 Serinde
-Serindë
 Serke
-Serkë
 Serni
 Sernui
 Seron Aearon
@@ -11718,19 +9057,15 @@ Shadow Folk
 Shadow Man
 Shadow Rising
 Shadow and Flame
-Shadow bride
 Shadow in the South
 Shadow of Mordor
 Shadow of War
 Shadow of the Past
 Shadow over Hollin
 Shadow spirit
-Shadow spirits
-Shadowbride
 Shadowfax
 Shadowmere
 Shadows of Heaven
-Shadows of Mordor
 Shadows of Mordor Software Adventure
 Shadowy Mountains
 Shadowy Seas
@@ -11743,14 +9078,10 @@ Shards of Narsil
 Sharkey
 Sharkey's Men
 Sharku
-Sharkú
-Sharkû
 Sharkûn
 Sharon Baird
 Sharp-ears
 Shathur
-Shathûr
-Shaun G. McClure
 Shaun Gunner
 Sheaf
 Sheave
@@ -11759,17 +9090,12 @@ Sheep-lord
 Shelly Shapiro
 Shelob
 Shelob's Lair
-Shelob's lair
 Shelob the Greate
 Shepherds of the Trees
 Shibboleth
 Shibboleth of Feanor
-Shibboleth of Fëanor
 Shieldmaiden of Rohan
 Ship-king
-Ship-kings
-Ship Kings
-Ship kings
 Ship of Long-foam
 Ships
 Shire
@@ -11777,22 +9103,17 @@ Shire-Reckoning
 Shire-calendar
 Shire-folk
 Shire-hobbit
-Shire-hobbits
 Shire-house
 Shire-map
 Shire-moot
 Shire-muster
-Shire-reckoning
 Shire-reform
 Shire-thain
 Shire-water
-Shire Calendar
-Shire Reckoning
 Shirebourn
 Shiro no Norite
 Shirriff
 Shirriff-house
-Shirriffs
 Shooting at the wand
 Shores
 Shores of the Long Lake
@@ -11807,14 +9128,12 @@ Siege Tower Troll polystone bust
 Siege Troll polystone bust
 Siege of Angband
 Siege of Barad-dur
-Siege of Barad-dûr
 Siege of Erebor
 Siege of Gondor
 Siege of Minas Tirith
 Siege of Osgiliath
 Siege of Pelargir
 Siege of Utumno
-Siege of barad-dur
 Sierra's The Hobbit
 Sierra Entertainment
 Sigelwara Land
@@ -11823,15 +9142,11 @@ Sigin
 Sigin-tarâg
 Sigismond Took
 Signature
-Signatures
 Sigrid
 Sigurd and Gudrun
-Sil
-Sil-
 Silent Hill
 Silent Street
 Silent Watchers
-Silent watchers
 Silevril
 Silicon & Synapse
 Silima
@@ -11843,21 +9158,16 @@ Silmaril
 Silmarilli
 Silmarillion
 Silmarillon
-Silmarils
-Silmariën
 Silme
 Silme nuquerna
 Silmesse
 Silmo
-Silmë
-Silmë nuquerna
 Silpion
 Silubrilt
 Silubrilthin
 Silvan
 Silvan Elves
 Silvan Elvish
-Silvan elves
 Silvan language
 Silvan tongue
 Silver
@@ -11872,26 +9182,19 @@ Silver pennies
 Silverlode
 Silvertine
 Simbelmyne
-Simbelmynë
 Simbelmynë on the Burial Mounds
 Simon Cadell
 Simon Chandler
 Simon Horobin
-Simon Tolkien
 Simonne d'Ardenne
 Sin
 Sinda
 Sindacollo
 Sindanorie
-Sindanórie
-Sindanórië
 Sindar
 Sindarin
 Sindarin Lexicon
 Sindarin numbers
-Sindarinized
-Sindarization
-Sindarized
 Sindel
 Sindeldi
 Sindicollo
@@ -11901,7 +9204,6 @@ Sing all ye joyful!
 Sing now ye people of the Tower of Anor
 Singe
 Singollo
-Sir
 Sir Angren
 Sir Gawain and the Green Knight
 Sir Gawain and the Green Knight Pearl and Sir Orfeo
@@ -11918,18 +9220,15 @@ Siriondil of Gondor
 Siriondil son of Calimmacil
 Sirith
 Sirnumen
-Sirnúmen
 Sithaloth
 Sixth Age
 Sketch of the Mythology
 Skin-changer
-Skin-changers
 Skinbark
 Skorgrím
 Skorgrím Dourhand
 Slag
 Slag-hills
-Slag hills
 Slamsoft
 Sleep of Yavanna
 Sleeper
@@ -11940,7 +9239,6 @@ Smallburrow Family
 Smauge
 Smeagol
 Smial
-Smials
 Smith Smithson
 Smith of Wooton Major
 Smith of Wootton Major
@@ -11949,41 +9247,27 @@ Smith of Wootton Major essay
 Smith of Wotton Major
 Smith of Wottoon Major
 Smoking
-Sméagol
 Snad
 Snaga
 Snaggleroot
 Snails
 Snake
-Snakes
 Snorri
 Snow-elves
 Snow-men
 Snow-troll
-Snow-trolls
 Snow-white! Snow-white! O Lady Clear!
-Snow-white! Snow-white! O Lady clear!
 Snow Man
 Snow Troll polystone statue
-Snow Trolls
 Snowblind Studios
 Snowbourn
 Snowmane
 Snowmane's Howe
-Snowmen
 Snowmen of Forochel
 Snowthorn
 Snufflers
-Snād
 Soa
-Sociedad Tolkien Chilena
-Sociedad Tolkien Colombia Orodruin
-Sociedad Tolkien Española
-Sociedad Tolkien Peruana
-Sociedad Tolkien Uruguaya
 Society
-Society Tolkieniana Switzerland Smial of the Ticino
-Società Tolkieniana Italiana
 Solisimpi
 Solmath
 Soloneldi
@@ -11998,7 +9282,6 @@ Song of Beren and Lúthien
 Song of Boromir
 Song of Durin
 Song of Earendil
-Song of Eärendil
 Song of Nimrodel
 Song of Parting
 Song of the Ainur
@@ -12016,7 +9299,6 @@ Sonny Melendrez
 Sons of Durin
 Sons of Eorl
 Sons of Feanor
-Sons of Fëanor
 Sons of Riddermark
 Sons of the Steward
 Sophia Nomvete
@@ -12032,7 +9314,6 @@ Sorontil
 Soronto
 Sorontur
 Soronume
-Soronúmë
 Sotheby's
 Sotheby's Nineteenth Century and Modern First Editions Presentation Copies Autograph Letters and Literary Manuscripts
 Soundestiny
@@ -12047,7 +9328,6 @@ South Away
 South Downs
 South Gondor
 South Ithilien
-South Kingdom
 South Lane
 South Park
 South Road
@@ -12059,8 +9339,6 @@ Southern Fiefse
 Southern Mirkwood
 Southern Star
 Southern lands
-Southerners
-Southfarthing
 Southfarthing of the Shire
 Southlands
 Southlinch
@@ -12072,39 +9350,25 @@ Spain
 Spalasta
 Spanga
 Spania
-Spanish Tolkien Society
 Spark-dragon
-Spark-dragons
-Spark Dragon
-Spark Dragons
 Sparrow
-Sparrows
 Sparrowsong
 Spear of Gil-galad
 Species
-Species named after Tolkien's works
 Specter
-Specters
 Spectre
-Spectres
 Speech of Fëanor
 Spell
-Spells
 Spider
-Spiders
 Spiders of Mirkwood
 Spirit
 Spirit of shadow
-Spirits
-Spirits of shadows
 Splintered Light
-Společnost Přátel Díla Pana JRRTolkiena
 Sprightly Running
 Spring of Arda
 Springle-ring
 Springs
 Sprite
-Sprites
 Spyhill
 Square of the Folkwell
 Square of the Folwell
@@ -12112,9 +9376,7 @@ Square of the King
 Square of the Palace
 Squares
 Squint-eyed Southerner
-Squint-eyed southerner
 Squirrel
-Squirrels
 Staddle
 Stair Falls
 Stair of the Hold
@@ -12125,7 +9387,6 @@ Standing Silence
 Standing Stone
 Standing Stone Games
 Stanislava Pošustová
-Stanley P. Baldwin
 Stanley Unwin
 Stapeldon Magazine
 Star
@@ -12134,7 +9395,6 @@ Star-queen
 Star-spray
 Star of Earendil
 Star of Elendil
-Star of Eärendil
 Star of the Dúnedain
 Star of the North
 Star of the North Kingdom
@@ -12142,13 +9402,11 @@ Starbrow
 Starkhorn
 Starlings
 Starmoon
-Stars
 Starwards
 Statues
 Statute of Finwë and Míriel
 Steelsheen
 Stefan Ekman
-Stella M. Mills
 Stella Mills
 Stella Vespertina
 Stephen Beresford
@@ -12169,20 +9427,13 @@ Sterrendei
 Steve Blum
 Steve Staley
 Steven Jay Blum
-Steven M. Kramer
-Steven White Jr.
 Steward
 Steward's Reckoning
 Steward Cirion
 Steward of Gondor
-Stewards
-Stewards' Reckoning
-Stewards of Gondor
 Stick-at-naught Strider
 Stiff-neck
-Stiff neck
 Stiffbeard
-Stiffbeards
 Sting
 Sting Sword prop replica
 Stinker
@@ -12190,39 +9441,29 @@ Stirring
 Stock
 Stock-brook
 Stock Road
-Stockbrook
 Stone-city
 Stone-giants
 Stone-houses
 Stone-troll
-Stone-trolls
-Stone Giants
 Stone Street Studio
-Stone Trolls
 Stone of Annuminas
-Stone of Annúminas
 Stone of Elendil
 Stone of Erech
 Stone of Orthanc
 Stone of Osgiliath
-Stone of erech
 Stone of the Hapless
 Stonefoot
-Stonefoots
 Stonehelm
 Stones of Seeing
 Stonewain Valley
 Stoning-land
-Stoningland
 Stoor
 Stoorish
-Stoors
 Stora frågesportboken
 Storm of Mordor
 Stormcrow
 Stormfront Studios
 Story of Kullervo
-Story of kullervo
 Stout-axe
 Straight Path
 Straight Road
@@ -12240,25 +9481,20 @@ Strider Ringbearer mini-bust
 Strider the pony
 Strongbow
 Stronghold
-Strongholds
 Structural references
-Stuart D. Lee
 Stuart Lee
 Stuart Townsend
-Students of J.R.R. Tolkien
 Stunted People
 Stybba
 Su Klukka Heljar
 Sub-creating Arda
 Sub-creating Middle-earth
 Sub-creation
-Subcreation
 Suffield
 Suffield Family
 Suithlas
 Sul
 Suladan
-Suladân
 Sulime
 Sulimo
 Summerdays
@@ -12273,24 +9509,17 @@ Sundering Seas
 Sundering of the Elves
 Sundo
 Sundocarme
-Sundocarmë
 Sundoma
-Sundóma
 Sunlands
 Sunlending
-Sunlendings
 Sunless Year
 Sunnendei
-Suomen Tolkien-seura Kontu ry.
-Suomen Tolkien-seura ry.
 Suovetaurilius
 Sure
 Suri-kyla
 Surion
 Suriquesse
-Suriquessë
 Surprise Attack on Umbar
-Surprise attack on Umbar
 Surreal Software
 Suruli
 Susan Rule
@@ -12298,109 +9527,38 @@ Swallow
 Swamps
 Swan
 Swan-ship
-Swan-ships
 Swan boats
 Swanfleet
 Swanhaven
-Swans
 Swans of Gorbelgod
-Swanship
-Swanships
 Swarthy Men
 Sweden
 Sweet Galenas
 Swertings
 Swish-tail
 Switzerland
-Switzerland in Tolkien's Middle-Earth
 Sword's Song
 Sword-that-was-Broken
 Sword of Elendil
 Sword of Manwe
-Sword of Manwë
-Sword of manwe
 Swords & Sorcery
 Swords and Sorcery
 Swordsman of the Sky
 Sydney Barrowclough
 Sylfs
 Sylph
-Sylphs
 Sylvan
 Sylvan elves
 Sylvester McCoy
-Symboliek van Tolkien's In de ban van de ring
-Synergistic Software inc.
 Syx Mynet
-Sáma
-Sári
-Sáya
-Sí Qente Feanor
 Síma
-Sír
-Síre
-Sîr
-Sîr Angren
-Sîr Ninglor
-Sôval Phârë
-Söa
 Sørina Higgins
 Súle
 Súlimi
-Súlimo
-Súlimë
-Súlë
-Súrion
-Súriquesse
-Súriquessë
 Súru
-Súruli
-Súrë
 Súthburg
-Sûl
-Sûri-kylä
 Sûza
 Słowa rzeczy krajobrazy
-T.A. Shippey
-T.C.B.S.
-T.H. White
-T.M. Doran
-T.P. Dunning
-T. A. Shippey
-T. Kevin Amthor
-TARA
-TAW
-TAWA
-TAWAR
-TBOLT
-TCBS
-TCOH
-TEK
-TELEP
-TEN
-TENE
-TEÑ
-TFON
-TFOTRe
-TGTNE
-THAW
-THON
-THUS
-THÔN
-THŌN
-TIL
-TIR
-TLOTR
-TLOTRO
-TLS
-TNCP
-TOL
-TOLKIEN - Uomo Professore Autore
-TOR
-TORn
-TTT
-TT Fusion
-TUR
 Taea Hartwell
 Taeglin
 Taeglind
@@ -12415,11 +9573,9 @@ Taimordo
 Taiwan
 Tal
 Tal-Elmar
-Tal-elmar
 Talagan Silvertongue
 Talagand
 Talan
-Talans
 Talat-
 Talath
 Talath Dirnen
@@ -12429,15 +9585,10 @@ Tale-fire
 Tale of Adanel
 Tale of Grief
 Tale of Tinuviel
-Tale of Tinúviel
 Tale of Years
 Tale of the Children of Hurin
-Tale of the Children of Húrin
-Tale of tinuviel
 Tales Before Narnia
-Tales Before Tolkien
 Tales and Songs of Bimble Bay
-Tales before Narnia
 Tales from Wilderland
 Tales from the Perilous Realm
 Tales of Middle Earth
@@ -12452,13 +9603,11 @@ Tamar Lamefoot
 Tamildo
 Tana Qentima
 Taniquelasse
-Taniquelassë
 Taniquetil
 Tansoft
 Tanta Hornblower
 Tanya Moodie
 Tanyasalpe
-Tanyasalpë
 Tar
 Tar-Alcarin
 Tar-Aldarion
@@ -12466,9 +9615,7 @@ Tar-Amandil
 Tar-Anarion
 Tar-Ancalime
 Tar-Ancalimon
-Tar-Ancalimë
 Tar-Anducal
-Tar-Anárion
 Tar-Ardamin
 Tar-Atanamir
 Tar-Atanamir the Great
@@ -12477,59 +9624,26 @@ Tar-Calmacil
 Tar-Ciryatan
 Tar-Elendil
 Tar-Elestirne
-Tar-Elestirnë
 Tar-Falassion
 Tar-Herunumen
-Tar-Herunúmen
 Tar-Hostamir
 Tar-Meneldur
 Tar-Minastir
 Tar-Minyatur
 Tar-Miriel
-Tar-Míriel
 Tar-Palantir
 Tar-Surion
-Tar-Súrion
 Tar-Telemmaite
-Tar-Telemmaitë
 Tar-Telemnar
 Tar-Telperien
-Tar-Telperiën
 Tar-Vanimelde
-Tar-Vanimeldë
 Tar-Vardamir
 Tar-kulu
 Tar-mairon
 Tar Kalimos
-Tar aldarion
-Tar amandil
-Tar anarion
-Tar ancalime
-Tar ancalimon
-Tar anducal
-Tar ardamin
-Tar atanamir
-Tar calion
-Tar calmacil
-Tar ciryatan
-Tar elendil
-Tar falassion
-Tar herunumen
-Tar hostamir
-Tar meneldur
-Tar minastir
-Tar minyatur
-Tar palantir
-Tar surion
-Tar telemmaite
-Tar telemnar
-Tar telperien
-Tar vanimelde
-Tar vardamir
 Tarambolaika
 Tarannon
 Tarannon Falastur
-Taras
 Taras-ness
 Taras Lúna
 Tarcil
@@ -12543,7 +9657,6 @@ Tarindor
 Tarion
 Tark
 Tarkil
-Tarks
 Tarlang
 Tarlang's Neck
 Tarmasundar
@@ -12568,11 +9681,9 @@ Task list
 Tassa
 Tata
 Tater
-Taters
 Tathar
 Tathrobel
 Tatie
-Tatië
 Tatsusoft
 Tatya
 Tatyana Yassukovich
@@ -12589,13 +9700,8 @@ Taur-na-Chardîn
 Taur-na-Foen
 Taur-na-Fuin
 Taur-na-Neldor
-Taur-na-fuin
-Taur-nu-Fuin
 Taur Egledhrim
-Taur e-Ndaedelos
-Taur im Duinath
 Taura
-Taure
 Tauremorna
 Tauremornalómë
 Taurfuin
@@ -12604,7 +9710,6 @@ Taurobel
 Tauron
 Tauros
 Taurossë
-Taurë
 Tavari
 Tavarossë
 Tavrobel
@@ -12616,7 +9721,6 @@ Tea
 Tea club
 Tea club barrovian society
 Tea club and barrovian society
-Tea with Tolkien
 Teal Saddler
 Ted Johnstone
 Ted Nasmith
@@ -12635,10 +9739,7 @@ Telchar
 Telco
 Telcontar
 Telemmaite
-Telemmaitë
 Telemnar
-Telep
-Telepe
 Telepi
 Teleporno
 Teler
@@ -12655,11 +9756,9 @@ Telperien
 Telperimpar
 Telperinquar
 Telperion
-Telperiën
 Telperossë
 Telpinquar
 Telporno
-Telpë
 Telufinwë
 Telumaithar
 Telumaithor
@@ -12672,31 +9771,25 @@ Telumendil
 Telumethar
 Temar
 Temple
-Ten
-Ten-
 Tengwa
 Tengwar
 Tengwar/Mode of Beleriand
 Tengwar/Quenya mode
 Tengwestië
 Tenn
-Tenn'
 Tenna
 Tennoio
-Tenn’
 Terence Tiller
 Terendul
-Terry K. Amthor
 Terry Kevin Amthor
 Terry Pratchett
 Tethil
 Tetille
-Tetillë
 Tevildo
 Tha Eadigan Saelidane
 Thain
 Thain's Book
-Thain Ferumbras III
+Thain Ferumbras
 Thain of the Shire
 Thalchyl
 Thalion
@@ -12709,14 +9802,12 @@ Thangorodrim
 Tharbad
 Thargelion
 Tharkun
-Tharkûn
 Tharni
 Tharzog
 That's What Bilbo Baggins Hates
 Thaun
 Thaur
 Thauron
-TheOneRing.net
 The Account of Isildur
 The Adamant of Henna
 The Adventure Begins
@@ -12726,7 +9817,6 @@ The Adventures of Tom Bombadil and Other Verses from the Red Book
 The Ainulindalë
 The Akallabêth
 The Ambarkanta
-The American Tolkien Society
 The Ancrene Riwle
 The Annals of Aman
 The Annals of Valinor
@@ -12738,26 +9828,19 @@ The Armageddon Rag
 The Art of Ruth Lacon
 The Art of The Fellowship of the Ring
 The Art of The Hobbit
-The Art of The Hobbit by J.R.R. Tolkien
 The Art of The Lord of the Rings
-The Art of The Lord of the Rings by J.R.R. Tolkien
 The Art of The Return of the King
 The Art of The Two Towers
 The Art of the Manuscript
 The Atlas of Middle-Earth
-The Atlas of Middle-earth
-The Atlas of Tolkiens Middle-earth
 The Attack on Weathertop
 The Ballad of Bilbo Baggins
 The Balrog Legendary Scale Bust
 The Balrogian Trilogy
 The Banishment of Eomer
-The Banishment of Éomer
 The Barrow-wight
 The Bath Song
 The Battle for Middle-earth
-The Battle for Middle-earth IIe
-The Battle for Middle-earth II - The Rise of the Witch-king
 The Battle of Evermore
 The Battle of Maldone
 The Battle of Maldon together with the Homecoming of Beorhtnoth
@@ -12769,23 +9852,19 @@ The Battle of the Gwathló
 The Battle of the Hornburg
 The Battle of the Morannon
 The Battle of the Pelennor Fields
-The Battles of Tolkien
 The Battles of the Fords of Isen
 The Bearer of the Ring the Wearer of the Ring
 The Beatles
 The Best of Amon Hen
-The Best of The Tolkien Ensemble
 The Bidding of the Minstrel
 The Black
 The Black Gate Is Closed
 The Black Gate Opens
-The Black Gate is Closed
 The Black Rider
 The Black Ships
 The Black Wood
 The Blessed
 The Bloodhound the Chef and the Suffragette
-The Body in Tolkien's Legendarium
 The Boggit
 The Bones of the Ox
 The Book of Fairy Poetry
@@ -12797,23 +9876,17 @@ The Book of Lost Tales
 The Book of Lost Tales Part One
 The Book of Lost Tales Part Twoe
 The Book of Lost Tales I
-The Book of Lost Tales II
 The Book of Lost Tales Part Two
 The Book of Mazarbul
 The Bovadium Fragment
-The Bovadium Fragments
 The Bowman
-The Brazilian Tolkien Society
 The Breach of the Deeping Wall
 The Breaking Of The Fellowship
-The Breaking of the Fellowship
 The Bridge Of Khazad Dum
 The Bridge of Catzad-Dum
-The Bridge of Khazad-dûm
 The Broken Scythe
 The Brothers-inArms
 The Brothers Hildebrandt
-The Brothers in Arms
 The Brown
 The Bullroarer
 The Bumpus
@@ -12829,7 +9902,6 @@ The Chaining of Melko
 The Chalice Passed
 The Chequers Club
 The Childhood of Turin
-The Childhood of Túrin
 The Children's Treasury of Literature
 The Children of Hurin
 The Children of Hurin Audiobook
@@ -12837,14 +9909,8 @@ The Children of Hurin Line Party
 The Children of Hurin Release Party
 The Children of Hurin Signed Limited Edition
 The Children of Hurin reviews
-The Children of Húrine
-The Children of Húrin Audiobook
-The Children of Húrin Line Party
-The Children of Húrin Release Party
 The Children of Húrin Release Party/Questions
 The Children of Húrin Release Party/Schedule
-The Children of Húrin Signed Limited Edition
-The Children of Húrin reviews
 The Chill Barbarians of the North
 The Choices of Master Samwise
 The Chronicle of the Convents of the Sacred Heart
@@ -12853,12 +9919,10 @@ The Chronicles of the Imaginarium Geographica
 The Chronology of The Lord of the Rings
 The City of the Gods
 The Clash of Kings
-The Clash of Kings - Aragorn VS The King of Dead
+The Clash of Kings - Aragorn
 The Clerke's Compleinte
-The Clerkes Compleinte
 The Clouds Burst
 The Collected Poems
-The Collected Poems of J.R.R. Tolkien
 The Coming of Glaurung
 The Coming of Túrin into Brethil
 The Coming of the Elves
@@ -12866,14 +9930,11 @@ The Coming of the Elves and the Making of Kôr
 The Coming of the Valar and the Building of Valinor
 The Company They Keep
 The Complaint of Mim the Dwarf
-The Complaint of Mîm the Dwarf
 The Complete Guide to Middle-earth
-The Complete Tolkien Companion
 The Corsairs of Umbar
 The Cottage of Lost Play
 The Cottage of the Children
 The Council Of Elrond
-The Council of Elrond
 The Council of Elrond Assembles
 The Council of Westmarch
 The Courage Of Hobbits
@@ -12884,10 +9945,8 @@ The Cruel
 The Curse of Fëanor
 The Cursed Ring
 The Dale-lands
-The Dale Lands
 The Dark Elf
 The Dark Lord Sauron polystone statue
-The Dark Powers of Tolkien
 The Darkening of Mirkwood
 The Darkest Hour
 The Darkness
@@ -12902,17 +9961,13 @@ The Deathless
 The Debate of Finrod and Andreth
 The Decline of Gondor
 The Deep
-The Deeping
 The Defiler
 The Departure Of Boromir
-The Departure of Boromir
 The Departure of The Fellowship
 The Departure of Túrin
 The Desolation of Smaug
 The Dethronement of Power
 The Devil's Coach-Horses
-The Devil's Coach Horses
-The Diaries of J.R.R. Tolkien
 The Disaster of the Gladden Fields
 The Doors Of Durin
 The Downfallen
@@ -12932,11 +9987,8 @@ The Eagles
 The Earliest 'Silmarillion'
 The Earliest Annals of Beleriand
 The Earliest Annals of Valinor
-The Earliest Silmarillion
 The Early History of the Legend
 The East Road
-The Ecological Augury in the Works of J.R.R. Tolkien
-The Ecological Augury in the Works of JRR Tolkien
 The Edge of Night
 The Edge of the Wild
 The Eldar
@@ -12949,13 +10001,10 @@ The End of the Third Age
 The Ent's Marching Song
 The Ent and the Entwife
 The Entmoot Decides
-The Epic Realm of Tolkien
-The Essential J.R.R. Tolkien Sourcebooke
 The Ethir
 The Etymologies
 The Evenstar
 The Ever-young
-The Evolution of Tolkien's Mythology
 The Eye
 The Eyes of the White Tower
 The Fair
@@ -12989,14 +10038,10 @@ The Fellowship of the Ring Software Adventure
 The Fellowship of the Ring Soundtrack
 The Fellowship of the Ring Sourcebook
 The Fellowship of the Ring Visual Companion
-The Fellowship of the Ring soundtrack
-The Fictitious Characters of C.S. Lewis and J.R.R. Tolkien
 The Field of Cormallen
 The Fields of the Pelennor
 The Fields of the Pelenor
 The Fighting Uruk-Hai
-The Fighting Uruk-hai
-The Film Book of J.R.R. Tolkien's The Lord of the Rings
 The Final Tally
 The Finding of the Ring
 The Fire
@@ -13018,12 +10063,10 @@ The Foot of Orthanc
 The Forbidden Pool
 The Forest-walker
 The Forest River
-The Forest Walker
 The Forest of Fear
 The Forests of Ithilien
 The Forgotten Kingdom
 The Forsaken Inn
-The Forsaken Realm of Tolkien
 The Foundations of Stone
 The Founders' Inklings
 The Four Loves
@@ -13041,7 +10084,6 @@ The Glittering Caves
 The Gods Return to Earth
 The Golden
 The Golden Perch
-The Gospel According to Tolkien
 The Goths
 The Grace of Undómiel
 The Grace of the Valar
@@ -13067,10 +10109,8 @@ The Happy Mariners
 The Heart of the Wild
 The Hedge
 The Heir of Numenor
-The Heir of Númenor
 The Heirs of Elendil
 The Hero Is a Hobbit
-The Heroes of Tolkiene
 The Hidden Valley
 The Hiding of Valinor
 The High Fells
@@ -13084,10 +10124,8 @@ The History of Middle-earth Index
 The History of The Hobbite
 The History of The Lord of the Rings
 The History of the Akallabeth
-The History of the Akallabêth
 The Hoard
 The Hobbit
-The Hobbit-forming World of J.R.R. Tolkien
 The Hobbit/Publication history and gallery
 The Hobbit/Quotations
 The Hobbit/Translationse
@@ -13097,7 +10135,6 @@ The Hobbit Card Game
 The Hobbit Companion
 The Hobbit Facsimile Gift Edition
 The Hobbit Jigsaw Puzzle
-The Hobbit Jigsaw Puzzles
 The Hobbit Preface
 The Hobbit Pub
 The Hobbit Sketchbook
@@ -13105,16 +10142,12 @@ The Hobbit Software Adventure
 The Hobbit Soundtrack
 The Hobbit Strategy Battle Game
 The Hobbit and Philosophy
-The Hobbit and Tolkien's Mythology
 The Hobbit film series
 The Hobbit films
 The Hobbit first edition
 The Hobbit movies
-The Hobbit pub
 The Hobbitonian Anthology
 The Hobbitons
-The Hobbits
-The Hobbits of Tolkien
 The Homecoming of Beorhtnoth
 The Homecoming of Beorhtnoth Beorhthelm's Son
 The Homecoming of Beornoth
@@ -13130,10 +10163,6 @@ The Houses of Healing
 The Hunt for Gollum
 The Hunt for the Ring
 The Hunter
-The Hunters
-The Ideal of Kingship in the Writings of Charles Williams C.S. Lewis and J.R.R. Tolkiene
-The Illustrated World of Tolkiene
-The Image of Man in C.S. Lewis
 The Indigo King
 The Individuated Hobbit
 The Inklings
@@ -13142,22 +10171,15 @@ The Inklings Handbook
 The Inklings and King Arthur
 The Inklings of Oxforde
 The Inland Sea
-The Invented Worlds of J.R.R. Tolkien
 The Iron Prison
 The Istari
 The Ivy Bush
-The J.R.R. Tolkien Audio Collection
-The J.R.R. Tolkien Companion and Guide
-The J.R.R. Tolkien Encyclopediae
-The J.R.R. Tolkien Miscellany
 The Jerusalem Bible
 The Jewel of Arwen
 The Journal of Inklings Studies
-The Journal of Tolkien Research
 The Journey of Morwen and Niënor to Nargothrond
 The Journey to the Grey Havens
 The Keys of Middle-Earth
-The Keys of Middle-earth
 The Kin-strife
 The King's Decision
 The King Edward's School Chronicle
@@ -13170,7 +10192,6 @@ The Lady of the Sea
 The Land of Bow and Helm
 The Land of Shadow
 The Languages of Middle Earth
-The Languages of Tolkien's Middle-earth
 The Last Alliance
 The Last Ark
 The Last Days
@@ -13189,9 +10210,7 @@ The Lay Of Leithian
 The Lay of Aotrou and Itroun
 The Lay of Beowulf
 The Lay of Earendel
-The Lay of Eärendel
 The Lay of Eärendil
-The Lay of Leithian
 The Lay of Leithian Recommenced
 The Lay of the Children of Húrin
 The Lay of the Fall of Gondolin
@@ -13199,11 +10218,9 @@ The Lays of Beleriand
 The Leave Taking
 The Legend of Gurthang
 The Legend of Sigurd and Gudrun
-The Legend of Sigurd and Gudrún
 The Legend of Weathertop
 The Legend of the Master-Ring
 The Lego Group
-The Letters of J.R.R. Tolkiene
 The Lhammas
 The Lidless Eye Companion
 The Lidless Eye Player Guide
@@ -13217,59 +10234,10 @@ The Lonely Mountain
 The Lonely Mountain Band
 The Long and Short of It
 The Lord of the Films
-The Lord of the Ringse
-The Lord of the Rings/Original dust-jacket designs
-The Lord of the Rings/Publication history and gallery
-The Lord of the Rings/Publication history and gallery one-volume
-The Lord of the Rings/Publication history and gallery seven-volume
-The Lord of the Rings/Publication history and gallery three-volume
-The Lord of the Rings/Quotationse
-The Lord of the Rings & The Two Towers
-The Lord of the Rings Appendices
-The Lord of the Rings Appendices/Quotations
-The Lord of the Rings Appendix
-The Lord of the Rings Chess Collection
-The Lord of the Rings Complete Visual Companion
-The Lord of the Rings Dioramas
-The Lord of the Rings Fan Club
-The Lord of the Rings Fan Club Official Movie Magazine
-The Lord of the Rings Foreword
-The Lord of the Rings Index
-The Lord of the Rings Living Card Game
-The Lord of the Rings MUSH
-The Lord of the Rings MUSH II
-The Lord of the Rings Masterpieces
-The Lord of the Rings Millennium Edition
-The Lord of the Rings Movie Trilogy Coloring Book
-The Lord of the Rings Musical
-The Lord of the Rings Official Movie Guide
-The Lord of the Rings Onlinee
-The Lord of the Rings Online player character classes
-The Lord of the Rings Project
-The Lord of the Rings Prologue
-The Lord of the Rings Roleplaying Adventure Game
-The Lord of the Rings Roleplaying Gamee
-The Lord of the Rings Roleplaying Game - Core Book
-The Lord of the Rings Sketchbook
-The Lord of the Rings Souvenir booklet commemorating twenty five years of its publication
-The Lord of the Rings Strategy Battle Gamee
-The Lord of the Rings Symphony
-The Lord of the Rings Tarot
-The Lord of the Rings Trading Card Game
-The Lord of the Rings and Philosophy
-The Lord of the Rings and the Western Narrative Tradition
-The Lord of the Rings film
-The Lord of the Rings film trilogy
-The Lord of the Rings films
-The Lord of the Rings in Cincinnati
-The Lord of the Rings movie
-The Lord of the Rings movies
-The Lord of the Rings on Prime
 The Lore and Language of Schoolchildren
 The Loss and the Silence
 The Lost Road
 The Lost Road and Other Writings
-The Lost Road and other Writings
 The Lost Tales
 The Lucifer Ego
 The Magical World of the Inklingse
@@ -13282,18 +10250,12 @@ The Man-hearted
 The Man Who Understands Hobbits
 The Man in the Moon Came Down Too Soon
 The Man in the Moon Stayed Up Too Late
-The Manhearted
-The Manuscripts of J.R.R.T.
-The Map of Tolkien's Beleriand and the Lands to the North
-The Map of Tolkien's Middle-earth
 The Maps of Middle-earth
-The Maps of Tolkien's Middle-earth
 The Mariner
 The Marish
 The Mark
 The Mark of the Bear
 The Marvellous Land of Snergs
-The Marvelous Land of Snergs
 The Meaning of Everything
 The Mewlips
 The Middle-Earth Trilogy
@@ -13307,7 +10269,6 @@ The Minstrel
 The Mirror Crack'd
 The Mirror of Galadriel
 The Monster and the Critics
-The Monsters and the Critics
 The Monsters and the Critics and Other Essays
 The Moon
 The Morgul Lord Legendary Scale Bust
@@ -13322,16 +10283,12 @@ The Mythic Circle
 The Mythology of Middle-earth
 The Mythopoeic Society
 The Name \Nodens\
-The Name 'Nodens'
 The Name Coventry
-The Name Nodens
 The Nameless Land
 The Narn
 The Narrows
-The National Tolkien League
 The Nature Of Evil
 The Nature of Middle-earth
-The Nature of Middle Earth
 The Nauglafring
 The Nazgûl
 The Nazgûl Attack
@@ -13340,9 +10297,7 @@ The Necromancer's Lieutenant
 The Necromancer
 The Netherlands
 The New Lay of Gudrun
-The New Lay of Gudrún
 The New Lay of the Volsungs
-The New Lay of the Völsungs
 The New Shadow
 The Nine
 The Noble Collection
@@ -13354,7 +10309,6 @@ The Notion Club Papers
 The Notion Club Papers Part One
 The Notion Club Papers Part Two
 The Numenorean
-The Númenórean
 The Ogrog
 The Old
 The Old English Apollonius of Tyre
@@ -13371,13 +10325,10 @@ The One Ring rpg
 The Open Door to Poetry
 The Oratory School
 The Orgog
-The Origins of Tolkien's Middle-earth For Dummies
 The Owl and the Nightingale
 The Oxford Book of Greek Verse in Translation
 The Oxford English Schoole
-The Oxford Tolkien Conference
 The Palantir
-The Palantír
 The Palantíri
 The Parting of Arwen
 The Parting of Sam and Frodo
@@ -13385,21 +10336,15 @@ The Party Tree
 The Pass of Caradhras
 The Passage of the Marshes
 The Passing of Theoden
-The Passing of Théoden
 The Passing of the Elves
 The Passing of the Grey Company
 The Paths of the Dead
-The People's Guide to J.R.R. Tolkien
 The Peoples of Middle-Earth
-The Peoples of Middle-earth
 The Peril to the Shire
-The Philosophy of Tolkien
-The Pitkin Guide to Tolkien
 The Plains of Rohan
 The Plants of Middle-earth
 The Plotz Declension
 The Poetical Cat
-The Poetry of J.R.R. Tolkien
 The Politics of Fantasy
 The Pool of the Dead Yeare
 The Powers
@@ -13407,8 +10352,6 @@ The Prancing Pony
 The Prancing Pony Podcaste
 The Precious
 The Princess Ni
-The Princess Nì
-The Princess Ní
 The Problem of Ros
 The Professor's Bookshelf
 The Prologue
@@ -13418,14 +10361,12 @@ The Quenta
 The Quest for Erebor
 The Quest of Erebor
 The Real Middle-earth
-The Real Middle Earth
 The Red Book
 The Reeve's Tale
 The Reforging of Narsil
 The Renewer
 The Retreat of the Hornburg
 The Return Journey
-The Return of Tolkien
 The Return of Túrin to Dor-lómin
 The Return of the Fellowship of the Ring to the Two Towers
 The Return of the King
@@ -13446,33 +10387,24 @@ The Ring-bearer
 The Ring Goes East
 The Ring Goes Ever On
 The Ring Goes South
-The Ring Legends of Tolkien
 The Ring Sets Out
 The Ring Thing
 The Ring and the Cross
-The Ring goes South
 The Ring of Barahir
 The Ring of Doom
 The Ring of Words
 The Rings of Power
 The Rise and Wonderful Adventures of Farmer Giles Lord of Tame Count of Worminghall and King of the Little Kingdom
-The Rise of Tolkienian Fantasy
 The Rivers and Beacon-Hills of Gondor
-The Rivers and Beacon-hills of Gondor
 The Road Goes Ever On
 The Road Goes Ever On A Song Cycle
-The Road Goes Ever On...e
 The Road Goes Ever On and One
 The Road to Isengard
 The Road to Middle-Earth
-The Road to Middle-earth
 The Roadkill of Middle Earth
 The Roll
 The Romance of the Middle Ages
-The Romantic Spirit in the Works of J.R.R. Tolkien
 The Root of the Boot
-The Roots of Tolkien's Middle-earth
-The Roots of Tolkien's Middle Earth
 The Roots of the Mountains
 The Rotting Horse on the Deadly Ground
 The Rough Guide to The Lord of the Rings
@@ -13484,10 +10416,7 @@ The Rules
 The Sacrifice of Faramir
 The Saga of Hrolf Kraki
 The Science of Middle-Earth
-The Science of Middle-earth
-The Science of Middle Earth
 The Scouring Of The Shire
-The Scouring of the Shire
 The Screwtape Letters
 The Sea
 The Sea-Bell
@@ -13503,12 +10432,10 @@ The Shadow Dragons
 The Shadow Lies Frozen on the Hills
 The Shadow Man
 The Shadow Of The Past
-The Shadow of the Past
 The Shadows of Mordor
 The Shaping of Middle-earth
 The Sheen
 The Shibboleth of Feanor
-The Shibboleth of Fëanor
 The Shipwright
 The Shire
 The Shire Calendar
@@ -13556,7 +10483,6 @@ The Story Foretold
 The Story of Kullervo
 The Stranger
 The Sword That Was Broken
-The Sword that Was Broken
 The Tale of Aragorn and Arwen
 The Tale of Eärendel
 The Tale of Gondolin
@@ -13566,12 +10492,9 @@ The Tale of Years of the Second Age
 The Tale of Years of the Third Age
 The Tale of the Sun and Moon
 The Tales That Really Matter
-The Tales That Really Mattered...
 The Tall
 The Taming of Smeagol
-The Taming of Sméagol
 The Texts and Their Relations
-The Texts and their Relations
 The Theft of Melko
 The Theft of Melko and the Darkening of Valinor
 The Third Age
@@ -13579,35 +10502,7 @@ The Third Map of The Lord of the Rings
 The Three Hunters
 The Tides
 The Times Literary Supplement
-The Tolkien Address Book
-The Tolkien Collector
-The Tolkien Companion
-The Tolkien Ensemble
-The Tolkien Estate
-The Tolkien Experience
-The Tolkien Family Album
-The Tolkien Fan's Medieval Reader
-The Tolkien Journal
-The Tolkien Name in History
-The Tolkien Phenomenon
-The Tolkien Professor
-The Tolkien Quiz Book
-The Tolkien Reader
-The Tolkien Relation
-The Tolkien Scrapbook
-The Tolkien Society
-The Tolkien Society Award
-The Tolkien Society Awards
-The Tolkien Society Bulletin
-The Tolkien Society Forodrim
-The Tolkien Society Guide to Oxford
-The Tolkien Society of Sweden
-The Tolkien Software Adventure Series
-The Tolkien Treasury
-The Tolkien Trilogy
-The Tolkien Trust
 The Tomb of the Stewards
-The Tombs of the Stewards
 The Tongue
 The Tower of Cirith
 The Tower of Cirith Ungol
@@ -13615,51 +10510,33 @@ The Tower of Cirith Ungol and Shelob's Lair
 The Towers of the Teeth
 The Town of Dreams and the City of Present Sorrow
 The Treason Of Isengard
-The Treason of Isengard
 The Tree of Tongues
 The Trees the Jewels and the Rings
 The Trees of Kortirion
 The Trilogy
 The Trollshaws
 The Trumpet of Faery
-The Trumpets of Faerie
-The Trumpets of Faery
-The Two Riders. Earlier versions
 The Two Towers
-The Two Towers/Quotationse
-The Two Towers Complete Recordings
-The Two Towers Extended Edition
-The Two Towers MUD
-The Two Towers Soundtrack
-The Two Towers Sourcebook
-The Two Towers Visual Companion
 The Ulsterior Motivee
-The Uncharted Realms of Tolkien
 The Unexpected Professor
 The Unfinished Tales
 The Unhappy
-The Unpublished Letters of J.R.R. Tolkien
 The Unwilling
 The Uruk-Hai
-The Uruk-hai
 The Usurper
 The Voice of Saruman
 The Void
 The Voyage of Earendel the Evening Star
-The Voyage of Eärendel the Evening Star
 The Wain
 The Wall of Helm's Deep
-The Wall of Helm's Deep - Aragorn VS Uruk-Hai
+The Wall of Helm's Deep - Aragorn
 The Walt Disney Company
 The Wanderer
 The Wanderer's Allegiance
-The Wanderer’s Allegiance
 The Wanderings of Húrin
 The War Of The Ring
 The War Of Wrath
-The War of Wrath
 The War of the Jewels
-The War of the Ring
 The War of the Rohirrim
 The Watch
 The Water
@@ -13687,54 +10564,29 @@ The Wooden Whale
 The Woodland Realm
 The Words of Húrin and Morgoth
 The World is Ahead
-The World of Tolkien
 The World was Young the Mountains Green
-The Worlds of J.R.R. Tolkien
 The Worm
 The Wronged
 The Yale
 The Year's Work in English Studies
 The Yondershire
 The Young Magicians
-The art of the lord of the rings
-The battle of the five armies
 The cold hard lands
 The dragon is withered
 The earliest map
 The elvenking
-The fall of arthur
-The fall of numenor
 The gate of wood
 The goblin song
-The history of Middle-earth
-The history of The Lord of the Rings
-The history of middle earth
-The history of the hobbit
-The history of the lord of the rings
-The hobbit films
-The hobbit movies
 The horn of gondor
-The hunt for gollum
-The later Annals of Beleriand
-The lays of Beleriand
 The letters
 The lord of the rings
-The mouth of sauron
 The nirnaeth
 The nirnaeth arnoediad
-The one ring
-The return of the king
-The rough Guide to The Lord of the Rings
 The second battle of the fords of isen
 The waning of the Dúnedain
-The waning of the dunedain
 The wind was on the withered heath
 The world was young
-The world was young the mountains green
-The worlds of J.R.R. Tolkien
-Theargonath.cc
 Thela
-Thelandofshadow.com
 Thelion
 Thellamie
 Thengel
@@ -13748,14 +10600,10 @@ Theodore Isidore Gottlieb
 Theodred
 Theodwyn
 Theology and Fantasy
-Theology and Tolkiene
 There's magic in The Hobbit
 There And Back Again
 There Would Always Be a Fairy-Tale
-There Would Always Be a Fairy Tale
 There and Back
-There and Back Againe
-There and back again
 They're taking the Hobbits to Isengard
 Thief
 Thieves of Tharbad
@@ -13772,7 +10620,6 @@ Third House of the Edain
 Third Kinslaying
 Third Marshal of the Riddermark
 Third Ring
-Third age
 This Wandering Day
 Thistle Brook
 Thistlebeard
@@ -13790,7 +10637,6 @@ Thlim Taul
 Thomas Fornet-Ponse
 Thomas Honegger
 Thomas Kenneth Barnsley
-Thomas M. Honegger
 Thomas Mastakouris
 Thomas Meleteas
 Thomas Morwinsky
@@ -13800,23 +10646,11 @@ Thondir
 Thor
 Thorin
 Thorin's Hall
-Thorin's Halls
 Thorin's Letter
-Thorin's hall
-Thorin's letter
 Thorin I
-Thorin II
-Thorin III
-Thorin III Stonehelm
-Thorin II Oakenshield
 Thorin Oakenshield
-Thorin Oakenshield.
 Thorin Stonehelm
-Thorin and Co.
 Thorin and Company
-Thorin and company
-Thorin ii
-Thorin iii
 Thorn
 Thorn Sir
 Thorndor
@@ -13830,17 +10664,13 @@ Thoughts on Parade
 Thousand Caves
 Thrain
 Thrain I
-Thrain II
 Thrain the Old
 Thrall-Noldoli
 Thranduil
 Thranduil's Halls
-Thranduil's halls
 Three-Farthing Stone
-Three-farthing Stone
 Three Early Poems
 Three Elderwomen
-Three Farthing Stone
 Three Great Rings
 Three Houses
 Three Houses of the Edain
@@ -13852,7 +10682,6 @@ Three Kindreds
 Three Prayers
 Three Rings
 Three Rings for the Elven-Kings Under the Sky
-Three is Company
 Thrice Welcome
 Thrihyrne
 Thrimidge
@@ -13862,47 +10691,27 @@ Thror's Ring
 Thror's map
 Through the Forest of Dol Guldur
 Thrush
-Thrushes
 Thrym
 Thrym Thistlebeard
-Thráin
-Thráin I
-Thráin II
-Thrór
-Thrór's Chamber
-Thrór's Map
-Thrór's map
-Thu
 Thule
 Thurin
 Thuringwethil
-Théoden
 Théoden's Decision
 Théoden King
 Théoden Rides Forth
-Théodred
-Théodwyn
 Thór's Map
-Thór's map
 Thôl
-Thôn
-Thôr
-Thû
-Thōn
 Tiberth
 Tie
 Tier
 Tifil
 Tighfield
-Til
 Tilda
 Tilion
 Tilkal
-Tillsammans med Tolkien
 Tim
 Tim Hildebrandt
 Tim Kirk
-Tim Tolkien
 Tim Winsky
 Tim of Townsend
 Timbrenting
@@ -13917,38 +10726,28 @@ Timeline/Second Age
 Timeline/Third Age
 Timeline/Years of the Trees
 Timeline of Aragorn
-Timeline of Aragorn II
 Timeline of Frodo Baggins
 Timeline of Galadriel
 Timothy Bartlett
-Timothy J. Wheeler
-Timothy R. O'Neill
 Timpinen
 Tin
 Tinco
 Tincotema
-Tincotéma
 Tindome
 Tindomiel
 Tindrock
-Tindómiel
-Tindómë
 Tinfang
 Tinfang Gelion
 Tinfang Warble
 Tinnu
 Tinnudir
 Tintalle
-Tintallë
 Tinu
 Tinuviel
 Tinw
 Tinwelint
 Tinwetári
-Tinwë
 Tinwë Linto
-Tinúviel
-Tir
 Tirgeld
 Tirharad
 Tirimbrithla
@@ -13963,24 +10762,19 @@ Titan
 Titanium
 Titles
 Tiw
-Tië
-ToME
+T
 To Early Morning Tea
 To Maggot's Farm and Buckland
-To W.H. Auden
 To the Death
 To the Sea to the Sea! The white gulls are crying
 Tobago
 Tobold Hornblower
-Today's Tolkien Times
 Todd Stevens
 Tode
 Togo Goodbody
-Tol
 Tol-in-Gaurhoth
 Tol Brandir
 Tol Eressea
-Tol Eressëa
 Tol Erethrin
 Tol Falas
 Tol Fuin
@@ -13989,163 +10783,11 @@ Tol Morwen
 Tol Sirion
 Tol Uinen
 Tol Withernon
-Tolfalas
 TolkCast
 Tolkein
-Tolkiene
-Tolkien's Bag End
-Tolkien's Faithe
-Tolkien's Gedling
-Tolkien's Golem
-Tolkien's Great War
-Tolkien's Hobbit
-Tolkien's Legendariume
-Tolkien's Librarye
-Tolkien's Lost Chaucer
-Tolkien's Middle-earth
-Tolkien's Mighty Pen
-Tolkien's Modern Middle Ages
-Tolkien's Modern Reading
-Tolkien's Monsters
-Tolkien's Mythology for England
-Tolkien's Ordinary Virtues
-Tolkien's Oxford
-Tolkien's Poetry
-Tolkien's Ring
-Tolkien's Roade
-Tolkien's Shorter Works
-Tolkien's The Lord of the Rings – Sources of Inspiration
-Tolkien's Theology of Beautye
-Tolkien's View
-Tolkien's Worlde
-Tolkien's desk
-Tolkien's works in popular media
-Tolkien's works in popular media/Comics
-Tolkien Race and Cultural History
-Tolkien le façonnement d'un monde
-Tolkien the Sea and Scandinavia
-Tolkien trente ans après
-Tolkien-lexikone
-TolkienLibrary.com
-TolkienMoot
-Tolkien & Co
-Tolkien - min vän Ronald och hans världar
-Tolkien Avenue
-Tolkien Calendars
-Tolkien Centenary Conference
-Tolkien Collector's Guidee
-Tolkien Encyclopedia
-Tolkien Ensemble
-Tolkien Enterprises
-Tolkien Enterprises' copyrights
-Tolkien Enterprises/Copyrights
-Tolkien Estate
-Tolkien Exhibitions
-Tolkien Experience
-Tolkien Experience Podcast
-Tolkien FAQ
-Tolkien Family
-Tolkien Family Tree
-Tolkien Gateway
-Tolkien Gateway Meetings
-Tolkien Gateway research
-Tolkien Guide
-Tolkien Index
-Tolkien Journal
-Tolkien Library
-Tolkien Lietuva
-Tolkien Modding Community
-Tolkien News
-Tolkien On Fairy-stories
-Tolkien Phraseology
-Tolkien Portraiture
-Tolkien Quest
-Tolkien Quiz Book
-Tolkien Reading Day
-Tolkien Remembered
-Tolkien Societies
-Tolkien Society
-Tolkien Society Awards
-Tolkien Society of America
-Tolkien Society of Norway
-Tolkien Studiese
-Tolkien Thing
-Tolkien Through Russian Eyes
-Tolkien Trilogy
-Tolkien Trivia
-Tolkien Trust
-Tolkien Winkel
-Tolkien WordSearch
-Tolkien and C.S. Lewis
-Tolkien and C. S. Lewis
-Tolkien and Diversity
-Tolkien and Old Norse
-Tolkien and Philosophy
-Tolkien and Romanticism
-Tolkien and Sanskrit
-Tolkien and Shakespearee
-Tolkien and The Silmarillion
-Tolkien and Wagner
-Tolkien and Wales
-Tolkien and Welsh
-Tolkien and the Classical World
-Tolkien and the Classics
-Tolkien and the Critics
-Tolkien and the Gothic
-Tolkien and the Great War
-Tolkien and the Invention of Myth
-Tolkien and the Peril of War
-Tolkien and the Sea
-Tolkien and the Silmarillion
-Tolkien and the Silmarils
-Tolkien and the Spirit of the Age
-Tolkien and the Study of His Sources
-Tolkien articles
-Tolkien at Exeter College
-Tolkien aujourd'hui
-Tolkien bibliography
-Tolkien books
-Tolkien canon
-Tolkien criticism
-Tolkien e l'Italia
-Tolkien en France
-Tolkien exhibitions
-Tolkien family
-Tolkien fan
-Tolkien fandom
-Tolkien in Oxford
-Tolkien in Poetry and Song
-Tolkien in Translation
-Tolkien in aller Welt
-Tolkien in the New Century
-Tolkien metal
-Tolkien museum
-Tolkien och den svarta magin
-Tolkien on Fairy-Stories
-Tolkien on Film
-Tolkien on Tolkien
-Tolkien societies
-Tolkien studies
-Tolkien the Medievalist
-Tolkien the Pagan?
-Tolkien treasury
-Tolkien – El Senor de Los Mitos
-Tolkiendil
-Tolkienguide.com
-Tolkienist
-Tolkienists
-Tolkienlibrary.com
-Tolkiennymy
-Tolkienology
-Tolkienpodden
-Tolkiens Følge
-Tolkiens Midgård
-Tolkiens arv
-Tolkientrail.com
 Tolklang
 Toll
 Toll-ereb
-Tolle
 Tollers
 Tolli Kimpelear
 Tolli Kuruvar
@@ -14161,7 +10803,6 @@ Tolto
 Tom
 Tom Bombadil
 Tom Bombadil/Nature
-Tom Bombadil/nature
 Tom Cotton Junior
 Tom Cotton Senior
 Tom Cross
@@ -14176,22 +10817,16 @@ Tom Zuchowski
 Tomatoes
 Tomb of Balin
 Tomb of Elendil
-Tomb of elendil
 Tombes
 Tombo
-Tombombadil
-Tombs
 Tomling
 Tompolle
-Tompollë
 Tongue
 Tony Oliver
 Took
 Took Family
-Took family
 Tookbank
 Tookland
-Tooks
 Tore Zetterholm
 Torech
 Torech Ungol
@@ -14204,28 +10839,21 @@ Tosto Boffin
 Tove Jansson
 Toward the Gleam
 Tower Guard
-Tower Guards
 Tower Hall
 Tower Hills
 Tower of Amon Sul
-Tower of Amon Sûl
 Tower of Anor
 Tower of Avallone
-Tower of Avallonë
-Tower of Avallónë
 Tower of Cirith Ungol
 Tower of Ecthelion
 Tower of Guard
 Tower of Ingil
 Tower of Ingwe
-Tower of Ingwë
 Tower of Kortirion
 Tower of Orthanc
 Tower of Pearl
 Tower of Sorcery
 Tower of Turgon
-Tower of ecthelion
-Tower of ingil
 Tower of the King
 Tower of the Moon
 Tower of the Rising Moon
@@ -14242,24 +10870,18 @@ Trahald
 Tram Nybol
 Trann
 Translated namese
-Translating and Illustrating Tolkien
 Translations
 Translations from the Elvish
 Transorangia
-Travel and Communication in Tolkien's Worlds
 Travelers
 Traveller's Tales
-Travellers
 Treason at Helm's Deep
 Treasures From the Misty Mountains
-Treasures from the Misty Mountains
 Treasures of Middle-Earth
-Treasures of Middle-earth
 Tredwill
 Tree-men
 Tree and Leaf
 Tree and Leaf; Smith of Wootton Major; The Homecoming of Beorhtnoth
-Tree by Tolkien
 Tree of Amalion
 Tree of Gold
 Tree of Silver
@@ -14280,12 +10902,7 @@ Troll
 Troll's Cave
 Troll-Men
 Troll-fells
-Troll-men
-Trolls
-Trolls' Cave
-Trolls' cave
 Trolls' lair
-Trolls cave
 Trolls of the Misty Mountains
 Trollshaws
 Trotter
@@ -14300,31 +10917,21 @@ Trumbold
 Trumpets of Faerie
 Tryggwi
 Trystan Gravelle
-Trâgu
-Tréowine
-Trāgu
-Ttt
 Tuarfuin
 Tuckborough
 Tuile
 Tuilere
 Tuilindo
 Tuilindor
-Tuilérë
-Tuilë
 Tulcas
 Tulchathron
 Tulcus
 Tulkas
 Tulkas Astaldo
 Tulkasse
-Tulkassë
 Tulkastor
 Tulukhastaz
-Tulukhastāz
 Tulukhedelgorus
-Tulukhedelgorûs
-Tulukhedelgorūs
 Tum
 Tum Gondregain
 Tum Orchorod
@@ -14343,32 +10950,25 @@ Tuor Eladar
 Tuor Ulmondil
 Tuor the Blessed
 Tuord
-Tur
 Tur Haretha
 Tur nan Églathon
 Tur yan Eldaron
 Turamarth
 Turambar
 Turambar and the Foaloke
-Turambar and the Foalóke
-Turambar and the Foalókë
 Turambar of Gondor
 Turbine
 Turcafinwe
-Turcafinwë
 Turenbor
 Turgon
 Turgon King of Gondolin
 Turgon of Gondolin
 Turgon of Gondor
 Turgon the Wise
-Turgon the wise
 Turin
 Turin I
-Turin II
 Turin Turambar
 Turin Wrapper
-Turin ii
 Turindo
 Turing
 Turingwith
@@ -14387,15 +10987,11 @@ Tuvo
 Tvistur
 Tweaking Things a Little
 Twelve Beorings
-Twelve Bëorings
 Twelve Houses of Gondolin
 Twelve Houses of the Gondolindrim
 Twelve Houses of the Gondothlim
-Twelve houses of the Gondothlim
 Twenty-First Hall
 Twenty-First Hall of the North-end
-Twenty-first Century Receptions of Tolkien
-Twenty-first Hall
 Twenty years have flowed away
 Twenty years have flowed away down the long river
 Twilight
@@ -14417,67 +11013,36 @@ Two Trees
 Two Trees of Valinor
 Two Trees of the Valar
 Two Watchers
-Two lamps
-Two trees
 Twofoot Family
 Tyalie Tyelellieva
-Tyalië Tyelelliéva
 Tyelcormo
 Tyelka
 Tyelkormo
 Tyelle
 Tyeller
-Tyellë
 Tyelpe
 Tyelperion
 Tyelpetema
-Tyelpetéma
 Tyelpinquar
-Tyelpétema
-Tyelpë
 Tyrn Gorthad
 Tyroe Muhafidin
 Tyé
-TÁWAR
-Tári
-Tárion
 Tâd
-Tâl
 Téma
-Témar
-Tîn
-Tîw
 Tôl Acharn
 Tôn a Gwedrin
-Túna
-Túor
-Túr
-Túrin
-Túrin I
-Túrin II
-Túrin Turambar
-Túrin Wrapper
 Túrin among the Outlaws
 Túrin in Doriath
 Túrin in Nargothrond
-Túro
-Túrosto
-Túvo
 Tûl Acharn
 Tûn
-Tûr
-Tûr Haretha
-URUN
-USA
 Udul
 Udun
-Udûn
 Ufedhin
 Uffo Boffin
 Ufthak
 Ugluk
 Ugluk's Warriors
-Uglúk
 Uglúk u bagronk sha pushdug Saruman-glob búbhosh skai
 Uial
 Uilos
@@ -14486,7 +11051,6 @@ Uin
 Uinen
 Uinendili
 Uineniel
-Uinéniel
 Ulairi
 Ulbandi
 Ulbar
@@ -14498,10 +11062,8 @@ Ulfast
 Ulga
 Ulgundo
 Ulluboz
-Ullubōz
 Ulmo
 Ulmo's hall
-Ulmo's halls
 Ulmo's warning
 Ulmonan
 Ulmondil
@@ -14509,9 +11071,7 @@ Ulrad
 Ulrike Ascher
 Ulu
 Uluboz
-Ulubōz
 Ulumuri
-Ulumúri
 Ulun(t)
 Ulwar
 Ulwarth
@@ -14522,7 +11082,6 @@ Umbare
 Umbardacil
 Umbarto
 Umboth-Muilin
-Umboth Muilin
 Umlaut
 Umor
 Umuiyan
@@ -14535,11 +11094,8 @@ Undeeps
 Under-gate
 Under-hill
 Under-way
-Under Hill
 Under the mountain dark and tall
-Undergate
 Underharrow
-Underhill
 Underhill Family
 Underking
 Understanding The Lord of the Rings
@@ -14549,13 +11105,10 @@ Undome
 Undomiel
 Undying Lands
 Undying Realm
-Undómiel
-Undómë
 Uner
 Unfinished Tales
 Unfinished Tales/Publication history and gallery
 Unfinished Tales of Numenor and Middle-earth
-Unfinished Tales of Númenor and Middle-earth
 Unfinished index
 Ungol
 Ungoliant
@@ -14564,8 +11117,6 @@ Ungoliont
 Ungwe
 Ungwe Lianti
 Ungweliantë
-Ungwë
-Ungwë Lianti
 Union of Maedhros
 Unions of Elves and Men
 United Artists
@@ -14574,7 +11125,6 @@ United States
 University of Cambridge
 University of Leeds
 University of Oxford
-University of Wisconsin Tolkien and Fantasy Society
 Unlight
 Unnarr
 Unnumbered Tears
@@ -14587,23 +11137,16 @@ Unquendor
 Unrest of the Noldor
 Unseen
 Unsung Heroes of The Lord of the Rings
-Untangling Tolkien
 Untitled Wētā Workshop video game
-Unto a Long Glory...e
 Unusual words
 Unveiling the Essence
 Unwin Hyman
-Unwin Hyman Ltd.
 Unwin Paperbacks
 Uole
 Uole Kuvion
-Uolë
 Uolë Cúvion
-Uolë Kúvion
 Upbourn
 Upon The Hearth The Fire Is Red
-Upon the Hearth the Fire is Red
-Uppsala Tolkiensällskap
 Urc
 Urco
 Urdolwen
@@ -14611,56 +11154,42 @@ Ure
 Urgî
 Urgû
 Urime
-Urimë
 Urin
 Urqui
-Ursula K. Le Guin
 Ursula LeGuin
-Ursula Le Guin
 Urthel
 Urui
 Uruk
 Uruk-Hai
-Uruk-hai
 Uruk Hai Sword prop replica
-Uruks
 Uruloke
 Uruloki
 Urulóci
 Urulócë
-Urulóki
-Urulókë
 Urundil
 Urus
 Urwedhin
 Urwen
 Urwen Lalaith
 Urwendi
-Urë
 Userboxes
 Usurpers
 Usvainen Rhûn
 Uswe
 Uswevandë
-Uswë
 Utter East
 Uttermost East
 Uttermost West
-Uttermost east
 Utumna
 Utumno
 Utúlie'n aurë!
-Utúlie’n aurë!
 Uvalear
 Uve
 Uzbad
 Uzbad Khazaddûmu
-V.Y.
-VII
 Vai
 Vaia
 Vaire
-Vairë
 Vaitya
 Vaiya
 Vakko
@@ -14670,7 +11199,6 @@ Valacirca
 Valandil
 Valandil of Arnor
 Valandil of Numenor
-Valandil of Númenor
 Valandor
 Valandur
 Valanya
@@ -14686,7 +11214,6 @@ Valariandë
 Valarin
 Valarindi
 Valaroma
-Valaróma
 Vale of Anduin
 Vale of Evermorn
 Vale of Narog
@@ -14695,13 +11222,8 @@ Valedictory
 Valedictory Address to the University of Oxford
 Valentine Dyall
 Vales
-Vales of Anduin
-Vales of Sirion
 Valian
 Valian Year
-Valian Years
-Valian year
-Valian years
 Valie
 Valier
 Valier - Queens of the Valar
@@ -14709,23 +11231,17 @@ Valimar
 Valinor
 Valinorean
 Valinorean Quenya
-Valinórë
-Valië
 Valkotukka
 Valleys
 Valmar
-Valmaric
 Valmaric script
 Valtur
 Valwe
-Valwë
 Vampire
-Vampires
 Vana
 VanderStelt Studio
 Vaniai
 Vanimelde
-Vanimeldë
 Vanua
 Vanwa
 Vanya
@@ -14737,13 +11253,10 @@ Varanduiniant
 Varda
 Vardamir
 Vardamir Nolimon
-Vardamir Nólimon
 Vardarianna
 Vardilme
-Vardilmë
 Vardo Meoita
 Variag
-Variags
 Varin
 Varttina
 Vasa
@@ -14767,7 +11280,6 @@ Verna
 Veronika Megler
 Verse
 Verse Modes
-Verses
 Verus
 Very Old Friends
 Verya-
@@ -14781,7 +11293,7 @@ Vidugavia
 Vidumavi
 Viggo Mortensen
 Vigo Boffin
-VikingMUD
+Vikin
 Viking Club
 Villages
 Vilma
@@ -14794,13 +11306,10 @@ Vincent Ferré
 Vincent Trought
 Vinga
 Vingilot
-Vingilote
-Vingilótë
 Vinice
 Vinitharya
 Vinya
 Vinyalonde
-Vinyalondë
 Vinyamar
 Vinyamo
 Vinyar Tengwar
@@ -14811,7 +11320,6 @@ Virgin Games
 Virgin Mary
 Visio de Doworst
 Vision of Iluvatar
-Vision of Ilúvatar
 Vista
 Visur Islendinga
 Vivendi
@@ -14821,9 +11329,7 @@ Vo-
 Void
 Vola
 Voluspa
-Voluspá
 Volwe
-Volwë
 Vomentie
 Vomentienguo
 Vorn
@@ -14832,42 +11338,19 @@ Vorondil
 Vorondil the Hunter
 Voronwe
 Voronwe of Gondolin
-Voronwë
-Voronwë of Gondolin
 Voyage en Terre du Milieu
 Vrath
-Vána
-Vása
-Värttinä
 Vëandur
-Vëannë
-Vëantur
 Víga-Glúms Saga
 Víne
-Vínë
-Víressë
-Völuspá
-W.H. Audene
-W.H. Lewis
-W.P. Ker Lecture
-W.W. Wormald
-W. H. Auden
-WATH
-WIN
-WITN
-WOR
-WWI
 Wade Center
 Wade Centre
 Waetlingas
-Wagner and Tolkien
 Waia
 Wain
 Wainrider/Balchoth War
 Wainriders
-Wainriders-Balchoth War
 Wairē
-Waith
 Wake Now My Merry Lads! Wake and Hear Me Calling!
 Waking Water
 Walda
@@ -14880,9 +11363,7 @@ Wall of Night
 Wall of the Sun
 Walls
 Walls of Moria
-Walls of Night
 Walls of the Night
-Walls of the Sun
 Walls of the World
 Wally Wingert
 Walt Disney
@@ -14890,21 +11371,15 @@ Walter Hooper
 Walter Scherf
 Wandering Companies
 Wandering Days
-Wandering companies
 Wandering elves
 Wanderings of Hurin
-Wanderings of Húrin
 Wandlimb
 Waning of Dúnedain
 Waning of the Dúnedain
-Waning of the dunedain
 Wanwavoisi
-War and the Works of J.R.R. Tolkien
 War in Heaven
 War in Middle-earth
-War in Middle Earth
 War in the North
-War in the north
 War is Upon Us
 War of Dwarves and Orcs
 War of Last Alliancee
@@ -14920,8 +11395,6 @@ War of the Last Alliance
 War of the Powers
 War of the Ringe
 War of the Rohirrim
-War of the ring
-War of wrath
 Warden of Westmarch
 Warden of the Great Gate
 Warden of the Houses of Healing
@@ -14931,14 +11404,8 @@ Warg
 Warg-Scouts
 Warg-language
 Warg Matriarch
-Wargs
 Warlords of the Desert
-Warner Bros.
-Warner Bros. Games
-Warner Bros. Interactive Entertainment
-Warner Bros. Pictures
 Warner Brothers
-Warner bros
 Warnie Lewis
 Warning beacons of Gondor
 Warren \Warnie\ Lewis
@@ -14946,7 +11413,6 @@ Warren Lewis
 Warren Mahye
 Wars
 Wars of Beleriand
-Wars of the Dwarves and Dragons
 Warwick
 Warwickshire
 Warwíc
@@ -14955,18 +11421,14 @@ Watch
 Watch-stones
 Watcher
 Watcher in the Water
-Watchers
 Watchful Peace
 Watching The Lord of the Rings
 Watchtower of Ostirith
 Watchwood
-Watchwoods
 Water-lilies
 Water-valley
 Water falls
 Water of Awakening
-Waterfalls
-Waters of Awakening
 Watla
 Watol
 Way of Dreams
@@ -14976,7 +11438,6 @@ Waybread
 Waymeet
 Waymoot
 Wayne Che Yip
-Wayne G. Hammond
 Wayne Hammond
 Wayne Yip
 Weapons
@@ -14996,19 +11457,12 @@ Wells of Ivrin
 Wells of Varda
 Welsh
 Welund
-Wen
 Wendelin
 Wendelsæ
 Wendine
 Were-wolves
 Were-worm
-Were-worms
-Were worm
-Were worms
 Werewolf
-Werewolves
-Wereworm
-Wereworms
 West
 West-door
 West-gate
@@ -15019,8 +11473,6 @@ West-mark
 West-wings
 West Beleriand
 West Elves
-West March
-West Marches
 West Pass
 West Sea
 West of the Mountains East of the Sea
@@ -15036,13 +11488,10 @@ Westfarthing of the Shire
 Westfold
 Westfold-men
 Westfold Vale
-Westgate of Moria
 Westlands
 Westlands of Middle-earth
 Westlands of Numenor
-Westlands of Númenor
 Westmansweed
-Westmarch
 Westron
 Westron Tengwar
 Westward journey
@@ -15053,7 +11502,6 @@ Weta Workshop
 Wetlands
 Wetwang
 Whale
-Whales
 Wheat
 Wheelbarrows at Dawn
 When I'm Dead
@@ -15086,27 +11534,21 @@ White Lady
 White Lady of Gondolin
 White Lady of Rohan
 White Mountain
-White Mountains
 White Rider
 White Ship
 White Tower
-White Towers
 White Tree
 White Tree of Gondor
 White Tree of Minas Tirith
 White Tree of Numenor
-White Tree of Númenor
 White Tree of Tirion
 White Tree of Tol Eressea
-White Tree of Tol Eressëa
 White Tree of Valinor
 White Wing
 White Wolves
 White cow
 White deer
-White dwarf
 White pillar
-White wolves
 Whiteskins
 Whitfoot
 Whitfoot Family
@@ -15117,12 +11559,10 @@ Wi Kuki Kaa
 Widfara
 Widow Rumble
 Wight
-Wights
 Wil Cotton
 Wilcome Cotton
 Wilcome Cotton I
-Wilcome Cotton II
-Wilcome II Cotton
+Wilcome
 Wilcome I Cotton
 Wild Berries
 Wild Hills
@@ -15144,7 +11584,6 @@ William
 William's purse
 William Tom and Bert
 William Auld
-William B. Ready
 William Cater
 William Conrad
 William Craigie
@@ -15157,7 +11596,6 @@ William Johnson
 William Keen
 William Kircher
 William Lawrence Snyder
-William M. Fliss
 William Morris
 William Nighy
 William Ready
@@ -15167,7 +11605,6 @@ Willie Crowther
 Willow-man
 Willow-wren
 Willowbottom
-Willowman
 Willows
 Willy Wielek-Berg
 Wilwarin
@@ -15178,8 +11615,6 @@ Windbeam
 Windfola
 Winding Stair
 Windle-reach
-Windle reach
-Windlereach
 Windlord
 Window of the Eye
 Window of the Sunset
@@ -15191,12 +11626,10 @@ Winga
 Winged Creatures
 Winged Dragons
 Winged Nazgul
-Winged Nazgûl
 Winged Shadows
 Wingfoot
 Wingildi
 Wingilot
-Wingilote
 Wingilótëe
 Wings over arda
 Winter's Tales for Children
@@ -15206,25 +11639,17 @@ Wintring
 Winya
 Winyamo
 Wirilome
-Wirilómë
 Wise
 Wise-nose
 Wise-woman
 Wiseman Gamwich
-Wisewoman
 Wista
 Witch-King
 Witch-King of Angmar
-Witch-king
-Witch-king of Angmar
-Witch King
-Witchking
 Withered Dale
 Withered Heath
 Withernon
 Withy-weir
-Withy weir
-Withyweir
 Withywindle
 Witnesses of Manwë
 Wives of the Elf-Fathers
@@ -15232,7 +11657,6 @@ Wizard
 Wizard's Isle
 Wizard's Vale
 Wizardry
-Wizards
 Wold
 Wold of Hunters
 Wolf
@@ -15240,11 +11664,8 @@ Wolf-Men
 Wolf-Sauron
 Wolf-language
 Wolf-rider
-Wolf-riders
 Wolfe Morris
 Wolfgang Krege
-Wolfrider
-Wolfriders
 Wolvercote
 Wolvercote Cemetery
 Wolves
@@ -15253,7 +11674,6 @@ Wood-elven
 Wood-elves
 Wood-elves of Mirkwood
 Wood-sunshine
-Wood Elves
 Wood of Anwar
 Wood of Greenleaves
 Wooden whale
@@ -15261,7 +11681,6 @@ Woodhall
 Woodland Realm
 Woodmen
 Woodpecker
-Woodpeckers
 Woodridings
 Woods
 Woods of Núath
@@ -15270,7 +11689,6 @@ Woody End
 Wootton Major
 Wootton Minor
 Word-extraction
-Word and Story in C.S. Lewis
 Words phrases and passages in The Lord of the Rings
 Words of the Wise
 Workhouse Infirmary
@@ -15279,45 +11697,30 @@ World-gnawing nameless things
 World-ship
 World Made Round
 World War I
-World ship
 Worldcon
 Worm of Morgoth
 Worms
 Wormtongue
 Wormwardens
 Wose
-Woses
 Woses of the Black Wood
 Wrack of Things
 Wraith
 Wraith-world
-Wraiths
 Wraiths on Wings
 Writers
 Writings
-Writings by J.R.R. Tolkien
-Writings by Tolkien
 Writings by year
 Wulf
 Wuthering Heights
 Wyrmvater Glaurung
 Wystan Hugh Auden
 Wætlingas
-Wéland
-Wídfara
 Wínsele Wéste Windge Reste Réte Berofene
-Wētā FX
-Wētā Workshop
+Wētā
 Wǣfre
-Wǽfre
-XII Beorings
-XII Bëorings
 Xander Forterie
 Xavier
-YAD
-YAN
-YOTS
-YOTT
 Yandūnë
 Yanta
 Yara
@@ -15326,10 +11729,8 @@ Yasen Zates Atour
 Yatta
 Yavanna
 Yavannamire
-Yavannamírë
 Yavannie
 Yavannildi
-Yavannië
 Yave
 Yavie
 Yavien
@@ -15341,17 +11742,13 @@ Year-book of Tuckborough
 Year of Lamentation
 Year of the Sun
 Year of the Trees
-Years
 Years of the Lamps
-Years of the Sun
-Years of the Trees
 Yellow Face
 Yellow Mountains
 Yellowskin
 Yen
 Yeni
 Yestare
-Yestarë
 Ylmir
 Yogh
 Yondershire
@@ -15361,7 +11758,6 @@ You and Me
 You and Me / and the Cottage of Lost Play
 Young Magicians
 Younger Children of Iluvatar
-Younger Children of Ilúvatar
 Younger Days
 Yozayan
 Yrch
@@ -15374,35 +11770,19 @@ Yulemath
 Yuletide
 Yulma
 Yunque
-Yunquë
 Yunuce
 Yuri Lowenthal
 Yuyo
-Yára
-Yáve
-Yávien
-Yáviérë
-Yávië
-Yávë
-Yén
-Yéni
 Yénion Yukainen Nunn' ar Anduine Lútie Loar!
-Yénion Yukainen Nunn’ ar Anduine Lútie Loar!
 Yénonótië
-Yôzâyan
 Yúnece
-Yúyo
-Yūyo
 Za Frumi
-Za Frûmi
 Zahar
 Zamin
-Zamîn
 Zane Weiner
 Zaragamba
 Zaragamba Family
 Zebra
-Zebras
 Zenobi Software
 Zigil
 Zigil-nâd
@@ -15417,133 +11797,32 @@ Zirakzigil
 Zuchowski
 Zâram
 Zîr
-The One Ring Isildur's Bane
-The One Ring The Ruling Ring
-ÁLAK
-ÁLAT
-ÁLAT-
-ÁNAD
-ÁNAK
-ÁS-AT
-Áre
-Áre Nuquerna
-Árien
-Árië
+
+ÁS
 Ármann Jakobsson
-Árpád Göncz
-Árë
-Átaremma
 Åke Bertenstam
-Åke Jönsson
-Åke Ohlmarks
 Ælfheah
 Ælfwine
 Ælfwine and Dírhaval
 Ælfwine of England
-Éadgifu
-Éadig
 Éadig Béo Þu!
-Éadwine
 Éalá Éarendel Engla Beorhtast
-Éarendel
-Éarendel at the Helm
-Édouard Kloczko
-Éogan
-Éoherë
-Éomer
-Éomer Éadig
-Éomund
 Éomund of Eastfold
 Éomund of Rohan
 Éomund of the Éothéod
-Éor
-Éored
-Éoreds
-Éothain
-Éothéod
-Éowin
-Éowyn
-Éowyn's Dream
-Éowyn and the Witch-king
-Évar
-Êru
 Ëala
-Ëalar
-Ëar
-Ëarendur
-Írensaga
-Írien
-Írildë
-Írimon
-Írimë
-Íring
-Írissë
-Íverin
 Íwerin
-Îbal
-Îdh
-ÑGAW
-ÑGOL
-ÑGOLOD
-ÑGUR
-Ñalta
-Ñaltalma
-Ñaltariel
-Ñande
-Ñauro
-Ñguruk
-Ñoldo
-Ñoldor
-Ñoldorin
-Ñoldóran
-Ñolofinwë
-Ñolondil
 Ñorsus
-ÓROK
 Ódhellim
 Ódhil
-Óin
-Óin King of Durin's Folk
-Óin King of Durin’s Folk
-Óin son of Gróin
-Ólama
 Óli
-Óma
-Ómar
-Ónen
-Óre
-Órë
-Ósanwe
-Ósanwe-kenta
-Ósanwë
-Óswine
-Ótr
 Ödesringen
-Öjevind Lång
-Öshül-küllösh
-Österreichische Tolkiengesellschaft
 Översättarens anmärkningar
 Úamanyar
-Úlairi
-Úmaiar
-Úmanyar
-Úmarth
-Únat
-Únati
-Úner
-Únótima
-Úre
 Úrgost
-Úrimë
-Úrin
 Úrion
-Úrë
-Úvalear
 Úvanimo
 Úvanimor
-Úve
-Úvë
-Ûmor
 Ûrî
 Ýneg
 Þangahyando
@@ -15551,9 +11830,7 @@ Zîr
 Þerindë
 Þindicollo
 Þorgils Saga ok Hafliða
-Þoron
 Þorontar
-Þoronto
 Þoronúmë
 Þorunahim
 Þuron
