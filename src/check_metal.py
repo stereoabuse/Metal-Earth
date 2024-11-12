@@ -4,23 +4,35 @@ import time
 from typing import List, Dict
 import csv
 import re
+import os
+import sys
 from fuzzy_search import are_similar
 
 def load_proper_nouns(filename: str = "unique_proper_nouns.txt") -> List[str]:
     """Load the proper nouns from the file, skipping header lines."""
-    nouns = []
-    with open(filename, 'r', encoding='utf-8') as f:
-        # Skip header lines
-        for line in f:
-            if line.startswith('='):
-                break
-        # Read actual nouns
-        for line in f:
-            noun = line.strip()
-            if noun:  # Skip empty lines
-                nouns.append(noun)
-    return nouns
-
+    try:
+        if not os.path.exists(filename):
+            print(f"Error: {filename} not found!")
+            print("Please run extract_nouns.py first to generate the list of proper nouns.")
+            sys.exit(1)
+            
+        nouns = []
+        with open(filename, 'r', encoding='utf-8') as f:
+            for line in f:
+                # Skip empty lines and lines starting with =
+                if line.strip() and not line.startswith('='):
+                    nouns.append(line.strip())
+        
+        if not nouns:
+            print(f"Error: No proper nouns found in {filename}")
+            print("Please run extract_nouns.py first to generate proper nouns.")
+            sys.exit(1)
+            
+        return nouns
+            
+    except Exception as e:
+        print(f"Error loading proper nouns from {filename}: {e}")
+        sys.exit(1)
 def check_metal_archives(name: str) -> Dict:
     """
     Check if a band exists on Metal Archives, including fuzzy matches.

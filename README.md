@@ -27,7 +27,7 @@ The project consists of two main scripts:
 ### 1. Extract Proper Nouns
 
 ```bash
-python extract_proper_nouns.py
+python src/extract_proper_nouns.py
 ```
 
 This will:
@@ -39,13 +39,13 @@ This will:
 ### 2. Check Metal Archives
 
 ```bash
-python metal_archives_checker.py
+python src/metal_archives_checker.py
 ```
 
 This will:
-- Read the proper nouns from `unique_proper_nouns.txt`
+- Read the proper nouns from `data/unique_proper_nouns.txt`
 - Check each name against Metal Archives
-- Save matches to `metal_band_matches.csv`
+- Save matches to `data/metal_band_matches.csv`
 
 The output CSV contains:
 - Name: The proper noun from Tolkien's work
@@ -73,7 +73,6 @@ The script includes a 0.5-second delay between Metal Archives requests to be res
 
 Contributions are welcome! Please feel free to submit a Pull Request. Some areas that could use improvement:
 
-- [ ] Add support for fuzzy matching similar names
 - [ ] Add support for words from [Eldamo](https://eldamo.org/index.html)
 - [ ] Create visualization of most common Tolkien-inspired band names
 - [ ] Add tests for the name extraction process
