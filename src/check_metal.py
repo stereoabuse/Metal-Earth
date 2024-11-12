@@ -1,5 +1,4 @@
 import requests
-import json
 import time
 from typing import List, Dict
 import csv
@@ -58,7 +57,7 @@ def check_metal_archives(name: str) -> Dict:
         response = requests.get(url, params=params, headers=headers)
         response.raise_for_status()
         data = response.json()
-        exact_matches = data['aaData']
+        exact_matches = data['aaData'] # 'aaData' is jquery parameter
         
         # Try fuzzy search for similar names
         fuzzy_matches = []

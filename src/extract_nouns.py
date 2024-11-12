@@ -1,4 +1,3 @@
-import unicodedata
 import requests
 from pathlib import Path
 
@@ -73,7 +72,11 @@ def extract_proper_nouns(texts: list[str], common_words: set) -> set:
             if not word[0].isupper():
                 continue
             
-            # Just remove punctuation, keeping original case
+            # Handle possessive 's before other punctuation
+            if "'s" in word.lower():
+                word = word.split("'")[0]
+            
+            # Remove remaining punctuation, keeping original case
             clean_word = ''.join(c for c in word if c.isalpha())
             
             # Skip if empty after cleaning
@@ -100,7 +103,6 @@ def extract_proper_nouns(texts: list[str], common_words: set) -> set:
         filtered_words.add(word)
     
     return filtered_words
-
 def main():
     # Download or load word list
     common_words = download_word_list()
