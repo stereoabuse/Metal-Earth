@@ -1,181 +1,112 @@
-import os
-import re
-from pathlib import Path
-from typing import Set, List, Dict
+import ssl
 import urllib.request
-from collections import defaultdict
+import os
+from pathlib import Path
 
-def download_word_list() -> Set[str]:
-    """Download a comprehensive English word list."""
-    word_set = set()
+def download_word_list():
+    """Download a list of common English words, with SSL verification handling."""
     
-    # List of URLs for different word lists
-    urls = [
+    # Create an SSL context that doesn't verify certificates (use with caution)
+    ssl_context = ssl._create_unverified_context()
+    
+    word_list_urls = [
         'https://raw.githubusercontent.com/dwyl/english-words/master/words.txt',
         'https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt'
     ]
     
-    for url in urls:
+    words = set()
+    
+    print("Downloading comprehensive word list...")
+    for url in word_list_urls:
         try:
             print(f"Downloading word list from {url}...")
-            response = urllib.request.urlopen(url)
-            words = response.read().decode('utf-8').splitlines()
-            word_set.update(word.strip().lower() for word in words if word.strip())
+            response = urllib.request.urlopen(url, context=ssl_context)
+            content = response.read().decode('utf-8')
+            words.update(word.strip().lower() for word in content.split())
+            print(f"Successfully downloaded words from {url}")
+            break  # Exit loop if successful
         except Exception as e:
-            print(f"Failed to download from {url}: {str(e)}")
+            print(f"Failed to download from {url}: {e}")
             continue
     
-    if not word_set:
-        try:
-            with open('english_words.txt', 'r', encoding='utf-8') as f:
-                word_set = {line.strip().lower() for line in f}
-        except FileNotFoundError:
-            print("No word list available. Please provide a word list file named 'english_words.txt'")
-            return set()
-    
-    return word_set
-
-def read_chapter_file(file_path: str) -> str:
-    """Read content from a single chapter file."""
-    with open(file_path, 'r', encoding='utf-8') as f:
-        return f.read()
-
-def get_chapter_folders() -> List[str]:
-    """Get all chapter folder paths."""
-    return [d for d in os.listdir() if d.endswith('-chapters')]
-
-def combine_chapter_texts(folder: str) -> str:
-    """Combine all chapter texts from a single book folder."""
-    folder_path = Path(folder)
-    combined_text = ""
-    
-    chapter_files = sorted(
-        [f for f in folder_path.glob("*.txt")],
-        key=lambda x: int(x.stem) if x.stem.isdigit() else float('inf')
-    )
-    
-    for chapter_file in chapter_files:
-        combined_text += read_chapter_file(chapter_file) + "\n"
-    
-    return combined_text
-
-def analyze_word_usage(text: str) -> Dict[str, Dict]:
-    """Analyze how words are used in the text."""
-    # Split text into sentences (roughly)
-    sentences = re.split('[.!?]+', text)
-    
-    word_stats = defaultdict(lambda: {'start_count': 0, 'mid_count': 0, 'total_count': 0})
-    
-    for sentence in sentences:
-        sentence = sentence.strip()
-        if not sentence:
-            continue
-            
-        # Split sentence into words
-        words = sentence.split()
-        if not words:
-            continue
-            
-        # Analyze each word in the sentence
-        for i, word in enumerate(words):
-            if re.match(r'^[A-Z][a-zA-Z]*$', word):
-                word_stats[word]['total_count'] += 1
-                if i == 0:
-                    word_stats[word]['start_count'] += 1
-                else:
-                    word_stats[word]['mid_count'] += 1
-    
-    return word_stats
-
-def is_plural(word: str) -> bool:
-    """Check if a word is likely a plural form."""
-    return (
-        word.endswith('s') and
-        not word.endswith('ss') and
-        not word.endswith('us') and
-        not word.endswith('is') and
-        not word.endswith('as') and
-        not word.endswith('ess')
-    )
-
-def get_singular_form(word: str) -> str:
-    """Get the singular form of a word."""
-    if is_plural(word):
-        return word[:-1]
-    return word
-
-def remove_plurals(words: Set[str]) -> Set[str]:
-    """Remove plural forms when singular exists."""
-    result = set()
-    plural_map = {}
-    
-    for word in words:
-        singular = get_singular_form(word)
-        if word == singular:
-            result.add(word)
+    # If no words were downloaded, try to use local file
+    if not words:
+        local_file = Path('english_words.txt')
+        if local_file.exists():
+            print("Using local word list file...")
+            with open(local_file, 'r') as f:
+                words.update(word.strip().lower() for word in f)
         else:
-            plural_map[singular] = word
+            print("No word list available. Please provide a word list file named 'english_words.txt'")
     
-    for singular, plural in plural_map.items():
-        if singular not in result:
-            result.add(plural)
-            
-    return result
+    print(f"Downloaded {len(words)} common words.")
+    return words
 
-def analyze_proper_nouns() -> Set[str]:
-    """Main function to analyze proper nouns in all books."""
-    print("Downloading comprehensive word list...")
-    common_words = download_word_list()
-    print(f"Downloaded {len(common_words)} common words.")
+def read_texts():
+    """Read all text files from the data directories."""
+    texts = []
+    data_dir = Path('data')
     
-    all_text = ""
+    # Find all chapter directories
+    chapter_dirs = [d for d in data_dir.iterdir() if d.is_dir() and d.name.endswith('-chapters')]
+    
     print("Reading all texts...")
-    for folder in get_chapter_folders():
-        print(f"Processing {folder}...")
-        all_text += combine_chapter_texts(folder)
+    for dir_path in chapter_dirs:
+        for file_path in dir_path.glob('*.txt'):
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    texts.append(f.read())
+            except Exception as e:
+                print(f"Error reading {file_path}: {e}")
     
+    return texts
+
+def extract_proper_nouns(texts, common_words):
+    """Extract proper nouns from the texts."""
     print("Analyzing word usage patterns...")
-    word_stats = analyze_word_usage(all_text)
+    
+    # Split texts into words and normalize
+    words = []
+    for text in texts:
+        words.extend(word.strip('.,!?()[]{}:;"\'') for word in text.split())
     
     print("Identifying proper nouns...")
-    proper_nouns = {
-        word for word, stats in word_stats.items()
-        if (
-            # Must appear multiple times
-            stats['total_count'] >= 2 and
-            # Must appear capitalized in middle of sentence at least once
-            stats['mid_count'] >= 1 and
-            # Must not be a common word
-            word.lower() not in common_words and
-            # Must be longer than one character
-            len(word) > 1
-        )
-    }
+    proper_nouns = set()
+    
+    for word in words:
+        # Basic proper noun rules:
+        # 1. Starts with capital letter
+        # 2. Not at start of sentence
+        # 3. Not a common word
+        if (word and word[0].isupper() and 
+            len(word) > 1 and
+            word.lower() not in common_words):
+            proper_nouns.add(word)
     
     print("Removing plurals...")
-    return remove_plurals(proper_nouns)
-
-def save_results(proper_nouns: Set[str], output_file: str = "unique_proper_nouns.txt"):
-    """Save results to a file."""
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("UNIQUE PROPER NOUNS FROM ALL TOLKIEN TEXTS\n")
-        f.write("=" * 50 + "\n\n")
-        for noun in sorted(proper_nouns):
-            f.write(f"{noun}\n")
+    # Remove obvious plurals if singular exists
+    singles = {word[:-1] for word in proper_nouns if word.endswith('s')}
+    proper_nouns = {word for word in proper_nouns if not (word.endswith('s') and word[:-1] in singles)}
+    
+    return sorted(proper_nouns)
 
 def main():
-    try:
-        proper_nouns = analyze_proper_nouns()
-        
-        # Print summary
-        print(f"\nFound {len(proper_nouns)} unique proper nouns across all texts")
-        
-        # Save results
-        save_results(proper_nouns)
-        print(f"\nResults have been saved to 'unique_proper_nouns.txt'")
-        
-    except Exception as e:
-        print(f"An error occurred: {str(e)}")
+    # Download or load word list
+    common_words = download_word_list()
+    
+    # Read all texts
+    texts = read_texts()
+    
+    # Extract proper nouns
+    proper_nouns = extract_proper_nouns(texts, common_words)
+    
+    print(f"\nFound {len(proper_nouns)} unique proper nouns across all texts")
+    
+    # Save results
+    with open('unique_proper_nouns.txt', 'w') as f:
+        f.write('\n'.join(proper_nouns))
+    
+    print("\nResults have been saved to 'unique_proper_nouns.txt'")
 
 if __name__ == "__main__":
     main()
