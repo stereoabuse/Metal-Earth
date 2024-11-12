@@ -112,14 +112,23 @@ def save_results(results: List[Dict], filename: str = "metal_band_matches.csv"):
         writer.writerow(['Search Name', 'Band Name', 'URL', 'Match Type'])
         
         for result in results:
-            for match in result.get('matches', []):
+            if result.get('matches', []):
+                # Write each match for names that have matches
+                for match in result['matches']:
+                    writer.writerow([
+                        result['name'],
+                        match['name'],
+                        match['url'],
+                        match['match_type']
+                    ])
+            else:
+                # Write a row for names without any matches
                 writer.writerow([
                     result['name'],
-                    match['name'],
-                    match['url'],
-                    match['match_type']
+                    'No match found',
+                    '',
+                    'none'
                 ])
-
 def main():
     print("Loading proper nouns...")
     nouns = load_proper_nouns()
@@ -140,10 +149,10 @@ def main():
             for match in result['matches']:
                 print(f"  - {match['name']} ({match['match_type']} match)")
         
-        time.sleep(0.5)  # Reduced sleep time
+        time.sleep(0.3)  # Reduced sleep time
         
-        # Save progress every 20 names
-        if i % 20 == 0:
+        # Save progress every 10 names instead of 20
+        if i % 10 == 0:
             print(f"\nSaving progress... ({i}/{total} names processed)")
             save_results(results)
     
