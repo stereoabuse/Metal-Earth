@@ -4,10 +4,10 @@ Find metal bands named after characters, places, and concepts from Tolkien's wor
 
 ## Overview
 
-Tolkien's works have long been an inspiration for metal bands. This tool helps you discover these connections by:
+Tolkien's works have long been an inspiration for metal bands, at least since [Cirith Ungol](https://en.wikipedia.org/wiki/Cirith_Ungol_(band)). This tool helps you discover these connections by:
 1. Extracting proper nouns from Tolkien's texts
 2. Checking each name against the Metal Archives database
-3. Generating a CSV of metal bands that share names with Tolkien's world
+3. Generating a CSV of metal bands that share names with Tolkien's legendarium
 
 ## Installation
 
@@ -74,6 +74,7 @@ The script includes a 0.5-second delay between Metal Archives requests to be res
 Contributions are welcome! Please feel free to submit a Pull Request. Some areas that could use improvement:
 
 - [ ] Add support for words from Tolkien constructed languages [Eldamo](https://eldamo.org/index.html)
+- [ ] Add support for searching `data/tolkien_gateway_pages.txt`
 - [ ] Add tests for the name extraction process
 
 ## License
