@@ -17,7 +17,7 @@ git clone https://github.com/stereoabuse/lotr-band-names.git
 cd lotr-band-names
 
 # Install required packages
-pip install requests
+pip install -r requirements.txt
 ```
 
 ## Usage
