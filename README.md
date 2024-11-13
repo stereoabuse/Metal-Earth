@@ -1,4 +1,5 @@
 # LOTR Band Names 🧙‍♂️ 🎸
+AKA metal-earth
 
 Find metal bands named after characters, places, and concepts from Tolkien's works. This project scrapes proper nouns from Tolkien texts and cross-references them with Metal Archives to discover bands inspired by Middle-earth.
 
