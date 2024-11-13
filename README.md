@@ -9,6 +9,7 @@ Tolkien's works have long been an inspiration for metal bands, at least since [C
 1. Extracting proper nouns from Tolkien's texts
 2. Checking each name against the Metal Archives database
 3. Generating a CSV of metal bands that share names with Tolkien's legendarium
+4. Optionally, checking social media name availability
 
 ## Installation
 
@@ -52,16 +53,17 @@ This will:
 ## Example Output
 
 ```csv
-Aragorn,https://www.metal-archives.com/bands/Aragorn/6318,10
-Balrog,https://www.metal-archives.com/bands/Balrog/34103,8
-Fangorn,https://www.metal-archives.com/bands/Fangorn/82431,4
+Cirith,Cirith Ungol  ,https://www.metal-archives.com/bands/Cirith_Ungol/561,exact
+Gorgoroth,Gorgoroth  ,https://www.metal-archives.com/bands/Gorgoroth/770,exact
+Isengard,Isengard  ,https://www.metal-archives.com/bands/Isengard/1027,exact
+Lumpkins,No match found,,none
 ```
 
 ## Data Sources
 
 - Tolkien text data sourced from [jblazzy/LOTR](https://github.com/jblazzy/LOTR)
 - Band information from [Metal Archives](https://www.metal-archives.com/)
-- Tolkienian terms from Tolkien Gateway (feature to be added)
+- Tolkienian terms from Tolkien Gateway (feature to be added) see `data/tolkien_gateway_pages.txt` and `data/tolkien_gateway_download_process.md`
 
 ## Rate Limiting
 
@@ -72,7 +74,8 @@ The script includes a 0.3-second delay between Metal Archives requests to be res
 Contributions are welcome! Please feel free to submit a Pull Request. Some areas that could use improvement:
 
 - [ ] Add support for words from Tolkien constructed languages [Eldamo](https://eldamo.org/index.html)
-- [ ] Add support for terms from Tolkien Gateway found at `data/tolkien_gateway_pages.txt`
+- [ ] Add support for terms from Tolkien Gateway found at `data/tolkien_gateway_pages.txt` (like Black Breath)
+- [ ] Add support for abstracting this to any corpus of textgi 
 
 ## License
 
