@@ -5,7 +5,6 @@ import csv
 import re
 import os
 import sys
-from fuzzy_search import are_similar
 
 def load_proper_nouns(filename: str = "unique_proper_nouns.txt") -> List[str]:
     """Load the proper nouns from the file, skipping header lines."""
@@ -32,12 +31,51 @@ def load_proper_nouns(filename: str = "unique_proper_nouns.txt") -> List[str]:
     except Exception as e:
         print(f"Error loading proper nouns from {filename}: {e}")
         sys.exit(1)
+
+def load_gateway_pages(filename: str = "data/tolkien_gateway_pages.txt") -> List[str]:
+    """Load the Tolkien Gateway pages from the file."""
+    try:
+        if not os.path.exists(filename):
+            print(f"Warning: {filename} not found!")
+            return []
+            
+        pages = []
+        with open(filename, 'r', encoding='utf-8') as f:
+            for line in f:
+                if line.strip():
+                    pages.append(line.strip())
+        return pages
+            
+    except Exception as e:
+        print(f"Error loading gateway pages from {filename}: {e}")
+        return []
+
+def combine_search_terms(verbose: bool = True) -> List[str]:
+    """Combine proper nouns and Gateway pages into a single deduplicated list."""
+    proper_nouns = load_proper_nouns()
+    gateway_pages = load_gateway_pages()
+    
+    if verbose:
+        print(f"Loaded {len(proper_nouns)} proper nouns")
+        print(f"Loaded {len(gateway_pages)} gateway pages")
+    
+    # Combine and deduplicate
+    combined_terms = list(set(proper_nouns + gateway_pages))
+    
+    # Sort alphabetically
+    combined_terms.sort()
+    
+    if verbose:
+        print(f"Final combined list contains {len(combined_terms)} terms")
+    
+    return combined_terms
+
+
 def check_metal_archives(name: str) -> Dict:
     """
-    Check if a band exists on Metal Archives, including fuzzy matches.
-    Returns a dictionary with search results and status.
+    Check if a band exists on Metal Archives.
+    Returns only exact matches (case insensitive).
     """
-    # First try exact match
     url = "https://www.metal-archives.com/search/ajax-band-search/"
     
     params = {
@@ -53,45 +91,27 @@ def check_metal_archives(name: str) -> Dict:
     }
     
     try:
-        # Get exact matches
         response = requests.get(url, params=params, headers=headers)
         response.raise_for_status()
         data = response.json()
-        exact_matches = data['aaData'] # 'aaData' is jquery parameter
         
-        # Try fuzzy search for similar names
-        fuzzy_matches = []
-        if data['iTotalRecords'] < 100:  # Only do fuzzy search if we don't have too many exact matches
-            # Get a broader search to check for similar names
-            fuzzy_params = params.copy()
-            # Remove any special characters and try partial match
-            fuzzy_params['query'] = re.sub(r'[^a-zA-Z]', '', name)
-            fuzzy_response = requests.get(url, params=fuzzy_params, headers=headers)
-            fuzzy_data = fuzzy_response.json()
-            
-            # Check each result for similarity
-            for band_data in fuzzy_data['aaData']:
-                band_name = re.sub(r'<[^>]+>', '', band_data[0])  # Remove HTML tags
-                if band_data not in exact_matches and are_similar(name, band_name):
-                    fuzzy_matches.append(band_data)
-        
-        # Extract URLs and combine results
-        all_matches = []
-        for band_data in (exact_matches + fuzzy_matches):
+        # Filter for exact matches only (case insensitive)
+        exact_matches = []
+        for band_data in data['aaData']:
             url_match = re.search(r'href="([^"]+)"', band_data[0])
             if url_match:
-                band_name = re.sub(r'<[^>]+>', '', band_data[0])
-                all_matches.append({
-                    'name': band_name,
-                    'url': url_match.group(1),
-                    'match_type': 'exact' if band_data in exact_matches else 'similar'
-                })
+                band_name = re.sub(r'<[^>]+>', '', band_data[0]).strip()
+                if band_name.lower().strip() == name.lower().strip():
+                    exact_matches.append({
+                        'name': band_name,
+                        'url': url_match.group(1)
+                    })
         
         return {
             'name': name,
-            'exists': bool(all_matches),
-            'total_matches': len(all_matches),
-            'matches': all_matches
+            'exists': bool(exact_matches),
+            'total_matches': len(exact_matches),
+            'matches': exact_matches
         }
     
     except Exception as e:
@@ -103,12 +123,12 @@ def check_metal_archives(name: str) -> Dict:
             'matches': [],
             'error': str(e)
         }
-
+    
 def save_results(results: List[Dict], filename: str = "metal_band_matches.csv"):
     """Save results to a CSV file."""
     with open(filename, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow(['Search Name', 'Band Name', 'URL', 'Match Type'])
+        writer.writerow(['Search Name', 'Band Name', 'URL'])
         
         for result in results:
             if result.get('matches', []):
@@ -117,27 +137,27 @@ def save_results(results: List[Dict], filename: str = "metal_band_matches.csv"):
                     writer.writerow([
                         result['name'],
                         match['name'],
-                        match['url'],
-                        match['match_type']
+                        match['url']
                     ])
             else:
                 # Write a row for names without any matches
                 writer.writerow([
                     result['name'],
                     'No match found',
-                    '',
-                    'none'
+                    ''
                 ])
+
 def main():
-    print("Loading proper nouns...")
-    nouns = load_proper_nouns()
-    print(f"Loaded {len(nouns)} names to check")
+    print("Loading and combining search terms...")
+    search_terms = combine_search_terms()
+    print(f"Loaded {len(search_terms)} names to check")
     
     results = []
-    total = len(nouns)
+    total = len(search_terms)
     
     print("\nChecking names against Metal Archives...")
-    for i, name in enumerate(nouns, 1):
+    # This will take a while
+    for i, name in enumerate(search_terms, 1):
         print(f"Checking {name} ({i}/{total})...")
         
         result = check_metal_archives(name)
@@ -146,11 +166,11 @@ def main():
         if result['exists']:
             print(f"Found {result['total_matches']} matching bands:")
             for match in result['matches']:
-                print(f"  - {match['name']} ({match['match_type']} match)")
+                print(f"  - {match['name']}")  # Removed match_type reference
         
         time.sleep(0.3)  # Reduced sleep time
         
-        # Save progress every 10 names instead of 20
+        # Save progress every 10 names
         if i % 10 == 0:
             print(f"\nSaving progress... ({i}/{total} names processed)")
             save_results(results)
@@ -158,12 +178,11 @@ def main():
     print("\nSaving final results...")
     save_results(results)
     
-    # Count exact and similar matches
-    exact_matches = sum(1 for r in results for m in r.get('matches', []) if m['match_type'] == 'exact')
-    similar_matches = sum(1 for r in results for m in r.get('matches', []) if m['match_type'] == 'similar')
+    # Count matches
+    exact_matches = sum(1 for r in results for m in r.get('matches', []))
     
     print(f"\nFinished checking {total} names")
-    print(f"Found {exact_matches} exact matches and {similar_matches} similar matches")
+    print(f"Found {exact_matches} exact matches")
     print("Results have been saved to 'metal_band_matches.csv'")
 
 if __name__ == "__main__":

@@ -10,6 +10,10 @@ flowchart TD
     C -->|Fetching| D[Collect Page Titles]
     D -->|More Pages| C
     D -->|Complete| E[Download JSON File]
+    E --> F[Lots of Manual Editing]
+    F --> |Delete|F1[Lots of Manual Editing]
+    F1 --> |Remove|F2[Lots of Manual Editing]
+    F2 --> |Purge|F
 ```
 
 ## Downloading the Data
