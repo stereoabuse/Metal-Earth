@@ -1,6 +1,6 @@
 # Tolkien Gateway Download Process
 
-The data from Tolkien Gateway are stored in `data/tolkien_gateway_pages.txt`. To replicate this data, follow the steps below:
+The data from Tolkien Gateway are stored in `data/external-sources/tolkien_gateway_pages.txt`. To replicate this data, follow the steps below:
 
 ## Workflow
 ```mermaid

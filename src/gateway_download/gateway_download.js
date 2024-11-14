@@ -1,4 +1,4 @@
-// Must enter this in the Chrome console, see `data/tolkien_gateway_download_process.md` for more details
+// Must enter this in the Chrome console, see `data/external-sources/tolkien_gateway_download_process.md` for more details
 
 // Fetch and Save all pages from Tolkien Gateway to a JSON file
 

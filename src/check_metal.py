@@ -32,7 +32,7 @@ def load_proper_nouns(filename: str = "unique_proper_nouns.txt") -> List[str]:
         print(f"Error loading proper nouns from {filename}: {e}")
         sys.exit(1)
 
-def load_gateway_pages(filename: str = "data/tolkien_gateway_pages.txt") -> List[str]:
+def load_gateway_pages(filename: str = "data/external-sources/tolkien_gateway_pages.txt") -> List[str]:
     """Load the Tolkien Gateway pages from the file."""
     try:
         if not os.path.exists(filename):

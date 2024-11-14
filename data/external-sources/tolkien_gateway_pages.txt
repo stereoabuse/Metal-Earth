@@ -7,7 +7,6 @@ Accursed Years
 Acharn
 Acocks Green
 Acta Senatus
-Activities
 Adalbert Bolger
 Adaldrida Bolger
 Adaldrida Brandybuck
@@ -26,7 +25,6 @@ Adar
 Adelard
 Adelard Took
 Aderthad
-Admins
 Adorn
 Adrahil
 Adrift
@@ -54,7 +52,6 @@ Aelin-uial
 Aelinuial
 Aeluin
 Aen
-Aenarname
 Aer
 Aerandir
 Aerendil
@@ -135,7 +132,6 @@ Akallabeth
 Ake Jonsson
 Ake Ohlmarks
 Aksa
-Ala
 Alag
 Alaire
 Alak
@@ -150,7 +146,6 @@ Alatar
 Alatariel
 Albarim
 Albarth
-Albion
 Alboin
 Alcar
 Alcarin
@@ -173,8 +168,6 @@ Alfirin
 Alfrid
 Alfrid Lickspittle
 Algund
-Alias
-Aliases
 Alistair Browning
 Alkar
 Alkarinque
@@ -211,7 +204,6 @@ Amarthiel
 Amba
 Ambalotsë
 Ambar
-Ambar-metta
 Ambarkanta
 Ambarmenie
 Ambarmetta
@@ -259,10 +251,6 @@ Amroth
 Amrothos
 Amrûn
 An Ancient Enemy
-An Unexpected Adventure
-An Unexpected Journey
-An Unexpected Party
-Anach
 Anadune
 Anaire
 Anann
@@ -282,10 +270,8 @@ Ancalagon
 Ancalima
 Ancalime
 Ancalimon
-Ancient Houses
 Ancient Mariner
 Ancrene Wissee
-And
 Anda
 Andafalassë
 Andafangar
@@ -320,7 +306,6 @@ Anfangrim
 Anfauglir
 Anfauglira
 Anfauglith
-Ang
 Angaina
 Angaino
 Angainor
@@ -341,7 +326,6 @@ Angerthas Daeron
 Angerthas Erebor
 Anghabar
 Anglachel
-Angle
 Anglor
 Angmar
 Angmar War
@@ -365,9 +349,7 @@ Angwi
 Anim
 Animalic
 Anka
-Anke Eissman
 Anke Eissmann
-Anke Eißmann
 Annael
 Annatar
 Annerchin
@@ -384,7 +366,6 @@ Annúminas-stone
 Anor
 Anor-stone
 Anorien
-Ant
 Anta
 Antaro
 Anto
@@ -460,7 +441,6 @@ Arca
 Arcastar
 Archet
 Arciryas
-Arctic
 Arctic Quenya
 Arctick
 Ard-galen
@@ -470,7 +450,6 @@ Ardaliskea
 Ardamin
 Ardamir
 Ardgalen
-Are
 Are Nuquerna
 Aredhel
 Aredhel Ar-Feiniel
@@ -479,7 +458,6 @@ Arfanyaras
 Arfanyarassë
 Arfeiniel
 Argeleb
-Argentina
 Argi
 Argimiizor
 Argimilzor
@@ -553,11 +531,9 @@ Ashy Mountains
 Asphodel
 Asphodel Brandybuck
 Asphodel Burrows
-Ass
 Asta
 Astaldo
 Astar
-Asterisk
 Astron
 Astulat
 At The Sign Of The Prancing Pony
@@ -581,7 +557,6 @@ Athrabeth
 Athrabeth Finrod Ah Andreth
 Athrad
 Athrad Angren
-Atkins
 Atta
 Atyamar
 Auden
@@ -600,11 +575,7 @@ Aurochs
 Auros
 Ausa
 Ausir
-Australia
-Austria
 Auta
-Auth
-Authorities
 Auzeldi
 Auþa
 Avakuma
@@ -616,7 +587,6 @@ Avarin
 Avarta
 Avathar
 Avlon
-Avon
 Avradî
 Avranc
 Awarth
@@ -669,11 +639,9 @@ Balrogath
 Bamfurlong
 Banakil
 Banazir
-Band
 Bandobras
 Bandobras Took
 Bane
-Banks
 Bann
 Bannoth
 Bansil
@@ -699,12 +667,10 @@ Baravorn
 Baraz
 Baraz-inbar
 Barazinbar
-Bard
 Baren
 Barendanvedh
 Barendanwedh
 Bargrisar
-Bark
 Barliman
 Barliman Butterbur
 Barrel-rider
@@ -727,7 +693,6 @@ Basso Boffin
 Battle Fury
 Battle Plain
 Bauglir
-Beacon
 Beacon Towers
 Beacon-hills
 Bealuwérig
@@ -762,7 +727,6 @@ Beleram
 Beleriand
 Beleth
 Belfalas
-Belgium
 Belladonna Baggins
 Belladonna Took
 Bellomarius
@@ -810,7 +774,6 @@ Bestiary
 Beteg
 Bethos
 Bi Bi Og Blaka
-Bibliography
 Bifur
 Big Folk
 Big People
@@ -819,11 +782,9 @@ Bilbo
 Bilbo Baggins
 Bilbo Slider Puzzle
 Bilink
-Bilink Bilink!
 Billett Potter
 Binding Them All
 Bingo Baggins
-Biographies
 Bior
 Birchwoods
 Birdtamer
@@ -857,7 +818,6 @@ Blackwood
 Bladorinand
 Bladorthin
 Bladorwen
-Blanco
 Blanco Bracegirdle
 Blessed Land
 Blessed Realm
@@ -910,11 +870,8 @@ Borosaith
 Borthand
 Bosco Boffin
 Bounder
-Bournemouth
 Bovadium
 Bovadium Fragment
-Bow
-Bowls
 Bowman Cotton
 Bracegirdle
 Braga
@@ -923,7 +880,6 @@ Bragol
 Bragollach
 Braids
 Braldagamba
-Brand
 Branda
 Branda-nin
 Brandagamba
@@ -938,7 +894,6 @@ Brann
 Brannon
 Brass Buttons
 Brassen
-Brazil
 Breeand
 Breeblood
 Breedialect
@@ -1003,10 +958,7 @@ Bucklebury
 Bucklebury Ferry
 Budgeford
 Buffo Boffin
-Builder
-Buildings
 Buldar
-Bulgaria
 Bullroarer
 Bummsdrápa
 Bumpkin
@@ -1027,7 +979,6 @@ Burzum
 Butatanamir
 Butterbur
 Butterburs
-Butterflies
 Butthingol
 Butwell
 Buzundush
@@ -1036,7 +987,6 @@ Bywater Pool
 Bywater Road
 Bívurr
 Bŷr
-Cabbage
 Cabed
 Cabed Naeramarth
 Cabed-en-Aras
@@ -1061,7 +1011,6 @@ Calben
 Calembel
 Calen
 Calenardhon
-Calendar
 Calenhad
 Calenhade
 Calenhir
@@ -1077,21 +1026,18 @@ Calmindon
 Calorme
 Calthendin
 Calum Gittins
-Cambridge
 Camil
 Camimirie
 Camlost
 Canad
 Canafinwë
 Cano
-Canon
 Canta
 Capalini
 Cape Andras
 Cape Balar
 Capes
 Captain Brackenbrook
-Captured
 Capucine Mazille
 Carach
 Carach Angren
@@ -1127,7 +1073,6 @@ Carolynne Cunningham
 Carrock
 Carthean
 Carthedan
-Cartoons
 Cartwrights
 Carvin Knowles
 Casar
@@ -1135,22 +1080,18 @@ Casari
 Casarrondo
 Castamir
 Castar
-Castles
-Catalogues
 Catholicism
 Caudimordax
 Caun
 Causeway
 Causeway Forts
 Cave-troll
-Caves
 Cedars
 Ceirdan
 Celandine Brandybuck
 Celbaros
 Celbin
 Celduin
-Celeb
 Celebdil
 Celeborn
 Celeborn White Tree
@@ -1175,7 +1116,6 @@ Celioth
 Celon
 Celondim
 Celos
-Celtic
 Cemen
 Cemendur
 Ceola
@@ -1189,13 +1129,9 @@ Certh
 Certhan
 Certhas
 Certhas Daeron
-Ces
 Cesta
-Chambers
 Chaos Studios
-Chapter
 Character Classes
-Characters
 Charma
 Chate
 Chequers Clubbe
@@ -1203,12 +1139,9 @@ Chernoe Kopjo
 Chesterton
 Chetwood
 Chica Chubb
-Chief
 Chief Shirriff
 Chieftain
 Chill Gulf
-Chin
-China
 Chithing
 Chrysophylax
 Chubb
@@ -1235,13 +1168,11 @@ Ciryandil
 Ciryatan
 Ciryatur
 Ciryon
-Cities
 City Wall
 Clamavi De Profundis
 Clarendon Chaucer
 Clayhanger
 Cleaving Blow
-Cliffs
 Closed Door
 Cloudyhead
 Clrdan
@@ -1255,14 +1186,12 @@ Cockrobin
 Codemasters
 Cof
 Cof Belfalas
-Coffee
 Cogn
 Coimas
 Coire
 Cold-drake
 Coldfells
 Collected Poems
-Collectibles
 Colm Meaney
 Colombo Arditi
 Colombo Hornblower
@@ -1271,7 +1200,6 @@ Colossal Trilogy
 Colyseo
 Colþegn
 Combe
-Comics
 Common Eldarin
 Common Elvish
 Common Quenderin
@@ -1286,9 +1214,6 @@ Consolatrix Afflictorum
 Conspirators
 Constable Thistlewool
 Constellations
-Contact
-Conventions
-Copper
 Cor Blok
 Coranar
 Corangos
@@ -1298,30 +1223,22 @@ Cormallen
 Cormare
 Cormare Series
 Cormath
-Corn
 Corollaire
 Coron
 Coron Oiolaire
 Corpse-candle
-Corsair
 Corsair Wars
 Corthirion
 Cortirion
 Cosmology
 Cotman
 Cottar
-Cotton
 Councillor Tompkins
-Councillors
-Countries
 Covad
-Coventry
-Cow
 Cram
 Cranthir
 Cranthor
 Creating Gollum
-Creatures
 Crebain
 Crickhollow
 Crissaegrim
@@ -1329,7 +1246,6 @@ Crist
 Cristhorn
 Cross-bow
 Cross-roads
-Crow
 Ctvrtvr
 Cuarthol
 Cuind
@@ -1370,7 +1286,6 @@ Daedalic Entertainment
 Daedeloth
 Daeron
 Daffodil Burrows
-Dag
 Dagmor
 Dagnir
 Dagnir Glaurunga
@@ -1407,7 +1322,6 @@ Danian
 Danuin
 Danwedh
 Darek Zabrocki
-Dark
 Dark Country
 Dark Days
 Dark Door
@@ -1443,7 +1357,6 @@ Deagol
 Dearbought
 Death Down
 Deathless
-December
 Decipher
 Decipher Card
 Deep-elves
@@ -1456,8 +1369,6 @@ Deeping-road
 Deeping-stream
 Deepingcoomb
 Deepingstream
-Deer
-Defending Middle-Earth
 Deldumth
 Delduwath
 Deldúwath
@@ -1465,10 +1376,7 @@ Delin
 Delos
 Deloth
 Delving
-Dem
-Demons
 Denethor
-Denmark
 Denweg
 Deor
 Deorwine
@@ -1483,9 +1391,7 @@ Deserts
 Dewin
 Didonas Brandybuck
 Die Walküre
-Digging Potatoes Growing Trees
 Dilly Brandyfoot
-Dim
 Dimas Caparros Gomez
 Dimassoft
 Dimbar
@@ -1497,11 +1403,8 @@ Dimrill
 Dimrill Gate
 Dimrill Stair
 Dimrost
-Din
 Dinen
-Ding
 Dinodas Brandybuck
-Dior
 Dior Eluchil
 Diors
 Dirhael
@@ -1509,11 +1412,9 @@ Dirhavel
 Dirhoel
 Dirnaith
 Dirnen
-Dis
 Disa
 Disa Törngren
 Disambiguation
-Disney
 Djagol
 Djor
 Djorwine
@@ -1525,10 +1426,8 @@ Dnhere
 Dnnen
 Do Worst
 Doble
-Doctor
 Doderic Brandybuck
 Dodinas Brandybuck
-Dog
 Dol
 Dol Amroth
 Dol Baran
@@ -1539,10 +1438,8 @@ Dolmed
 Dolmednei
 Dome Karukoski
 Donato Giancola
-Donkey
 Donnamira Took
 Doombound
-Doors
 Dor Caranthir
 Dor Daedelos
 Dor Dinen
@@ -1580,7 +1477,6 @@ Downlands
 Dr Death
 Drachenschmeide
 Dradan
-Dragon
 Dragon Flame
 Dragon Quest
 Dragon Sickness
@@ -1595,7 +1491,6 @@ Dread Helm
 Dreamdinners
 Dreamflower
 Drengist
-Driver
 Dro Soft
 Drogo
 Drogo Baggins
@@ -1608,7 +1503,6 @@ Druda Burrows
 Druedain
 Drug-folk
 Drughu
-Drugs
 Druin
 Drun
 Druwaith Iaur
@@ -1618,7 +1512,6 @@ Dryad
 Dryadse
 Duath
 Duban
-Duck
 Dudo Baggins
 Duga
 Duilin
@@ -1677,7 +1570,6 @@ Dwarven Heart
 Dwarves
 Dwarvish
 Dweller
-Dwellings
 Dwimmerlaik
 Dwimorberg
 Dwimorberg- The Haunted Mountain
@@ -1699,7 +1591,6 @@ Eadgyth
 Eadig
 Eadisse
 Eadwine
-Eagle
 Eagle-stream
 Ealar
 Ealdor
@@ -1710,7 +1601,6 @@ Eamon
 Eamur
 Eangrim
 Eanv
-Ear
 Earcaraxe
 Earendel
 Earendil
@@ -1724,7 +1614,6 @@ Earnil
 Earnur
 Earrame
 Earwen
-East
 East Bight
 East Dales
 East Elves
@@ -1886,7 +1775,6 @@ Elentirmo
 Elenve
 Elenwe
 Elenya
-Elephant
 Elerondiel
 Elerondo
 Elerossë
@@ -1895,7 +1783,6 @@ Elerína
 Elessar
 Elestirne
 Eleventy-First Birthday Party
-Elf
 Elf Alone
 Elf-fathers
 Elf-friend
@@ -2047,7 +1934,6 @@ Eneg
 Enel
 Enellië
 Enelye
-Enemy
 Enemys
 Enerdhil
 Eneth
@@ -2061,7 +1947,6 @@ Ennorandirrim
 Ennorath
 Enquië
 Enquë
-Ent
 Ent Draft
 Ent-draught
 Ent-houses
@@ -2183,13 +2068,11 @@ Eshúrizel
 Esse
 Essi
 Essi Apacenyo
-Este
 Esteldin
 Estelmo
 Estirin
 Estirios
 Estolad
-Estonia
 Ethir
 Ethir Anduin
 Ethiranduin
@@ -2211,7 +2094,6 @@ Eurocon
 Evadrien
 Evar
 Evendim
-Evening
 Evenstar
 Evercold
 Evereve
@@ -2231,13 +2113,10 @@ Evranin
 Evromord
 Ex Philologia Lux
 Exeter College Smoker
-Exhibitions
-Exile
 Exiled Noldor
 Exilic Noldorin
 Exilic Quenya
 Exodus From Edoras
-Eye
 Ezehollar
 Ezellochar
 Ezellohar
@@ -2257,9 +2136,7 @@ Faiglindra
 Failivrin
 Fair-elves
 Fairbairns
-Fairies
 Fairondi
-Faithful
 Falalalally
 Falarombar
 Falas
@@ -2282,7 +2159,6 @@ Falmari
 Falmarin
 Falmarini
 Faloth
-False
 Fana
 Fanar
 Fandom
@@ -2315,7 +2191,6 @@ Far Harade
 Far Shore
 Far-wanderer
 Faramir
-Farewell
 Farewell Dear Bilbo
 Farewell Party
 Farid Mohammadi
@@ -2340,7 +2215,6 @@ Fatty Lumpkin
 Fattys
 Faug
 Fauglith
-Fauna
 Fcl
 Fea
 Feagwaith
@@ -2355,7 +2229,6 @@ Feanturi
 Feast Of Starlight
 Feave
 Febennin
-February
 Fegolas
 Fela
 Felagon
@@ -2371,7 +2244,6 @@ Feleor
 Fell Beast
 Fell Winter
 Fellomhip
-Fellowship
 Fellozship
 Fen Hollen
 Fengel
@@ -2389,7 +2261,6 @@ Ferrandez Bru
 Ferumbras
 Ferumbras Took
 Feuya
-Fields
 Fiery Mountain
 Fifth Age
 Fightelves
@@ -2411,7 +2282,6 @@ Finarphin
 Finbor
 Finbrand
 Finbrós
-Finch
 Findarato
 Finde
 Findecáno
@@ -2428,8 +2298,6 @@ Fingolfin
 Fingon
 Fingôlemë Finwë
 Finhwít
-Finland
-Finnish
 Finred
 Finrod
 Finrod Felagund
@@ -2445,7 +2313,6 @@ Finwion
 Fiona Apple
 Fiona Jallings
 Fionwe
-Fire
 Fire-drake
 Fire-mountain
 Firebeard
@@ -2483,7 +2350,6 @@ First Voice
 First War
 First World War
 First-born
-Fish
 Fish-dragon
 Fisher Blue
 Fisiologus
@@ -2506,7 +2372,6 @@ Flelcaraxe
 Flenneth
 Flere
 Flet
-Flies
 Flinding
 Floarwell
 Flobbiton
@@ -2518,7 +2383,6 @@ Flomely
 Flornburg
 Flourdumpling
 Flouses
-Flowers
 Flrimar
 Flrimarmortals
 Flui
@@ -2547,8 +2411,6 @@ Followerse
 Fomost
 Fon
 Fonstad
-Font
-Food
 Forannest
 Forbidden Pool
 Fords
@@ -2557,8 +2419,6 @@ Foresight
 Forest Gate
 Forest River
 Forest Road
-Forests
-Foreword
 Foreyule
 Forfalas
 Forgoil
@@ -2587,7 +2447,6 @@ Forthwini
 Fortinbras Took
 Fortresses
 Fortytwo
-Forum
 Forweg
 Fos' Almir
 Fosco Baggins
@@ -2635,7 +2494,6 @@ Frodo Gamgee
 Frodo Lives
 Frodoe
 Frodolad
-Frog
 Frogmorton
 From Iffley
 Front Gate
@@ -2697,13 +2555,11 @@ Galdor
 Galenas
 Galhir
 Galion
-Gallery
 Gallows-Weed
 Galmir
 Galmod
 Galvorn
 Galweg
-Games
 Games Workshop
 Gamgee
 Gamgees
@@ -2736,7 +2592,6 @@ Gasping Dust
 Gate Stream
 Gatebreaking
 Gatestream
-Gateway
 Gathol
 Gaudeamus
 Gaudrim
@@ -2757,7 +2612,6 @@ Gelion-Ascar Stockade
 Gelmir
 Gelmiris
 Gelydh
-Genesis
 Gentle Giant
 Gentle Treatment
 Georgius
@@ -2766,7 +2620,6 @@ Gereth
 Gergely Nagy
 Gerik Schjelderup
 Germanic
-Germany
 Gerontius
 Gerontius Took
 Gethron
@@ -2775,14 +2628,11 @@ Ghan
 Ghan-buri-Ghan
 Ghash
 Ghost Warriors
-Ghosts
 Ghvn
 Ghvnburighvn
 Ghvsh
-Giant
 Giant Spiders
 Gidredhel
-Gil
 Gil-Galad
 Gilbarad
 Gildis
@@ -2866,7 +2716,6 @@ Glorfinniel
 Glorftndel
 Glorund
 Glorvent
-Gloss
 Glow-worms
 Gluin
 Glurim
@@ -2875,13 +2724,11 @@ Gmithi
 Gmithimirdain
 Gmreth
 Gmthlo
-Gnome
 Gnomic Letters
 Gnomish
 Gnomish Letters
 Gnomish Lexicon
 Go-hilleg
-Goat
 Goatleaf
 Gobele
 Goblin
@@ -2897,12 +2744,9 @@ Goblinses
 Goblintown
 Goblinwars
 Gochressiel
-God
 Goeol
 Golasgil
-Gold
 Goldberry
-Golden
 Golden Cleft
 Golden Hall
 Golden Leaves
@@ -2921,7 +2765,6 @@ Goldoi
 Goldriel
 Goldwine
 Goldórin
-Golf
 Golfimbul
 Golfimbuls
 Golfin
@@ -2954,7 +2797,6 @@ Gondothlim
 Gondothlimbar
 Gondothrim
 Gondothrimbar
-Gong
 Gonn
 Gonnhirhm
 Gonnhirrim
@@ -2966,7 +2808,6 @@ Gorbag
 Gorbelgod
 Gorbulas Brandybuck
 Gorcrow
-Gore
 Gorecrows
 Gorgol
 Gorgor
@@ -2991,13 +2832,9 @@ Gortheb
 Gorthob
 Gorthol
 Gostir
-Gothic
 Gothic Power
 Gothmog
 Gothonwi
-Grafton
-Gram
-Graves
 Graw
 Great Armament
 Great Barrow
@@ -3052,7 +2889,6 @@ Greater Gelion
 Greater Harad
 Greatgrandfather
 Greatgrandson
-Greece
 Green Brother
 Green Dragon
 Green Dragon Inn
@@ -3064,11 +2900,9 @@ Green-elves
 Greenelves
 Greenfields
 Greenholm
-Greenland
 Greenleaf
 Greenway
 Greenwaycrossing
-Greenwood
 Greisinger Museum
 Grelvish
 Grenadier Miniatures
@@ -3093,7 +2927,6 @@ Greyhame
 Greylin
 Greymantle
 Griffo Boffin
-Grim
 Grima
 Grima Wormtongue
 Grimbeorn
@@ -3102,7 +2935,6 @@ Grimslade
 Grinding Ice
 Grindwall
 Grinnah
-Grip
 Grish
 Grishnakh
 Grithnir
@@ -3110,7 +2942,6 @@ Grithur
 Grnma
 Groans
 Grof
-Groin
 Grond
 Gror
 Groth
@@ -3137,7 +2968,6 @@ Gulduin
 Guldur
 Gulfimbul
 Gulfs
-Gull
 Gulma
 Gumlin
 Gumniow
@@ -3230,7 +3060,6 @@ Haldir
 Haleth
 Halethian
 Halethrim
-Half
 Half-elven
 Half-elves
 Half-Orcs
@@ -3251,10 +3080,7 @@ Halla
 Hallacar
 Hallatan
 Hallows
-Halls
 Halmir
-Hama
-Hamas
 Hamfast
 Hamfast Gamgee
 Hamfast Gamwich
@@ -3265,7 +3091,6 @@ Hannar
 Hansi Kursch
 Hanstovánen
 Hantalë
-Har
 Harad
 Harad Road
 Haradhoth
@@ -3279,8 +3104,6 @@ Harbors
 Harbours
 Hardang
 Hardbottle
-Harding
-Hare
 Hareth
 Haretha
 Harfalas
@@ -3294,7 +3117,6 @@ Harma
 Harn
 Harnen
 Harondor
-Harper
 HarperCollins
 Harpercollins
 Harpercollinspublishers
@@ -3324,7 +3146,6 @@ Haudhenndengin
 Haudhennimaeth
 Haudhennirnaeth
 Haunted Mountain
-Hawk
 Hay Gate
 Hays-end
 Haysend
@@ -3333,12 +3154,10 @@ Hazad Longbeard
 Headstrong
 Headstrong Games
 Heathertoes
-Heaven
 Heaven Roof
 Heavy Metal
 Heavy-handed
 Heborodin
-Hebrew
 Heceldamar
 Heceldi
 Hecellubar
@@ -3365,13 +3184,11 @@ Helkaraxe
 Helke
 Hell-hawk
 Helluin
-Helm
 Helm Hammerhand
 Helmingas
 Helmir
 Helmut Pesch
 Helusion
-Hen
 Henderch
 Hending
 Hendor
@@ -3412,8 +3229,7 @@ Heruvendo
 Herwent
 Heskil
 Hevenesdei
-Hevensday
-Hey! Now! Come Hoy Now! Whither Do You Wander
+Hevensday Whither Do You Wander
 Hidden City
 Hidden Half
 Hidden King
@@ -3446,8 +3262,6 @@ Hildorien
 Hill Road
 Hill-men
 Hill-troll
-Hills
-Him
 Himlad
 Himling
 Himring
@@ -3526,7 +3340,6 @@ Homeward Bound
 Hompen
 Hopafoot
 Hordern
-Horn
 Hornblower
 Hornblowers
 Hornburg
@@ -3535,7 +3348,6 @@ Horncall
 Horncry
 Hornrock
 Horsa
-Horse
 Horse-lords
 Horsebreeders
 Horsecountry
@@ -3549,8 +3361,6 @@ Hostamir
 Hoth
 Houghton Mifflin
 Houghton Mifflin Company
-Hound
-Houses
 How We Became Middle-earth
 Hravani
 Hrin
@@ -3563,12 +3373,10 @@ Hrávandil
 Hröambari
 Hröar
 Huan
-Human
 Humarni
 Hummerhorns
 Hundad
 Hundar
-Hungary
 Hunleth
 Hunthor
 Huor
@@ -3652,7 +3460,6 @@ Ilwir
 Ilya
 Ilye
 Ilúvë
-Images
 Imb
 Imbar
 Imillië
@@ -3665,7 +3472,6 @@ Imladris
 Imloth
 Imloth Melui
 Immedi
-Immortal
 Imrahil
 Imram
 Imrath Gondraich
@@ -3682,7 +3488,6 @@ Incanus
 Incarnate
 Incomer
 inde
-India
 Indis
 Indor
 inen
@@ -3729,14 +3534,12 @@ Ioreth
 Iorhael
 Iorlas
 Ipplen
-Ireland
 Irensaga
 Irien
 Irilde
 Irime
 Irimon
 Iring
-Irish
 Irissë
 Irmo
 Irolas
@@ -3768,8 +3571,6 @@ Isildurioni
 Isilme
 Isilmo
 Isilya
-Islands
-Isles
 Ismael Cruz Córdova
 Issemindon
 Ista
@@ -3777,7 +3578,6 @@ Istar
 Istari
 Istarnie
 Isumbras
-Italy
 Itarilde
 Itarildë
 Itarille
@@ -3819,7 +3619,6 @@ Jomunds
 Jowyn
 Jrr
 Julaire Andelin
-July
 Jusst
 Jørn Benzon
 Kalab
@@ -3846,7 +3645,6 @@ Kapalindar
 Karakse
 Karhu
 Karkaras
-Karma
 Karma-kundo
 Karningul
 Karsh
@@ -3950,7 +3748,6 @@ Labadal
 Labingi
 Lach
 Lacho
-Lad
 Ladros
 Ladwen Daideloth
 Ladwen-na-Dhaideloth
@@ -3976,7 +3773,6 @@ Lake Helevorn
 Lake Mithrim
 Lake Nenuial
 Lakemen
-Lakes
 Laketown
 Lala
 Lalaith
@@ -3994,14 +3790,11 @@ Lampwrights' Street
 Lanc
 Lanca
 Landroval
-Lands
 Lands Without
 Langflood
 Langon
 Langstrand
-Languages
 Langwell
-Lanka
 Lanlhir
 Lanorac Brandybuck
 Lanta
@@ -4014,7 +3807,6 @@ Largo Baggins
 Largo Brandyfoot
 Larks
 Larnach
-Las
 Lascelles Abercrombie
 Lasgalen
 Lass
@@ -4037,7 +3829,6 @@ Lastcomers
 Later Ages
 Later Quenta Silmarillion
 Lathspell
-Latin
 Laucolassë
 Laurefindelë
 Laurefindil
@@ -4051,16 +3842,13 @@ Laurinque
 Laurundo
 Lavaralda
 Lavender Grubb
-Lawsuits
 Le(n)dembassē
-Leaf
 Leaflock
 Leave Tomorrow Till It Comes
 Leaving Rivendell
 Leben
 Lebennin
 Lebethron
-Leeds
 Lefnui
 Legolas
 Legolas Greenleaf
@@ -4112,7 +3900,6 @@ Light-elves
 Lightfoot
 Lightfoots
 Like Some Snow-white Marble Eyes
-Lilies
 Limhir
 Limlaith
 Limlich
@@ -4142,7 +3929,6 @@ Linta
 Lintie
 Lintip
 Linwë Tinto
-lion
 Lionesse
 Lire
 Lirillo
@@ -4252,7 +4038,6 @@ Lowdham
 Lrodo
 Lthien
 Luckwearer
-Lug
 Lugbrz
 Lugburz
 Lugdush
@@ -4352,7 +4137,6 @@ Mallorn
 Mallos
 Malmaurien
 Malt
-Malta
 Maltar
 Malthendring
 Malvegil
@@ -4366,7 +4150,6 @@ Manir
 Mannish
 Mans Bjorkman
 Manthor
-Manuscripts
 Manve
 Manvie
 Manwe
@@ -4377,7 +4160,6 @@ Mar Tyaliéva
 Mar Vanwa Tyaliéva
 Mar-nu-Falmar
 Marach
-March
 Marcho
 Marchwardens
 Marcin Morawski
@@ -4400,7 +4182,6 @@ Marmadoc Brandybuck
 Marnufalmar
 Marnufalmarthe
 Maron
-Marquette
 Marroc Brandybuck
 Marshes
 Marshlands
@@ -4410,7 +4191,6 @@ Marton Csokas
 Marwen
 María
 Massánië
-Master
 Master Cook
 Master Cook Rider
 Master Meriadoc Swordthain
@@ -4458,7 +4238,6 @@ Melkorohíni
 Melkorsēni
 Melkorto
 Mell
-Mellon
 Mellonath Daeron
 Mellyrn
 Melme
@@ -4516,7 +4295,6 @@ Methuen
 Mettarë
 Mew
 Mewlips
-Mexico
 Miaule
 Mickleburg
 Midden-aarde
@@ -4549,7 +4327,6 @@ Mindolluin
 Mindon
 Mindon Eldalieva
 Mindon-Gwar
-Mines
 Minhiriath
 Minib
 Miniel
@@ -4601,16 +4378,11 @@ Mlriel
 Moa
 Moerbin
 Mogru
-Mole
 Momen
 Monaen
-Monday
 Mondósar
 Monen
 Monendei
-Money
-Monuments
-Moon
 Moon-letters
 Moon-runes
 Moontower
@@ -4625,7 +4397,6 @@ Mordor
 Mordor-orcs
 Mordordark
 Mordu
-More
 Morenore
 Morgai
 Morgoth
@@ -4672,7 +4443,6 @@ Mornir
 Moro Burrows
 Morqoth
 Morrowdim
-Mortal
 Morthond
 Moru
 Morwe
@@ -4700,10 +4470,7 @@ Mountain-troll
 Mountain-trollse
 Mountainkings
 Mountainpath
-Mountains
 MountDolmed
-Mouse
-Movies
 Mugwort
 Mugworth
 Muil
@@ -4711,13 +4478,10 @@ Mumak
 Mumakil
 mund
 Mundburg
-Mundo
 Mundo Sackville-Baggins
 Mungo Baggins
 Murmenalda
 Museum Replicas
-Mushrooms
-Music
 Muzgash
 My Armour Is Iron
 My Dear Frodo
@@ -4776,7 +4540,6 @@ Nandor
 Nandorin
 Nanduhirion
 Nanno
-Nano
 Nantasarion
 Nantathren
 Nanwa
@@ -4797,7 +4560,6 @@ Narl
 Narmacil
 Narn
 Narn I Chin Hurin
-Narnia
 Narog
 Narogostrond
 Narqelion
@@ -4849,7 +4611,6 @@ Needlehole
 Needlewoman
 Neekerbreekers
 Neithan
-Nel
 Neldië
 Neldor
 Neldoreth
@@ -4894,7 +4655,6 @@ Nessanie
 Nestegi
 Neth
 Nether Darkness
-Netherlands
 Nette
 Neuro
 Nevbosh
@@ -4916,7 +4676,6 @@ Nibin
 Nibin-noeg
 Nibin-Nogrim
 Nibs Cotton
-Nice
 Nickel Creek
 Nielikki
 Nieliqi
@@ -4986,7 +4745,6 @@ Nivrost
 Nmenor
 Nmenorean
 Nmenureans
-Nn
 nnar
 Nnmpnnr
 Noa
@@ -5020,14 +4778,11 @@ Nolegs
 Nolimon
 Nolofinwë
 Nolondil
-Nom
 Noman-lands
 Nomanlands
 Nome
 Nomenclature
 Nomin
-Nominations
-Nor
 Norbourn
 Norbury
 Nore
@@ -5072,8 +4827,6 @@ Northmen
 Northrealm
 Northrons
 Northward
-Norway
-Nos
 Nos Duilin
 Nos Finrod
 Nos Fëanor
@@ -5089,7 +4842,6 @@ Noth
 Nothelm
 Notion Club
 Notion Club Papers
-November
 Novrod
 Nowe
 Nrnen
@@ -5145,7 +4897,6 @@ O Gnomo
 O Hobbit
 O Where Are You Going
 Oakenshield
-Oakley
 Oarel
 Oarni
 Oatbarton
@@ -5153,12 +4904,9 @@ Oath Bound
 Oathbreakers
 Oaths Fulfilled
 Obel Halad
-Objects
 Ocamnar
-Oceans
 Ochlad
 Octo Kwan
-October
 Odo Proudfoot
 Odog
 Odovacar Bolger
@@ -5178,7 +4926,6 @@ Ogmandab
 Ogre
 Ogrog
 Ohtar
-Oi
 Oiakuma
 Oiakumi
 Oiale
@@ -5295,7 +5042,6 @@ Orcvoices
 Ordhelm
 Ordlaf
 Ordred
-Ore
 Oreband
 Orehost
 Oreraid
@@ -5303,7 +5049,6 @@ Orfalch
 Orfalch Echor
 Orgaladh
 Orgaladhad
-Organizations
 Orgilion
 Orgof
 Orgog
@@ -5412,10 +5157,8 @@ Overbourn Marshes
 Overheaven
 Overlithe
 Ovi Redforge
-Owl
 Oxen
 Oxenaford
-Oxford
 Oxford Mail
 Oxford Poetry
 Oxonmoot
@@ -5424,7 +5167,6 @@ Oäreldi
 Oäzeldi
 Pae
 Paianya
-Pain
 Paksu
 Palacendo
 Paladin
@@ -5443,13 +5185,10 @@ Pallando
 Palta
 Palurien
 Panamerican
-Pane
 Papyrus Design Group
-Par
 Paran
 Pard
 Paris Howe Strewe
-Parish
 Parma
 Parma Eldalamberon
 Parma Endorion
@@ -5463,7 +5202,6 @@ Parth
 Partings
 Party Field
 Party Tree
-Passes
 Patakar
 Pater Noster
 Paur
@@ -5505,9 +5243,7 @@ Periain
 Perian
 Periannath
 Periannathe
-Perkins
 Perphant
-Peru
 Pervinca Took
 Peth
 Petty-dwarf
@@ -5517,7 +5253,6 @@ Pettydwarf
 Pettydwarves
 Phanaikeluth
 Phantastes
-Phantom
 Pharaz
 Pharazon
 Pheriain
@@ -5526,16 +5261,13 @@ Phinde
 Phini
 Phurunargian
 Pickthorn
-Pig
 Pikinaukor
 Pilinehtar
 Pilkir
 Pimpernel Took
 Pimple
-Pin
 Pincup
 Pind
-Pine
 Pine-mountain
 Pinn
 Pinnath
@@ -5550,18 +5282,11 @@ Pityafinwë
 Pityo
 Pixie
 Pkelmen
-Plains
-Plants
 Plata
-Plum Trees
 Pocket Studios
-Podcast
-Poem
 Poems Early Abandoned
 Poetic Edda
-Poetry
 Poika
-Poland
 Polcon
 Poldor
 Poldorea
@@ -5572,43 +5297,33 @@ Ponorir
 Ponto
 Ponto Baggins
 Ponto I Baggins
-Pools
 Poor Old Grabbler
 Poppies
 Porose
 Porto Baggins
-Portugal
 Posco Baggins
 Postern
 Postmaster
-Potato
 Pott
 Pover
-Powers
 Ppps
 Prancing Pony
 Prancing Pony Inn
 Pre-Numenoreans
-Precious
 Preciouss
-Preface
 Prestanneth
 Primary World
-Primitive
 Primitive Elvish
 Primitive Quendian
 Primo Grubb
 Primrose Boffin
 Primrose Bracegirdle
 Primula Brandybuck
-Princess
 Princess Mee
 Princess Shepherdess
 Privata Kodo Skauta
 Professor Rashbold
 Prologuee
-Promotional
-Prophet
 Protector Of The Common Folk
 Proto-Eldarin
 Proto-Elvish
@@ -5622,10 +5337,8 @@ Psamathides
 Psamathist
 Psamathos
 Psamathos Psamathides
-Publications
 Puddifoots
 Pukel-men
-Puzzle
 Pwyll
 Pygmies
 Pymble
@@ -5639,8 +5352,6 @@ Qerkaringa
 Qualme
 Quanta Sarmë
 Quar
-Quarry
-Queen
 Queen Beruthiel
 Queer Lodgings
 Quelle
@@ -5667,13 +5378,7 @@ Quettúri
 Quick Post
 Quickbeam
 Quoits
-Quotations
-Quotes
-Ra-hoom-rah!
 Raba
-Rabbit
-Races
-Racism
 Radagast
 Radbug
 Radhrim
@@ -5685,7 +5390,6 @@ Ragme
 Ragnir
 Ragnor
 Rakhas
-Rama
 Ramandor
 Ramandur
 Ramba
@@ -5698,14 +5402,11 @@ Randir
 Random House
 Ranga
 Rangar
-Ranger
 Rankin
 Ranko
-Rant
 Ranugad
 Ranuin
 Ranulph Stainer
-Ras
 Ras Mewrim
 Ras Morthil
 Rasa
@@ -5722,26 +5423,20 @@ Raurosfalls
 Raurosfoot
 Ravenhill
 Ravenne
-Ravens
 Ravines
 Razanur Tûk
 Recollection
-Recordings
 Redhorn
 Redhorn Gate
 Redhorn Pass
 Redwater
-Regent
 Reginard Took
-Region
 Reklar
 Remba
-Remembrance
 Reminiscence
 Remmirath
 Rerir
 Rethe
-Retreat
 Reunited Kingdom
 Revion
 Revised Calendar
@@ -5750,7 +5445,6 @@ Rhain
 Rhamdal
 Rhanc
 Rhandir
-Rhapsody
 Rhimdath
 Rhis
 Rhiw
@@ -5781,7 +5475,6 @@ Riga
 Ril
 Rimion
 Rimmon
-Ring
 Ring Poem
 Ring-bearer
 Ring-day
@@ -5847,7 +5540,6 @@ Roka
 Rokko
 Rokkvisa
 Roll-Roll-Roll-Roll
-Romania
 Romantropologie
 Rombaras
 Romen
@@ -5871,9 +5563,7 @@ Rothinzil
 Rotr
 Round World
 Rov
-Rover
 Roverandom
-Rowan
 Rowantrees
 Rowlie
 Rowlie Appledore
@@ -5883,7 +5573,6 @@ Rudh
 Rudibert Bolger
 Rudigar Bolger
 Ruffian
-Ruin
 Rukhs
 Ruling Queen
 Ruling Ring
@@ -5892,14 +5581,12 @@ Rumhoth
 Rumil
 Runaer
 Rune
-Rush
 Rushdown
 Rushey
 Rushock Bog
 Rushy
 Russa
 Russandol
-Russia
 Ruxopandalë
 Ruxöalë
 Ryszard Derdzinski
@@ -5912,9 +5599,6 @@ Sabar
 Sabaton
 Sackville
 Sackville-Baggins
-Sackville-Bagginses
-Sackvillebaggins
-Sackvillebagginses
 Sadoc
 Sadog
 Sador
@@ -5933,7 +5617,6 @@ Salakanto
 Salgant
 Salkinore
 Salmar
-Salve!
 Salvia Brandybuck
 Salvor
 Sama
@@ -5951,14 +5634,12 @@ Samwise Gamgee
 Samírien
 Sanda
 Sandastan
-Sandbox
 Sandheaver
 Sandyman
 Sanga
 Sangahyanda
 Sangahyando
 Sanya
-Sar
 Saradas Brandybuck
 Saradoc
 Saradoc Brandybuck
@@ -5977,7 +5658,6 @@ Sarnas Fingolfin
 Sarothron
 Saruman
 Sarumanglob
-Saturn
 Saur
 Saura
 Sauron
@@ -5985,8 +5665,6 @@ Sauruman
 Sav
 Savin
 Saya
-Scandinavian
-Scary
 Scatha
 Scattergold
 Scattergold Brandybuck
@@ -6019,7 +5697,6 @@ Sellic Spell
 Selur
 Sennas Iaur
 Senya
-September
 Serech
 Seredic Brandybuck
 Sereg
@@ -6037,13 +5714,11 @@ Seven Rings
 Seven Rivers
 Seven Stars
 Seven Stones
-Seventeen
 Seventh Age
 Seventh Gate
 Seventh Level
 Sevin
 Sfrongbowtranslation
-Shadow
 Shadow & Flame
 Shadow Folk
 Shadow Man
@@ -6067,13 +5742,10 @@ Shathur
 Shathyr
 Sheaf
 Sheave
-Sheep
 Sheep-lord
 Shelob
 Shibboleth
 Ship-king
-Ships
-Shire
 Shire-calendar
 Shire-folk
 Shire-hobbit
@@ -6104,7 +5776,6 @@ Shirriff-house
 Shirriffhouse
 Shirriffing
 Shirriffleader
-Shores
 Shé
 Sickly
 Sidedoor
@@ -6113,7 +5784,6 @@ Sigil Elu-naeth
 Sigin
 Sigin-tarâg
 Sigismond Took
-Signature
 Silent Hill
 Silent Street
 Silent Watchers
@@ -6139,7 +5809,6 @@ Silverlode
 Silverti
 Silvertine
 Simbelmyne
-Sin
 Sinda
 Sindacollo
 Sindanorie
@@ -6158,7 +5827,6 @@ Sir Angren
 Sir Ninglor
 Sir Orfeo
 Sirannon
-Sire
 Siril
 Sirion
 Siriondil
@@ -6173,7 +5841,6 @@ Skorgrím Dourhand
 Slag
 Slag-hills
 Slamsoft
-Sleeper
 Slinker
 Smakkabagms
 Smallburrow
@@ -6184,25 +5851,21 @@ Smeagol
 Smial
 Smials
 Smjagol
-Smoking
 Smrd
 Snad
 Snaga
 Snaggleroot
 Snails
-Snake
 Snorri
 Snow Man
 Snow-elves
 Snow-men
 Snow-troll
-Snow-white! Snow-white! O Lady Clear!
 Snowbourn
 Snowmane
 Snowthorn
 Snowwhite
 Snufflers
-Soa
 Solisimpi
 Solmath
 Soloneldi
@@ -6223,7 +5886,6 @@ Soronto
 Sorontur
 Soronume
 Soundestiny
-Soundtrack
 Soury
 South Africa
 South Away
@@ -6235,7 +5897,6 @@ South Undeep
 South-kingdom
 South-victor
 Southend
-Southern
 Southern Army
 Southern Fiefse
 Southern Mirkwood
@@ -6253,25 +5914,17 @@ Spalasta
 Spanga
 Spania
 Spark-dragon
-Sparrow
 Sparrowsong
-Species
 Specter
 Spectre
-Spell
-Spider
-Spirit
 Splintered Light
 Sprightly Running
 Springle-ring
 Springlering
-Springs
 Springshe
 Sprite
 Spyhill
-Squares
 Squint-eyed Southerner
-Squirrel
 Srune
 Ssss
 Staddle
@@ -6287,13 +5940,11 @@ Starkhorn
 Starlings
 Starmoon
 Starwards
-Statues
 Steelsheen
 Sterday
 Sterrendei
 Stiffbeard
 Stinker
-Stirring
 Stock Road
 Stock-brook
 Stockbrook
@@ -6342,7 +5993,6 @@ Summerdays
 Summerfilth
 Summoning
 Sunda
-Sunday
 Sundering Seas
 Sundo
 Sundocarme
@@ -6353,26 +6003,22 @@ Sunless Year
 Sunll
 Sunnendei
 Suovetaurilius
-Sure
 Suri-kyla
 Surion
 Suriquesse
 Surreal Software
 Suruli
 Svarthy
-Swallow
 Swamps
 Swan-ship
 Swanfleet
 Swanhaven
 Swanship
 Swarthy Men
-Sweden
 Sweet Galenas
 Swertings
 Swish-tail
 Swishtail
-Switzerland
 Swords & Sorcery
 Swordthatwasbroken
 Sylfs
@@ -6394,8 +6040,6 @@ Taimavar
 Taimo
 Taimondo
 Taimordo
-Taiwan
-Tal
 Tal-Elmar
 Talagan Silvertongue
 Talagand
@@ -6416,7 +6060,6 @@ Taniquetil
 Tansoft
 Tanta Hornblower
 Tanyasalpe
-Tar
 Tar Kalimos
 Tar-Alcarin
 Tar-Aldarion
@@ -6484,7 +6127,6 @@ Tarnost
 Tarnufuin
 Tarondor
 Tarostar
-Tarot
 Tarpal
 Tarpalantir
 Taruitharn
@@ -6495,7 +6137,6 @@ Tarumbar
 Tarâg
 Tasarinan
 Tassa
-Tata
 Tater
 Tathar
 Tathren
@@ -6598,14 +6239,12 @@ Terendul
 Tethil
 Tetille
 Tevildo
-Tf
 Tha Eadigan Saelidane
 Thains
 Thainship
 Thalchyl
 Thalion
 Thalos
-Than
 Thanc
 Thang
 Thangail
@@ -6922,7 +6561,6 @@ Theoden
 Theodred
 Theodwyn
 There And Back Again
-Thief
 Thilim
 Thinbone
 Thingol
@@ -6995,19 +6633,14 @@ Théoden King
 Théoden Rides Forth
 Thôl
 Tiberth
-Tie
-Tier
 Tifil
 Tighfield
 Tilion
 Tilkal
 Timbrenting
-Time
 Time Stands Still
 Timeless Halls
-Timeline
 Timpinen
-Tin
 Tinbone
 Tinco
 Tincotema
@@ -7037,15 +6670,12 @@ Tirios Otsoyáma
 Tirith
 Tirith Aear
 Tirmindon
-Titan
-Titanium
 Tiw
 Tlnuviel
 Tlrion
 Tmuviel
 Tnuviel
 To Early Morning Tea
-Tobago
 Tobold
 Tobold Hornblower
 Tode
@@ -7063,9 +6693,7 @@ Tolin
 Tolingaurhoth
 TolkCast
 Tolkein
-Tolkien
 Tolklang
-Toll
 Toll-ereb
 Tollers
 Tolli Kimpelear
@@ -7076,13 +6704,10 @@ Tolodya
 Toloth
 Tolpe
 Tolto
-Tomatoes
 Tombes
 Tombo
 Tomling
 Tompolle
-Tongue
-Took
 Tookbank
 Tookclan
 Tookish
@@ -7104,8 +6729,6 @@ Tower Guard
 Tower Hall
 Tower Hills
 Towergate
-Towers
-Towns
 Toy Biz
 Tragu
 Trahald
@@ -7113,7 +6736,6 @@ Tralalalally
 Tram Nybol
 Trann
 Transorangia
-Travelers
 Treasurehunter
 Tredwill
 Tree-men
@@ -7122,13 +6744,10 @@ Treebeards
 Treegarth
 Treelit
 Treemen
-Trees
 Treowine
 Trestlebridge
 Trewesdei
 Trewsday
-Trinidad
-Troll
 Troll-fells
 Troll-Men
 Trolllike
@@ -7167,7 +6786,6 @@ Tumladen
 Tumladin
 Tumunzahar
 Tumunzaharsee
-Tuna
 Tunnelly
 Tuor
 Tuor Eladar
@@ -7176,11 +6794,9 @@ Tuord
 Tur Haretha
 Turamarth
 Turambar
-Turbine
 Turcafinwe
 Turenbor
 Turgon
-Turin
 Turin Turambar
 Turin Wrapper
 Turindo
@@ -7201,7 +6817,6 @@ Turuphanto
 Tuvo
 Tve
 Tvistur
-Tvrins
 Tvu
 Tvulight
 Twd
@@ -7211,14 +6826,12 @@ Twentyfirst
 Twentysecond
 Twentysixth
 Twentythird
-Twilight
 Twilight Age
 Twilight Isles
 Twilight Meres
 Twilit Isles
 Twilit Meres
 Twinbrother
-Twins
 Two Captains
 Two Kindreds
 Two Kingdoms
@@ -7326,10 +6939,8 @@ Unlight
 Unnarr
 Unnumbered Tears
 Unotima
-Unpublished
 Unque
 Unquendor
-Unseen
 Unwin
 Unwin Paperbacks
 Uole
@@ -7408,16 +7019,13 @@ Valie
 Valier
 Valimar
 Valinor
-Valinore
 Valinorean
 Valinorean Quenya
 Valinoreva
 Valkotukka
-Valleys
 Valmar
 Valtur
 Valwe
-Vampire
 Vana
 VanderStelt Studio
 Vaniai
@@ -7454,7 +7062,6 @@ Venturers
 Verain
 Veran
 Verlyn Flieger
-Verse
 Verse Modes
 Verus
 Very Old Friends
@@ -7465,7 +7072,6 @@ Viggo Mortensen
 Vigo Boffin
 Vikin
 Viking Club
-Villages
 Vilna
 Vilvarin
 Vilverin
@@ -7484,13 +7090,11 @@ Vinyar Tengwar
 Vinyarion
 Viresse
 Virgin Games
-Vista
 Visur Islendinga
 Vivendi
 Vivendi Games
 Vivendi Universal
 Vix
-Void
 Vola
 Voluspa
 Volwe
@@ -7516,7 +7120,6 @@ Walda
 Waldreg
 Walking Tree
 Walking Tree Publishers
-Walls
 Wandering Companies
 Wandering Days
 Wandlimb
@@ -7525,12 +7128,7 @@ Warg
 Warg Matriarch
 Warg-language
 Warg-Scouts
-Wars
-Warwick
-Warwickshire
 Warwíc
-Waste
-Watch
 Watch-stones
 Watcher
 Watchful Peace
@@ -7542,16 +7140,13 @@ Watol
 Waybread
 Waymeet
 Waymoot
-Weapons
 Weather Hills
 Weathertop
 Weathertope
-Websites
 Wedmath
 Weedbrook
 Weland
 Wellinghall
-Wellington
 Wellpreserved
 Welund
 Wendelin
@@ -7579,15 +7174,11 @@ Westmansweed
 Westmarch
 Westron
 Westron Tengwar
-Westwood
 Weta
 Weta Digital
 Weta Workshop
 Wethrin
-Wetlands
 Wetwang
-Whale
-Wheat
 Wheew
 Whinn
 White Company
@@ -7615,7 +7206,6 @@ Whitwell
 Wi Kuki Kaa
 Widfara
 Widow Rumble
-Wight
 Wil Cotton
 Wilcome
 Wilcome Cotton
@@ -7639,7 +7229,6 @@ Windfola
 Winding Stair
 Windle-reach
 Windlord
-Wing
 Winga
 Winged Creatures
 Winged Dragons
@@ -7665,7 +7254,6 @@ Witchlord
 Withernon
 Withy-weir
 Withywindle
-Wizard
 Wizardry
 Wlien
 Wliite
@@ -7675,7 +7263,6 @@ Wold
 Wolfriders
 Wolvercote
 Wolvercote Cemetery
-Wolves
 Woodelf
 Woodelves
 Woodhall
@@ -7683,29 +7270,23 @@ Woodland Realm
 Woodmen
 Woodpecker
 Woodridings
-Woods
 Woodyend
 Wootton
 Wootton Minor
 Word-extraction
 Workhouse Infirmary
-World
 World-ship
 Wormtongue
 Wormwardens
 Wose
-Woses
 Wraith
 Wraith-world
 Wraithking
 Wraithlord
-Writers
-Writings
 Wulf
 Wwwtetlnasmithcom
 Wyrmvater Glaurung
 Wætlingas
-Wínsele Wéste Windge Reste Réte Berofene
 Wētā
 Wǣfre
 Xander Forterie
@@ -7726,12 +7307,10 @@ Yavien
 Yaviere
 Yazneg
 Ye Chequers Clubbe Binge
-Year
 Yellow Face
 Yellow Mountains
 Yellowhaired
 Yellowskin
-Yen
 Yeni
 Yess
 Yestare
@@ -7762,7 +7341,6 @@ Za Frumi
 Zahar
 Zamin
 Zaragamba
-Zebra
 Zigil
 Zigil-nâd
 Zigûr
@@ -7780,7 +7358,6 @@ Zîr
 Åke Bertenstam
 Ælfheah
 Ælfwine
-Éadig Béo Þu!
 Éalá Éarendel Engla Beorhtast
 Ëala
 Íwerin
@@ -7797,7 +7374,6 @@ Zîr
 Ûrî
 Ýneg
 Þangahyando
-Þauron
 Þerindë
 Þindicollo
 Þorontar
