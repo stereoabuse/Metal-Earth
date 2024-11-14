@@ -7,9 +7,11 @@ Find metal bands named after characters, places, and concepts from Tolkien's wor
 
 Tolkien's works have long been an inspiration for metal bands, at least since [Cirith Ungol](https://en.wikipedia.org/wiki/Cirith_Ungol_(band)). This tool helps you discover these connections (and find underused band names) by:
 1. Extracting proper nouns from Tolkien's texts
-2. Checking each name against the Metal Archives database
-3. Generating a CSV of metal bands that share names with Tolkien's legendarium
-4. Optionally, checking social media name availability
+2. Finding the Tolkien Gateway page for each name as potential search terms
+3. Manually curating a list of search terms
+4. Checking each term against the Metal Archives database
+5. Generating a CSV of metal bands that share names with Tolkien's legendarium
+6. Optionally, checking social media name availability
 
 Skip to the results: [metal_band_matches.csv](metal_band_matches.csv)
 
@@ -66,7 +68,7 @@ Lumpkins,No match found,
 
 - Tolkien text data sourced from [jblazzy/LOTR](https://github.com/jblazzy/LOTR)
 - Band information from [Metal Archives](https://www.metal-archives.com/)
-- Page titles from Tolkien Gateway see  [`data/tolkien_gateway_download_process.md`](data/tolkien_gateway_download_process.md) and [`data/tolkien_gateway_pages.txt`](data/tolkien_gateway_pages.txt)
+- Page titles from Tolkien Gateway see  [`data/tolkien_gateway_download_process.md`](data/tolkien_gateway_download_process.md) and [`data/external-sources/tolkien_gateway_pages.txt`](data/external-sources/tolkien_gateway_pages.txt)
 
 ## Rate Limiting
 
