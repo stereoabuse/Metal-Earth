@@ -13,7 +13,7 @@ Tolkien's works have long been an inspiration for metal bands, at least since [C
 5. Generating a CSV of metal bands that share names with Tolkien's legendarium
 6. Optionally, checking social media name availability
 
-Skip to the results: [metal_band_matches.csv](metal_band_matches.csv)
+Skip to the results: [reports/metal_band_matches.csv](reports/metal_band_matches.csv)
 
 ## Installation
 
@@ -40,7 +40,7 @@ This will:
 - Process all chapter files in the *-chapters directories
 - Extract capitalized proper nouns
 - Filter out common English words
-- Save results to `unique_proper_nouns.txt`
+- Save results to `reports/unique_proper_nouns.txt`
 
 ### 2. Check Metal Archives
 
@@ -49,9 +49,9 @@ python src/metal_archives_checker.py
 ```
 
 This will:
-- Read the proper nouns from `unique_proper_nouns.txt`
+- Read the proper nouns from `reports/unique_proper_nouns.txt`
 - Check each name against Metal Archives
-- Save matches to `metal_band_matches.csv`
+- Save matches to `reports/metal_band_matches.csv`
 - Take about an hour to run with the default settings (~8000 requests)
 
 
@@ -68,7 +68,7 @@ Lumpkins,No match found,
 
 - Tolkien text data sourced from [jblazzy/LOTR](https://github.com/jblazzy/LOTR)
 - Band information from [Metal Archives](https://www.metal-archives.com/)
-- Page titles from Tolkien Gateway see  [`data/tolkien_gateway_download_process.md`](data/tolkien_gateway_download_process.md) and [`data/external-sources/tolkien_gateway_pages.txt`](data/external-sources/tolkien_gateway_pages.txt)
+- Page titles from Tolkien Gateway see  [`docs/tolkien_gateway_download_process.md`](docs/tolkien_gateway_download_process.md) and [`data/external-sources/tolkien_gateway_pages.txt`](data/external-sources/tolkien_gateway_pages.txt)
 
 ## Rate Limiting
 
@@ -79,6 +79,7 @@ The script includes a 0.3-second delay between Metal Archives requests to be res
 Contributions are welcome! Please feel free to submit a Pull Request. Some areas that could use improvement:
 
 - [ ] Add support for words from Tolkien constructed languages [Eldamo](https://eldamo.org/index.html)
+    * These have been downloaded and added to `data/external-sources/Eldamo_dictionary.txt` but need to be curated and fed through metal_archives_checker.py
 - [ ] Add support for abstracting this to any corpus of text
 
 ## License
@@ -87,10 +88,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Text data from [jblazzy/LOTR](https://github.com/jblazzy/LOTR)
-- [Metal Archives](https://www.metal-archives.com/) for their comprehensive database
-- Contributors to [Tolkien Gateway](https://tolkiengateway.net/)
+- **Text Data**: Text data for Tolkien's works provided by [jblazzy/LOTR](https://github.com/jblazzy/LOTR).
+- **Band Information**: Band data sourced from [Encyclopaedia Metallum: The Metal Archives](https://www.metal-archives.com/), © 2002-2024, Encyclopaedia Metallum. This database serves as a comprehensive resource on metal bands, albums, and related information.
+- **Tolkien Gateway**: Contributors to [Tolkien Gateway](https://tolkiengateway.net/) for additional Tolkien-related resources.
+- **Elvish Language and Constructed Language Data**: This project utilizes data from Paul Strack’s Elvish language lexicon, available at [Eldamo](https://eldamo.org), © 2008 - 2024. This data is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), which allows for copying, distribution, and adaptation with proper attribution. We are grateful for Paul Strack’s work on a comprehensive Tolkien lexicon.
 - All the metal bands keeping the legend of Middle-earth alive 🤘
+
+### Special Attribution to J.R.R. Tolkien
+
+This project is inspired by the works of **J.R.R. Tolkien**, including *The Hobbit*, *The Lord of the Rings*, and *The Silmarillion*. These texts are the original creations of Tolkien and remain protected under copyright.
+
 
 ---
 

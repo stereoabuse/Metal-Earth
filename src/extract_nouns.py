@@ -119,9 +119,9 @@ def main():
     sorted_nouns = sorted(proper_nouns)
     
     # Save results
-    with open('unique_proper_nouns.txt', 'w') as f:
+    with open('reports/unique_proper_nouns.txt', 'w') as f:
         f.write('\n'.join(sorted_nouns))
     
-    print("\nResults have been saved to 'unique_proper_nouns.txt'")
+    print("\nResults have been saved to 'reports/unique_proper_nouns.txt'")
 if __name__ == "__main__":
     main()

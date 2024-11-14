@@ -6,7 +6,7 @@ import re
 import os
 import sys
 
-def load_proper_nouns(filename: str = "unique_proper_nouns.txt") -> List[str]:
+def load_proper_nouns(filename: str = "reports/unique_proper_nouns.txt") -> List[str]:
     """Load the proper nouns from the file, skipping header lines."""
     try:
         if not os.path.exists(filename):
@@ -71,12 +71,50 @@ def combine_search_terms(verbose: bool = True) -> List[str]:
     return combined_terms
 
 
+def get_band_details(url: str, headers: dict) -> dict:
+    """Get detailed information about a band from their Metal Archives page."""
+    try:
+        time.sleep(.1)  # Respect rate limiting
+        
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        html = response.text
+        
+        details = {}
+        
+        # Patterns that match Metal Archives' HTML structure
+        patterns = {
+            'genre': r'<dt>Genre:</dt>\s*<dd>(.*?)</dd>',
+            'themes': r'<dt>Themes:</dt>\s*<dd>(.*?)</dd>',
+            'country': r'<dt>Country of origin:</dt>\s*<dd>.*?>(.*?)</a>',
+            'location': r'<dt>Location:</dt>\s*<dd>(.*?)</dd>',
+            'status': r'<dt>Status:</dt>\s*<dd>(.*?)</dd>',
+            'formed': r'<dt>Formed in:</dt>\s*<dd>(.*?)</dd>'
+        }
+        
+        for key, pattern in patterns.items():
+            match = re.search(pattern, html, re.DOTALL | re.IGNORECASE)
+            if match:
+                value = match.group(1)
+                value = re.sub(r'<[^>]+>', '', value)  # Remove any nested HTML
+                value = re.sub(r'\s+', ' ', value)     # Normalize whitespace
+                value = value.strip()
+                details[key] = value if value else 'N/A'
+            else:
+                details[key] = 'N/A'
+                
+        return details
+        
+    except requests.exceptions.RequestException as e:
+        print(f"Network error getting band details from {url}: {str(e)}")
+        return {k: 'Error' for k in ['genre', 'themes', 'country', 'location', 'status', 'formed']}
+    except Exception as e:
+        print(f"Error parsing band details from {url}: {str(e)}")
+        return {k: 'Error' for k in ['genre', 'themes', 'country', 'location', 'status', 'formed']}
+
 def check_metal_archives(name: str) -> Dict:
-    """
-    Check if a band exists on Metal Archives.
-    Returns only exact matches (case insensitive).
-    """
-    url = "https://www.metal-archives.com/search/ajax-band-search/"
+    """Check if a band exists on Metal Archives."""
+    base_url = "https://www.metal-archives.com/search/ajax-band-search/"
     
     params = {
         'field': 'name',
@@ -87,24 +125,32 @@ def check_metal_archives(name: str) -> Dict:
     }
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.5',
+        'X-Requested-With': 'XMLHttpRequest'
     }
     
     try:
-        response = requests.get(url, params=params, headers=headers)
+        time.sleep(.1)  # Respect rate limiting
+        
+        response = requests.get(base_url, params=params, headers=headers)
         response.raise_for_status()
         data = response.json()
         
-        # Filter for exact matches only (case insensitive)
         exact_matches = []
         for band_data in data['aaData']:
             url_match = re.search(r'href="([^"]+)"', band_data[0])
             if url_match:
                 band_name = re.sub(r'<[^>]+>', '', band_data[0]).strip()
                 if band_name.lower().strip() == name.lower().strip():
+                    band_url = url_match.group(1)
+                    print(f"Getting details for {band_name} from {band_url}")
+                    details = get_band_details(band_url, headers)
                     exact_matches.append({
                         'name': band_name,
-                        'url': url_match.group(1)
+                        'url': band_url,
+                        **details
                     })
         
         return {
@@ -114,6 +160,15 @@ def check_metal_archives(name: str) -> Dict:
             'matches': exact_matches
         }
     
+    except requests.exceptions.RequestException as e:
+        print(f"Network error checking {name}: {str(e)}")
+        return {
+            'name': name,
+            'exists': False,
+            'total_matches': 0,
+            'matches': [],
+            'error': f"Network error: {str(e)}"
+        }
     except Exception as e:
         print(f"Error checking {name}: {str(e)}")
         return {
@@ -123,30 +178,49 @@ def check_metal_archives(name: str) -> Dict:
             'matches': [],
             'error': str(e)
         }
-    
-def save_results(results: List[Dict], filename: str = "metal_band_matches.csv"):
+
+def save_results(results: List[Dict], filename: str = "reports/metal_band_matches.csv"):
     """Save results to a CSV file."""
     with open(filename, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow(['Search Name', 'Band Name', 'URL'])
+        writer.writerow([
+            'Search Name',
+            'Band Name',
+            'URL',
+            'Genre',
+            'Themes',
+            'Country',
+            'Location',
+            'Status',
+            'Formed'
+        ])
         
         for result in results:
             if result.get('matches', []):
-                # Write each match for names that have matches
                 for match in result['matches']:
                     writer.writerow([
                         result['name'],
                         match['name'],
-                        match['url']
+                        match['url'],
+                        match.get('genre', 'N/A'),
+                        match.get('themes', 'N/A'),
+                        match.get('country', 'N/A'),
+                        match.get('location', 'N/A'),
+                        match.get('status', 'N/A'),
+                        match.get('formed', 'N/A')
                     ])
             else:
-                # Write a row for names without any matches
                 writer.writerow([
                     result['name'],
                     'No match found',
+                    '',
+                    '',
+                    '',
+                    '',
+                    '',
+                    '',
                     ''
                 ])
-
 def main():
     print("Loading and combining search terms...")
     search_terms = combine_search_terms()
@@ -168,7 +242,7 @@ def main():
             for match in result['matches']:
                 print(f"  - {match['name']}")  # Removed match_type reference
         
-        time.sleep(0.3)  # Reduced sleep time
+        time.sleep(0.1)  # Reduced sleep time
         
         # Save progress every 10 names
         if i % 10 == 0:
@@ -183,7 +257,7 @@ def main():
     
     print(f"\nFinished checking {total} names")
     print(f"Found {exact_matches} exact matches")
-    print("Results have been saved to 'metal_band_matches.csv'")
+    print("Results have been saved to 'reports/metal_band_matches.csv'")
 
 if __name__ == "__main__":
     main()
