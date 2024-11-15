@@ -74,7 +74,7 @@ def combine_search_terms(verbose: bool = True) -> List[str]:
 def get_band_details(url: str, headers: dict) -> dict:
     """Get detailed information about a band from their Metal Archives page."""
     try:
-        time.sleep(.1)  # Respect rate limiting
+        time.sleep(.5)  # Respect rate limiting
         
         response = requests.get(url, headers=headers)
         response.raise_for_status()
@@ -132,7 +132,7 @@ def check_metal_archives(name: str) -> Dict:
     }
     
     try:
-        time.sleep(.1)  # Respect rate limiting
+        time.sleep(.5)  # Respect rate limiting
         
         response = requests.get(base_url, params=params, headers=headers)
         response.raise_for_status()
@@ -242,7 +242,7 @@ def main():
             for match in result['matches']:
                 print(f"  - {match['name']}")  # Removed match_type reference
         
-        time.sleep(0.1)  # Reduced sleep time
+        time.sleep(.5) 
         
         # Save progress every 10 names
         if i % 10 == 0:
