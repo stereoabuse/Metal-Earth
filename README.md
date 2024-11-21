@@ -81,6 +81,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. Some areas
 - [ ] Add support for words from Tolkien constructed languages [Eldamo](https://eldamo.org/index.html)
     * These have been downloaded and added to `data/external-sources/Eldamo_dictionary.txt` but need to be curated and fed through metal_archives_checker.py
 - [ ] Add support for abstracting this to any corpus of text
+- [ ] Check pages from [The One Wiki](https://lotr.fandom.com/), currently in `data/external-sources/ORTRT_wiki.txt`
 
 ## License
 
