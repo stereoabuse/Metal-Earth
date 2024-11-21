@@ -1,0 +1,85 @@
+<!-- src/web/templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tolkien Metal Database</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="hero">
+        <div class="hero-content">
+            <h1>Tolkien Metal Database</h1>
+            <p class="subtitle">Exploring {{ total_bands }} bands inspired by Middle-earth</p>
+        </div>
+    </div>
+
+    <main class="container">
+        <div class="search-section">
+            <div class="search-container">
+                <input type="text" 
+                       id="search" 
+                       placeholder="Search bands (e.g., 'Morgoth', 'Gorgoroth')..."
+                       aria-label="Search bands">
+                <div id="search-results" class="search-results"></div>
+            </div>
+        </div>
+
+        <div id="band-display"></div>
+
+        <div class="random-band-section">
+            <h2>Featured Band</h2>
+            <div class="band-card">
+                <div class="band-header">
+                    <h3>{{ random_band['Band Name'] }}</h3>
+                    <span class="origin-name">{{ random_band['Search Name'] }}</span>
+                </div>
+                
+                <div class="band-details">
+                    <div class="detail-group">
+                        <span class="label">Genre</span>
+                        <span class="value">{{ random_band['Genre'] or 'Unknown' }}</span>
+                    </div>
+                    
+                    {% if random_band['Themes'] and random_band['Themes'] != 'N/A' %}
+                    <div class="detail-group">
+                        <span class="label">Themes</span>
+                        <span class="value">{{ random_band['Themes'] }}</span>
+                    </div>
+                    {% endif %}
+                    
+                    <div class="detail-group">
+                        <span class="label">Country</span>
+                        <span class="value">{{ random_band['Country'] or 'Unknown' }}</span>
+                    </div>
+                    
+                    <div class="detail-group">
+                        <span class="label">Formed</span>
+                        <span class="value">{{ random_band['Formed'] or 'Unknown' }}</span>
+                    </div>
+                </div>
+                
+                <a href="{{ random_band['URL'] }}" 
+                   target="_blank" 
+                   class="ma-link"
+                   rel="noopener noreferrer">
+                    View on Metal Archives
+                </a>
+            </div>
+            <button onclick="location.reload()" class="refresh-btn">
+                Discover Another Band
+            </button>
+        </div>
+    </main>
+
+    <footer>
+        <p>Data sourced from Metal Archives • Inspired by Tolkien's Legendarium</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
