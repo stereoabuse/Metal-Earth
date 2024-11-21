@@ -74,6 +74,53 @@ Lumpkins,No match found,
 
 The script includes a 0.3-second delay between Metal Archives requests to be respectful of their servers. Please do not modify this to make requests more frequent.
 
+## Web Interface
+
+The project now includes a web interface for browsing the band database:
+
+### Running the Web Server
+
+```bash
+# From the project root directory
+python run_web.py
+```
+
+Then open your browser to `http://localhost:5000`
+
+### Features
+- Search through all discovered Tolkien-inspired metal bands
+- View detailed band information including:
+  - Original Tolkien name
+  - Band genre and themes
+  - Country of origin
+  - Formation year
+  - Direct links to Metal Archives entries
+- Random band discovery feature
+- Responsive design for mobile and desktop
+
+### Directory Structure
+```
+project_root/
+├── src/
+│   ├── web/                    # Web interface files
+│   │   ├── app.py             # Flask application
+│   │   ├── templates/         # HTML templates
+│   │   │   └── index.html
+│   │   └── static/           # CSS and JavaScript
+│   │       ├── style.css
+│   │       └── script.js
+│   ├── band_name_tool.py      # Existing script
+│   └── check_metal.py         # Existing script
+└── run_web.py                 # Web server launcher
+```
+
+### Requirements
+The web interface requires additional Python packages:
+```bash
+pip install flask pandas
+```
+These have been added to `requirements.txt`
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. Some areas that could use improvement:
