@@ -82,6 +82,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. Some areas
     * These have been downloaded and added to `data/external-sources/Eldamo_dictionary.txt` but need to be curated and fed through metal_archives_checker.py
 - [ ] Add support for abstracting this to any corpus of text
 - [ ] Check pages from [The One Wiki](https://lotr.fandom.com/), currently in `data/external-sources/ORTRT_wiki.txt`
+- [ ] This is currently limited to metal genre bands.  It could be extended to check `www.{bandname}.bandcamp.com` as well, which would capture fewer historical bands but broader range of genres
 
 ## License
 

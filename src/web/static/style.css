@@ -1,0 +1,223 @@
+/* src/web/static/style.css */
+:root {
+    --primary-color: #2a2a2a;
+    --secondary-color: #1a1a1a;
+    --accent-color: #c41e3a;
+    --text-color: #ffffff;
+    --text-secondary: #b0b0b0;
+    --border-color: #333333;
+    --card-bg: #2d2d2d;
+    --hover-color: #3a3a3a;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    background: var(--secondary-color);
+    color: var(--text-color);
+}
+
+.hero {
+    background: linear-gradient(135deg, 
+        var(--secondary-color) 0%,
+        var(--accent-color) 100%);
+    position: relative;
+    overflow: hidden;
+    padding: 6rem 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Add this cool overlay effect */
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: repeating-linear-gradient(
+        45deg,
+        rgba(0, 0, 0, 0.1),
+        rgba(0, 0, 0, 0.1) 2px,
+        transparent 2px,
+        transparent 8px
+    );
+    pointer-events: none;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+}
+
+.subtitle {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.search-section {
+    margin: 2rem 0;
+}
+
+.search-container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#search {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    background: var(--primary-color);
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+#search:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 2px rgba(196, 30, 58, 0.2);
+}
+
+.search-results {
+    position: absolute;
+    width: 100%;
+    max-height: 400px;
+    overflow-y: auto;
+    background: var(--primary-color);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    margin-top: 0.5rem;
+    display: none;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.search-result-item {
+    padding: 1rem;
+    cursor: pointer;
+    border-bottom: 1px solid var(--border-color);
+    transition: background 0.2s ease;
+}
+
+.search-result-item:hover {
+    background: var(--hover-color);
+}
+
+.band-card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 2rem;
+    margin: 1rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.band-header {
+    margin-bottom: 1.5rem;
+}
+
+.band-header h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+}
+
+.origin-name {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.band-details {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.detail-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+}
+
+.value {
+    font-weight: 500;
+}
+
+.ma-link {
+    display: inline-block;
+    background: var(--accent-color);
+    color: white;
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background 0.2s ease;
+}
+
+.ma-link:hover {
+    background: #a01830;
+}
+
+.refresh-btn {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: transparent;
+    color: var(--text-color);
+    border: 2px solid var(--accent-color);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.2s ease;
+}
+
+.refresh-btn:hover {
+    background: var(--accent-color);
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-top: 4rem;
+    border-top: 1px solid var(--border-color);
+}
+
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+    
+    .band-details {
+        grid-template-columns: 1fr;
+    }
+    
+    .container {
+        padding: 0 1rem;
+    }
+}
