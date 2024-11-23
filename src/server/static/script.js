@@ -1,4 +1,4 @@
-// src/web/static/script.js
+// src/server/static/script.js
 document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.getElementById('search');
     const searchResults = document.getElementById('search-results');

@@ -1,5 +1,4 @@
 import unittest
-from pathlib import Path
 from src.extract_nouns import extract_proper_nouns
 
 class TestProperNounExtraction(unittest.TestCase):
