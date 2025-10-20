@@ -212,17 +212,16 @@ def generate_html_report(analysis: Dict, output_dir: str = "reports") -> str:
         f.write(html)
     return filepath
 
-def analyze_from_file(filename: str = "unique_proper_nouns.txt"):
+def analyze_from_file(filename: str = "reports/unique_proper_nouns.txt"):
     """Analyze all names from the proper nouns file."""
     analyzer = BandNameAnalyzer()
     os.makedirs("reports", exist_ok=True)
     print("Loading names from file...")
     with open(filename, 'r', encoding='utf-8') as f:
-        # Skip header lines
-        for line in f:
-            if line.startswith('='):
-                break
-        names = [line.strip() for line in f if line.strip()]
+        names = [
+            line.strip() for line in f
+            if line.strip() and not line.startswith('=')
+        ]
     print(f"Found {len(names)} names to analyze")
     for i, name in enumerate(names, 1):
         print(f"\nAnalyzing name {i}/{len(names)}: {name}")

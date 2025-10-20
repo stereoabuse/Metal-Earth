@@ -102,11 +102,11 @@ Then open your browser to `http://localhost:5000`
 ```
 project_root/
 ├── src/
-│   ├── web/                    # Web interface files
-│   │   ├── app.py             # Flask application
-│   │   ├── templates/         # HTML templates
+│   ├── server/                 # Web interface files
+│   │   ├── app.py              # Flask application
+│   │   ├── templates/          # HTML templates
 │   │   │   └── index.html
-│   │   └── static/           # CSS and JavaScript
+│   │   └── static/             # CSS and JavaScript
 │   │       ├── style.css
 │   │       └── script.js
 │   ├── band_name_tool.py      # Existing script
