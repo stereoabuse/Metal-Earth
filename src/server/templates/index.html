@@ -33,6 +33,7 @@
 
         <div class="random-band-section">
             <h2>Featured Band</h2>
+            {% if random_band %}
             <div class="band-card">
                 <div class="band-header">
                     <h3>{{ random_band['Band Name'] }}</h3>
@@ -73,6 +74,18 @@
             <button onclick="location.reload()" class="refresh-btn">
                 Discover Another Band
             </button>
+            {% else %}
+            <div class="band-card">
+                <div class="band-header">
+                    <h3>No band data loaded</h3>
+                </div>
+                <div class="band-details">
+                    <div class="detail-group">
+                        <span class="value">Run `python src/check_metal.py` to generate `reports/metal_band_matches.csv`.</span>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
         </div>
     </main>
 

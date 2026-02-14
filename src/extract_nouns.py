@@ -2,7 +2,7 @@ import requests
 from pathlib import Path
 
 def download_word_list():
-    """Download a list of common English words, with SSL verification handling."""
+    """Download a list of common English words."""
     word_list_urls = [
         'https://raw.githubusercontent.com/dwyl/english-words/master/words.txt',
         'https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english.txt'
@@ -14,7 +14,7 @@ def download_word_list():
     for url in word_list_urls:
         try:
             print(f"Downloading word list from {url}...")
-            response = requests.get(url, verify=False)  # verify=False is equivalent to the previous SSL context
+            response = requests.get(url, timeout=15)
             response.raise_for_status()  # Raise an exception for bad status codes
             content = response.text
             words.update(word.strip().lower() for word in content.split())
@@ -119,7 +119,9 @@ def main():
     sorted_nouns = sorted(proper_nouns)
     
     # Save results
-    with open('reports/unique_proper_nouns.txt', 'w') as f:
+    reports_dir = Path('reports')
+    reports_dir.mkdir(parents=True, exist_ok=True)
+    with open(reports_dir / 'unique_proper_nouns.txt', 'w', encoding='utf-8') as f:
         f.write('\n'.join(sorted_nouns))
     
     print("\nResults have been saved to 'reports/unique_proper_nouns.txt'")

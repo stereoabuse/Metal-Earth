@@ -33,7 +33,7 @@ The project consists of two main scripts:
 ### 1. Extract Proper Nouns
 
 ```bash
-python src/extract_proper_nouns.py
+python src/extract_nouns.py
 ```
 
 This will:
@@ -45,7 +45,7 @@ This will:
 ### 2. Check Metal Archives
 
 ```bash
-python src/metal_archives_checker.py
+python src/check_metal.py
 ```
 
 This will:
